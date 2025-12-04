@@ -1,0 +1,10 @@
+// 01.grif - GRIF format
+background.intro
+	@if @isfalse(@get(value.introdone)) @then
+		@set(value.introdone,true)
+		@writeline("Welcome to AoC 2025 Day 01")
+	@endif
+command.?
+	@writeline(@get(input.full))
+value.introdone
+	false
