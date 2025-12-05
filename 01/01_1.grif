@@ -30,6 +30,9 @@ command.?
 			@nl
 		@endif
 	@endif
+command.end
+	@writeline("Final answer: ",@get(value.answer))
+	@setoutchannel("#GAMEOVER;")
 message.invalid
 	Invalid input
 value.answer
@@ -38,3 +41,5 @@ value.dial
 	50
 value.introdone
 	false
+verb.end
+	end,quit,exit,done
