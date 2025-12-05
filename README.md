@@ -7,7 +7,7 @@ It does have integer-based mathmatical functions, which will be used to solve as
 puzzles as possible.
 
 It also serves as a test for the language. There are missing functions and some bugs which
-hopefully can be added/solved in preparation for solving these puzzles.
+hopefully can be added/fixed in preparation for solving these puzzles.
 
 To run the scripts, put the test or live data into text files and use them as input.
 
