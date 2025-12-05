@@ -11,6 +11,8 @@ hopefully can be added/solved in preparation for solving these puzzles.
 
 To run the scripts, put the test or live data into text files and use them as input.
 
-```Grif.exe 01_1.grif -i 01_test.txt
+```
+Grif.exe 01_1.grif -i 01_test.txt
+```
 
 Then use "end" to get the final answer to the puzzle.
