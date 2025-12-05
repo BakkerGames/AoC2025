@@ -1,0 +1,55 @@
+// 01_2.grif - GRIF format
+background.intro
+	@if @isfalse(@get(value.introdone)) @then
+		@set(value.introdone,true)
+		@writeline("Welcome to AoC 2025 Day 1 Part 2")
+		@nl
+		@writeline("Dial is now at ",@get(value.dial))
+	@endif
+command.?
+	@if @lt(@len(@get(input.full)),2) @then
+		@msg(message.invalid)
+	@else
+		@set(value.dir,@substring(@get(input.full),0,1))
+		@set(value.clicks,@substring(@get(input.full),1))
+		@if @ne(@get(value.dir),"L") @and @ne(@get(value.dir),"R") @then
+			@msg(message.invalid)
+		@elseif @not @isnumber(@get(value.clicks)) @then
+			@msg(message.invalid)
+		@else
+			@if @eq(@get(value.dir),"L") @then
+				@negto(value.clicks)
+			@endif
+			@set(value.last,@get(value.dial))
+			@addto(value.dial,@get(value.clicks))
+			@writeline("value.dial = ",@get(value.dial))
+			@if @eq(@get(value.dial),0) @then
+				@addto(value.answer,1)
+			@elseif @lt(@get(value.dial),0) @then
+				@if @ne(@get(value.last),0) @then
+					@addto(value.answer,1)
+				@endif
+				@addto(value.answer,@div(@abs(@get(value.dial)),100))
+				@modto(value.dial,100)
+			@else
+				@addto(value.answer,@div(@get(value.dial),100))
+				@modto(value.dial,100)
+			@endif
+			@writeline("value.dial   = ",@get(value.dial))
+			@writeline("value.answer = ",@get(value.answer))
+			@nl
+		@endif
+	@endif
+command.end
+	@writeline("Final answer: ",@get(value.answer))
+	@setoutchannel("#GAMEOVER;")
+message.invalid
+	Invalid input
+value.answer
+	0
+value.dial
+	50
+value.introdone
+	false
+verb.end
+	end,quit,exit,done
