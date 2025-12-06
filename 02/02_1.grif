@@ -1,0 +1,19 @@
+// 02_1.grif - GRIF format
+background.intro
+	@if @isfalse(@get(value.introdone)) @then
+		@set(value.introdone,true)
+		@writeline("Welcome to AoC 2025 Day 2 Part 1")
+	@endif
+command.?
+	@writeline("Input = ",@get(input.full))
+command.end
+	@writeline("Final answer: ",@get(value.answer))
+	@setoutchannel("#GAMEOVER;")
+message.invalid
+	Invalid input
+value.answer
+	0
+value.introdone
+	false
+verb.end
+	end,quit,exit,done
