@@ -2,7 +2,8 @@
 background.intro
 	@if @isfalse(@get(value.introdone)) @then
 		@set(value.introdone,true)
-		@writeline("Welcome to AoC 2025 Day ZZ Part 2")
+		@writeline("Welcome to ",@get(system.gametitle))
+		@nl
 	@endif
 command.?
 	@writeline("Input = ",@get(input.full))
@@ -11,6 +12,10 @@ command.end
 	@setoutchannel("#GAMEOVER;")
 message.invalid
 	Invalid input
+system.gamename
+	AoC_2025_ZZ_2
+system.gametitle
+	Advent of Code 2025 - Day ZZ - Puzzle 2
 value.answer
 	0
 value.introdone

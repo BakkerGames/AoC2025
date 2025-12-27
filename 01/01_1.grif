@@ -1,9 +1,9 @@
-// 01.grif - GRIF format
+// 01_1.grif - GRIF format
 background.intro
 	@if @isfalse(@get(value.introdone)) @then
 		@set(value.introdone,true)
-		@writeline("Welcome to AoC 2025 Day 01")
-		@writeline("Dial is now at ",@get(value.dial))
+		@writeline("Welcome to ",@get(system.gametitle))
+		@nl
 	@endif
 command.?
 	@if @lt(@len(@get(input.full)),2) @then
@@ -35,6 +35,10 @@ command.end
 	@setoutchannel("#GAMEOVER;")
 message.invalid
 	Invalid input
+system.gamename
+	AoC2025_01_1
+system.gametitle
+	Advent of Code 2025 - Day 1 - Puzzle 1
 value.answer
 	0
 value.dial

@@ -2,7 +2,7 @@
 background.intro
 	@if @isfalse(@get(value.introdone)) @then
 		@set(value.introdone,true)
-		@writeline("Welcome to AoC 2025 Day 1 Part 2")
+		@writeline("Welcome to ",@get(system.gametitle))
 		@nl
 		@writeline("Dial is now at ",@get(value.dial))
 	@endif
@@ -45,6 +45,10 @@ command.end
 	@setoutchannel("#GAMEOVER;")
 message.invalid
 	Invalid input
+system.gamename
+	AoC2025_01_2
+system.gametitle
+	Advent of Code 2025 - Day 1 - Puzzle 2
 value.answer
 	0
 value.dial

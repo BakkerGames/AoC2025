@@ -35,7 +35,7 @@ command.end
 message.invalid
 	Invalid input
 system.gamename
-	AoC_2025_2_2
+	AoC_2025_02_2
 system.gametitle
 	Advent of Code 2025 - Day 2 - Puzzle 2
 value.answer
