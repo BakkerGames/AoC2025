@@ -5,7 +5,23 @@ background.intro
 		@writeline("Welcome to AoC 2025 Day 2 Part 2")
 	@endif
 command.?
+	@comment("get the input, a range of two values separated by -")
 	@writeline("Input = ",@get(input.full))
+	@comment("get the two values into a list separated by comma")
+	@set(value.range,@replace(@get(input.full),"-",","))
+	@comment("output all the values in the range")
+	@for(i,@getlist(value.range,0),@getlist(value.range,1))
+		@comment("values are invalid if the first half equals the second half")
+		@if @eq(@mod(@len($i),2),0) @then
+			@set(value.first,@substring($i,0,@div(@len($i),2)))
+			@set(value.second,@substring($i,@div(@len($i),2)))
+			@if @eq(@get(value.first),@get(value.second)) @then
+				@writeline($i,": ",@get(value.first)," - ",@get(value.second)," - Invalid")
+				@addto(value.answer,$i)
+			@endif
+		@endif
+	@endfor
+	@nl
 command.end
 	@writeline("Final answer: ",@get(value.answer))
 	@setoutchannel("#GAMEOVER;")

@@ -1,8 +1,0 @@
-[
-  {
-    "Key": "command.?",
-    "Action": "C",
-    "Value": "@comment( \u0022get the input, a range of two values separated by -\u0022 ) @writeline( \u0022Input = \u0022 ,@get( input.full ) ) @comment( \u0022get the two values into a list separated by comma\u0022 ) @set( value.range ,@replace(@get( input.full ) , \u0022-\u0022 , \u0022,\u0022 ) ) @comment( \u0022output all the values in the range\u0022 ) @for( i ,@getlist( value.range , 0 ) ,@getlist( value.range , 1 ) ) @comment( \u0022values are invalid if the first half equals the second half\u0022 ) @if @eq(@mod(@len( $i ) , 2 ) , 0 ) @then @set( value.first ,@substring( $i , 0 ,@div(@len( $i ) , 2 ) ) ) @set( value.second ,@substring( $i ,@div(@len( $i ) , 2 ) ) ) @if @eq(@get( value.first ) ,@get( value.second ) ) @then @writeline( $i , \u0022: \u0022 ,@get( value.first ) , \u0022 - \u0022 ,@get( value.second ) , \u0022 - Invalid\u0022 ) @addto( value.answer , $i ) @endif @endif @endfor @nl",
-    "OldKey": null
-  }
-]
