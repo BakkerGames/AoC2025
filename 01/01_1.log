@@ -1,0 +1,22314 @@
+Welcome to Advent of Code 2025 - Day 1 - Puzzle 1
+
+L50
+clicks: -50
+dial:   0
+answer: 1
+
+L9
+clicks: -9
+dial:   91
+answer: 1
+
+L2
+clicks: -2
+dial:   89
+answer: 1
+
+R42
+clicks: 42
+dial:   31
+answer: 1
+
+R41
+clicks: 41
+dial:   72
+answer: 1
+
+R5
+clicks: 5
+dial:   77
+answer: 1
+
+R23
+clicks: 23
+dial:   0
+answer: 2
+
+L26
+clicks: -26
+dial:   74
+answer: 2
+
+R13
+clicks: 13
+dial:   87
+answer: 2
+
+R3
+clicks: 3
+dial:   90
+answer: 2
+
+R22
+clicks: 22
+dial:   12
+answer: 2
+
+R35
+clicks: 35
+dial:   47
+answer: 2
+
+R48
+clicks: 48
+dial:   95
+answer: 2
+
+R3
+clicks: 3
+dial:   98
+answer: 2
+
+L12
+clicks: -12
+dial:   86
+answer: 2
+
+L50
+clicks: -50
+dial:   36
+answer: 2
+
+L46
+clicks: -46
+dial:   90
+answer: 2
+
+R18
+clicks: 18
+dial:   8
+answer: 2
+
+R24
+clicks: 24
+dial:   32
+answer: 2
+
+L10
+clicks: -10
+dial:   22
+answer: 2
+
+L34
+clicks: -34
+dial:   88
+answer: 2
+
+L12
+clicks: -12
+dial:   76
+answer: 2
+
+L31
+clicks: -31
+dial:   45
+answer: 2
+
+L5
+clicks: -5
+dial:   40
+answer: 2
+
+L20
+clicks: -20
+dial:   20
+answer: 2
+
+R9
+clicks: 9
+dial:   29
+answer: 2
+
+L34
+clicks: -34
+dial:   95
+answer: 2
+
+R23
+clicks: 23
+dial:   18
+answer: 2
+
+R6
+clicks: 6
+dial:   24
+answer: 2
+
+R11
+clicks: 11
+dial:   35
+answer: 2
+
+R26
+clicks: 26
+dial:   61
+answer: 2
+
+L13
+clicks: -13
+dial:   48
+answer: 2
+
+L8
+clicks: -8
+dial:   40
+answer: 2
+
+L8
+clicks: -8
+dial:   32
+answer: 2
+
+R43
+clicks: 43
+dial:   75
+answer: 2
+
+L43
+clicks: -43
+dial:   32
+answer: 2
+
+L11
+clicks: -11
+dial:   21
+answer: 2
+
+R41
+clicks: 41
+dial:   62
+answer: 2
+
+L40
+clicks: -40
+dial:   22
+answer: 2
+
+L11
+clicks: -11
+dial:   11
+answer: 2
+
+R29
+clicks: 29
+dial:   40
+answer: 2
+
+L24
+clicks: -24
+dial:   16
+answer: 2
+
+L41
+clicks: -41
+dial:   75
+answer: 2
+
+L4
+clicks: -4
+dial:   71
+answer: 2
+
+L17
+clicks: -17
+dial:   54
+answer: 2
+
+R45
+clicks: 45
+dial:   99
+answer: 2
+
+R22
+clicks: 22
+dial:   21
+answer: 2
+
+L1
+clicks: -1
+dial:   20
+answer: 2
+
+R38
+clicks: 38
+dial:   58
+answer: 2
+
+R42
+clicks: 42
+dial:   0
+answer: 3
+
+R27
+clicks: 27
+dial:   27
+answer: 3
+
+R75
+clicks: 75
+dial:   2
+answer: 3
+
+L86
+clicks: -86
+dial:   16
+answer: 3
+
+R46
+clicks: 46
+dial:   62
+answer: 3
+
+R31
+clicks: 31
+dial:   93
+answer: 3
+
+R7
+clicks: 7
+dial:   0
+answer: 4
+
+L67
+clicks: -67
+dial:   33
+answer: 4
+
+R67
+clicks: 67
+dial:   0
+answer: 5
+
+L8
+clicks: -8
+dial:   92
+answer: 5
+
+L41
+clicks: -41
+dial:   51
+answer: 5
+
+R80
+clicks: 80
+dial:   31
+answer: 5
+
+R5
+clicks: 5
+dial:   36
+answer: 5
+
+R89
+clicks: 89
+dial:   25
+answer: 5
+
+R33
+clicks: 33
+dial:   58
+answer: 5
+
+R74
+clicks: 74
+dial:   32
+answer: 5
+
+L84
+clicks: -84
+dial:   48
+answer: 5
+
+L2
+clicks: -2
+dial:   46
+answer: 5
+
+R77
+clicks: 77
+dial:   23
+answer: 5
+
+R8
+clicks: 8
+dial:   31
+answer: 5
+
+L31
+clicks: -31
+dial:   0
+answer: 6
+
+L12
+clicks: -12
+dial:   88
+answer: 6
+
+R51
+clicks: 51
+dial:   39
+answer: 6
+
+R91
+clicks: 91
+dial:   30
+answer: 6
+
+R88
+clicks: 88
+dial:   18
+answer: 6
+
+L26
+clicks: -26
+dial:   92
+answer: 6
+
+R55
+clicks: 55
+dial:   47
+answer: 6
+
+L45
+clicks: -45
+dial:   2
+answer: 6
+
+L2
+clicks: -2
+dial:   0
+answer: 7
+
+L31
+clicks: -31
+dial:   69
+answer: 7
+
+R82
+clicks: 82
+dial:   51
+answer: 7
+
+R3
+clicks: 3
+dial:   54
+answer: 7
+
+R46
+clicks: 46
+dial:   0
+answer: 8
+
+L70
+clicks: -70
+dial:   30
+answer: 8
+
+R53
+clicks: 53
+dial:   83
+answer: 8
+
+R87
+clicks: 87
+dial:   70
+answer: 8
+
+R7
+clicks: 7
+dial:   77
+answer: 8
+
+R53
+clicks: 53
+dial:   30
+answer: 8
+
+R84
+clicks: 84
+dial:   14
+answer: 8
+
+L7
+clicks: -7
+dial:   7
+answer: 8
+
+R76
+clicks: 76
+dial:   83
+answer: 8
+
+R17
+clicks: 17
+dial:   0
+answer: 9
+
+R81
+clicks: 81
+dial:   81
+answer: 9
+
+L71
+clicks: -71
+dial:   10
+answer: 9
+
+L80
+clicks: -80
+dial:   30
+answer: 9
+
+L69
+clicks: -69
+dial:   61
+answer: 9
+
+R7
+clicks: 7
+dial:   68
+answer: 9
+
+L73
+clicks: -73
+dial:   95
+answer: 9
+
+L34
+clicks: -34
+dial:   61
+answer: 9
+
+L17
+clicks: -17
+dial:   44
+answer: 9
+
+L78
+clicks: -78
+dial:   66
+answer: 9
+
+R92
+clicks: 92
+dial:   58
+answer: 9
+
+R42
+clicks: 42
+dial:   0
+answer: 10
+
+L1
+clicks: -1
+dial:   99
+answer: 10
+
+R1
+clicks: 1
+dial:   0
+answer: 11
+
+R11
+clicks: 11
+dial:   11
+answer: 11
+
+L8
+clicks: -8
+dial:   3
+answer: 11
+
+L3
+clicks: -3
+dial:   0
+answer: 12
+
+R675
+clicks: 675
+dial:   75
+answer: 12
+
+R48
+clicks: 48
+dial:   23
+answer: 12
+
+L23
+clicks: -23
+dial:   0
+answer: 13
+
+R25
+clicks: 25
+dial:   25
+answer: 13
+
+R60
+clicks: 60
+dial:   85
+answer: 13
+
+L578
+clicks: -578
+dial:   7
+answer: 13
+
+R93
+clicks: 93
+dial:   0
+answer: 14
+
+L29
+clicks: -29
+dial:   71
+answer: 14
+
+L71
+clicks: -71
+dial:   0
+answer: 15
+
+R273
+clicks: 273
+dial:   73
+answer: 15
+
+L69
+clicks: -69
+dial:   4
+answer: 15
+
+L67
+clicks: -67
+dial:   37
+answer: 15
+
+L937
+clicks: -937
+dial:   0
+answer: 16
+
+R66
+clicks: 66
+dial:   66
+answer: 16
+
+L66
+clicks: -66
+dial:   0
+answer: 17
+
+R13
+clicks: 13
+dial:   13
+answer: 17
+
+R88
+clicks: 88
+dial:   1
+answer: 17
+
+R30
+clicks: 30
+dial:   31
+answer: 17
+
+R69
+clicks: 69
+dial:   0
+answer: 18
+
+R24
+clicks: 24
+dial:   24
+answer: 18
+
+R22
+clicks: 22
+dial:   46
+answer: 18
+
+R61
+clicks: 61
+dial:   7
+answer: 18
+
+R521
+clicks: 521
+dial:   28
+answer: 18
+
+L23
+clicks: -23
+dial:   5
+answer: 18
+
+R95
+clicks: 95
+dial:   0
+answer: 19
+
+L73
+clicks: -73
+dial:   27
+answer: 19
+
+L47
+clicks: -47
+dial:   80
+answer: 19
+
+L80
+clicks: -80
+dial:   0
+answer: 20
+
+R366
+clicks: 366
+dial:   66
+answer: 20
+
+R592
+clicks: 592
+dial:   58
+answer: 20
+
+L357
+clicks: -357
+dial:   1
+answer: 20
+
+R88
+clicks: 88
+dial:   89
+answer: 20
+
+L859
+clicks: -859
+dial:   30
+answer: 20
+
+L77
+clicks: -77
+dial:   53
+answer: 20
+
+L53
+clicks: -53
+dial:   0
+answer: 21
+
+L64
+clicks: -64
+dial:   36
+answer: 21
+
+L36
+clicks: -36
+dial:   0
+answer: 22
+
+L13
+clicks: -13
+dial:   87
+answer: 22
+
+R48
+clicks: 48
+dial:   35
+answer: 22
+
+R65
+clicks: 65
+dial:   0
+answer: 23
+
+R563
+clicks: 563
+dial:   63
+answer: 23
+
+L9
+clicks: -9
+dial:   54
+answer: 23
+
+R46
+clicks: 46
+dial:   0
+answer: 24
+
+L59
+clicks: -59
+dial:   41
+answer: 24
+
+R1
+clicks: 1
+dial:   42
+answer: 24
+
+R656
+clicks: 656
+dial:   98
+answer: 24
+
+L30
+clicks: -30
+dial:   68
+answer: 24
+
+L68
+clicks: -68
+dial:   0
+answer: 25
+
+R95
+clicks: 95
+dial:   95
+answer: 25
+
+L19
+clicks: -19
+dial:   76
+answer: 25
+
+L84
+clicks: -84
+dial:   92
+answer: 25
+
+R65
+clicks: 65
+dial:   57
+answer: 25
+
+R708
+clicks: 708
+dial:   65
+answer: 25
+
+L50
+clicks: -50
+dial:   15
+answer: 25
+
+R585
+clicks: 585
+dial:   0
+answer: 26
+
+L17
+clicks: -17
+dial:   83
+answer: 26
+
+L47
+clicks: -47
+dial:   36
+answer: 26
+
+R64
+clicks: 64
+dial:   0
+answer: 27
+
+R97
+clicks: 97
+dial:   97
+answer: 27
+
+L89
+clicks: -89
+dial:   8
+answer: 27
+
+L82
+clicks: -82
+dial:   26
+answer: 27
+
+R74
+clicks: 74
+dial:   0
+answer: 28
+
+L69
+clicks: -69
+dial:   31
+answer: 28
+
+L31
+clicks: -31
+dial:   0
+answer: 29
+
+L67
+clicks: -67
+dial:   33
+answer: 29
+
+L231
+clicks: -231
+dial:   2
+answer: 29
+
+L22
+clicks: -22
+dial:   80
+answer: 29
+
+L28
+clicks: -28
+dial:   52
+answer: 29
+
+L61
+clicks: -61
+dial:   91
+answer: 29
+
+R855
+clicks: 855
+dial:   46
+answer: 29
+
+R71
+clicks: 71
+dial:   17
+answer: 29
+
+R60
+clicks: 60
+dial:   77
+answer: 29
+
+L632
+clicks: -632
+dial:   45
+answer: 29
+
+L77
+clicks: -77
+dial:   68
+answer: 29
+
+L99
+clicks: -99
+dial:   69
+answer: 29
+
+L69
+clicks: -69
+dial:   0
+answer: 30
+
+L63
+clicks: -63
+dial:   37
+answer: 30
+
+L37
+clicks: -37
+dial:   0
+answer: 31
+
+R616
+clicks: 616
+dial:   16
+answer: 31
+
+L16
+clicks: -16
+dial:   0
+answer: 32
+
+R70
+clicks: 70
+dial:   70
+answer: 32
+
+R11
+clicks: 11
+dial:   81
+answer: 32
+
+L35
+clicks: -35
+dial:   46
+answer: 32
+
+L922
+clicks: -922
+dial:   24
+answer: 32
+
+L82
+clicks: -82
+dial:   42
+answer: 32
+
+R76
+clicks: 76
+dial:   18
+answer: 32
+
+R92
+clicks: 92
+dial:   10
+answer: 32
+
+R90
+clicks: 90
+dial:   0
+answer: 33
+
+R16
+clicks: 16
+dial:   16
+answer: 33
+
+R84
+clicks: 84
+dial:   0
+answer: 34
+
+L67
+clicks: -67
+dial:   33
+answer: 34
+
+L67
+clicks: -67
+dial:   66
+answer: 34
+
+L166
+clicks: -166
+dial:   0
+answer: 35
+
+R18
+clicks: 18
+dial:   18
+answer: 35
+
+R182
+clicks: 182
+dial:   0
+answer: 36
+
+R22
+clicks: 22
+dial:   22
+answer: 36
+
+R394
+clicks: 394
+dial:   16
+answer: 36
+
+R66
+clicks: 66
+dial:   82
+answer: 36
+
+L5
+clicks: -5
+dial:   77
+answer: 36
+
+R528
+clicks: 528
+dial:   5
+answer: 36
+
+R539
+clicks: 539
+dial:   44
+answer: 36
+
+L82
+clicks: -82
+dial:   62
+answer: 36
+
+R859
+clicks: 859
+dial:   21
+answer: 36
+
+L21
+clicks: -21
+dial:   0
+answer: 37
+
+R15
+clicks: 15
+dial:   15
+answer: 37
+
+L13
+clicks: -13
+dial:   2
+answer: 37
+
+R93
+clicks: 93
+dial:   95
+answer: 37
+
+L44
+clicks: -44
+dial:   51
+answer: 37
+
+R13
+clicks: 13
+dial:   64
+answer: 37
+
+R490
+clicks: 490
+dial:   54
+answer: 37
+
+R46
+clicks: 46
+dial:   0
+answer: 38
+
+R44
+clicks: 44
+dial:   44
+answer: 38
+
+R21
+clicks: 21
+dial:   65
+answer: 38
+
+R35
+clicks: 35
+dial:   0
+answer: 39
+
+R616
+clicks: 616
+dial:   16
+answer: 39
+
+L16
+clicks: -16
+dial:   0
+answer: 40
+
+L16
+clicks: -16
+dial:   84
+answer: 40
+
+R16
+clicks: 16
+dial:   0
+answer: 41
+
+R88
+clicks: 88
+dial:   88
+answer: 41
+
+R64
+clicks: 64
+dial:   52
+answer: 41
+
+L73
+clicks: -73
+dial:   79
+answer: 41
+
+L80
+clicks: -80
+dial:   99
+answer: 41
+
+L99
+clicks: -99
+dial:   0
+answer: 42
+
+R59
+clicks: 59
+dial:   59
+answer: 42
+
+R541
+clicks: 541
+dial:   0
+answer: 43
+
+L61
+clicks: -61
+dial:   39
+answer: 43
+
+R86
+clicks: 86
+dial:   25
+answer: 43
+
+R41
+clicks: 41
+dial:   66
+answer: 43
+
+R32
+clicks: 32
+dial:   98
+answer: 43
+
+L98
+clicks: -98
+dial:   0
+answer: 44
+
+R42
+clicks: 42
+dial:   42
+answer: 44
+
+R58
+clicks: 58
+dial:   0
+answer: 45
+
+R68
+clicks: 68
+dial:   68
+answer: 45
+
+R783
+clicks: 783
+dial:   51
+answer: 45
+
+L57
+clicks: -57
+dial:   94
+answer: 45
+
+R54
+clicks: 54
+dial:   48
+answer: 45
+
+L41
+clicks: -41
+dial:   7
+answer: 45
+
+L63
+clicks: -63
+dial:   44
+answer: 45
+
+L38
+clicks: -38
+dial:   6
+answer: 45
+
+R60
+clicks: 60
+dial:   66
+answer: 45
+
+L69
+clicks: -69
+dial:   97
+answer: 45
+
+L797
+clicks: -797
+dial:   0
+answer: 46
+
+R56
+clicks: 56
+dial:   56
+answer: 46
+
+R2
+clicks: 2
+dial:   58
+answer: 46
+
+R42
+clicks: 42
+dial:   0
+answer: 47
+
+R63
+clicks: 63
+dial:   63
+answer: 47
+
+L63
+clicks: -63
+dial:   0
+answer: 48
+
+R84
+clicks: 84
+dial:   84
+answer: 48
+
+R71
+clicks: 71
+dial:   55
+answer: 48
+
+R45
+clicks: 45
+dial:   0
+answer: 49
+
+R29
+clicks: 29
+dial:   29
+answer: 49
+
+L1
+clicks: -1
+dial:   28
+answer: 49
+
+R343
+clicks: 343
+dial:   71
+answer: 49
+
+L71
+clicks: -71
+dial:   0
+answer: 50
+
+R3
+clicks: 3
+dial:   3
+answer: 50
+
+L81
+clicks: -81
+dial:   22
+answer: 50
+
+L22
+clicks: -22
+dial:   0
+answer: 51
+
+R610
+clicks: 610
+dial:   10
+answer: 51
+
+L10
+clicks: -10
+dial:   0
+answer: 52
+
+R63
+clicks: 63
+dial:   63
+answer: 52
+
+R53
+clicks: 53
+dial:   16
+answer: 52
+
+L85
+clicks: -85
+dial:   31
+answer: 52
+
+L95
+clicks: -95
+dial:   36
+answer: 52
+
+R852
+clicks: 852
+dial:   88
+answer: 52
+
+L21
+clicks: -21
+dial:   67
+answer: 52
+
+R97
+clicks: 97
+dial:   64
+answer: 52
+
+R36
+clicks: 36
+dial:   0
+answer: 53
+
+R21
+clicks: 21
+dial:   21
+answer: 53
+
+L16
+clicks: -16
+dial:   5
+answer: 53
+
+L5
+clicks: -5
+dial:   0
+answer: 54
+
+L99
+clicks: -99
+dial:   1
+answer: 54
+
+R99
+clicks: 99
+dial:   0
+answer: 55
+
+L41
+clicks: -41
+dial:   59
+answer: 55
+
+L31
+clicks: -31
+dial:   28
+answer: 55
+
+L76
+clicks: -76
+dial:   52
+answer: 55
+
+R90
+clicks: 90
+dial:   42
+answer: 55
+
+L66
+clicks: -66
+dial:   76
+answer: 55
+
+L77
+clicks: -77
+dial:   99
+answer: 55
+
+L52
+clicks: -52
+dial:   47
+answer: 55
+
+R27
+clicks: 27
+dial:   74
+answer: 55
+
+L90
+clicks: -90
+dial:   84
+answer: 55
+
+R16
+clicks: 16
+dial:   0
+answer: 56
+
+R41
+clicks: 41
+dial:   41
+answer: 56
+
+L18
+clicks: -18
+dial:   23
+answer: 56
+
+R77
+clicks: 77
+dial:   0
+answer: 57
+
+R95
+clicks: 95
+dial:   95
+answer: 57
+
+R4
+clicks: 4
+dial:   99
+answer: 57
+
+R15
+clicks: 15
+dial:   14
+answer: 57
+
+L27
+clicks: -27
+dial:   87
+answer: 57
+
+R13
+clicks: 13
+dial:   0
+answer: 58
+
+L85
+clicks: -85
+dial:   15
+answer: 58
+
+R85
+clicks: 85
+dial:   0
+answer: 59
+
+R180
+clicks: 180
+dial:   80
+answer: 59
+
+R75
+clicks: 75
+dial:   55
+answer: 59
+
+L34
+clicks: -34
+dial:   21
+answer: 59
+
+R79
+clicks: 79
+dial:   0
+answer: 60
+
+R53
+clicks: 53
+dial:   53
+answer: 60
+
+R47
+clicks: 47
+dial:   0
+answer: 61
+
+R12
+clicks: 12
+dial:   12
+answer: 61
+
+R87
+clicks: 87
+dial:   99
+answer: 61
+
+L99
+clicks: -99
+dial:   0
+answer: 62
+
+R92
+clicks: 92
+dial:   92
+answer: 62
+
+L92
+clicks: -92
+dial:   0
+answer: 63
+
+R85
+clicks: 85
+dial:   85
+answer: 63
+
+L85
+clicks: -85
+dial:   0
+answer: 64
+
+R21
+clicks: 21
+dial:   21
+answer: 64
+
+R93
+clicks: 93
+dial:   14
+answer: 64
+
+L14
+clicks: -14
+dial:   0
+answer: 65
+
+L5
+clicks: -5
+dial:   95
+answer: 65
+
+L41
+clicks: -41
+dial:   54
+answer: 65
+
+R69
+clicks: 69
+dial:   23
+answer: 65
+
+L23
+clicks: -23
+dial:   0
+answer: 66
+
+L38
+clicks: -38
+dial:   62
+answer: 66
+
+R94
+clicks: 94
+dial:   56
+answer: 66
+
+L56
+clicks: -56
+dial:   0
+answer: 67
+
+L7
+clicks: -7
+dial:   93
+answer: 67
+
+R254
+clicks: 254
+dial:   47
+answer: 67
+
+L47
+clicks: -47
+dial:   0
+answer: 68
+
+R672
+clicks: 672
+dial:   72
+answer: 68
+
+L72
+clicks: -72
+dial:   0
+answer: 69
+
+R77
+clicks: 77
+dial:   77
+answer: 69
+
+R23
+clicks: 23
+dial:   0
+answer: 70
+
+L93
+clicks: -93
+dial:   7
+answer: 70
+
+L7
+clicks: -7
+dial:   0
+answer: 71
+
+R7
+clicks: 7
+dial:   7
+answer: 71
+
+L69
+clicks: -69
+dial:   38
+answer: 71
+
+L93
+clicks: -93
+dial:   45
+answer: 71
+
+L18
+clicks: -18
+dial:   27
+answer: 71
+
+L40
+clicks: -40
+dial:   87
+answer: 71
+
+L59
+clicks: -59
+dial:   28
+answer: 71
+
+R62
+clicks: 62
+dial:   90
+answer: 71
+
+R7
+clicks: 7
+dial:   97
+answer: 71
+
+R3
+clicks: 3
+dial:   0
+answer: 72
+
+L87
+clicks: -87
+dial:   13
+answer: 72
+
+R83
+clicks: 83
+dial:   96
+answer: 72
+
+L752
+clicks: -752
+dial:   44
+answer: 72
+
+L54
+clicks: -54
+dial:   90
+answer: 72
+
+R910
+clicks: 910
+dial:   0
+answer: 73
+
+R296
+clicks: 296
+dial:   96
+answer: 73
+
+L85
+clicks: -85
+dial:   11
+answer: 73
+
+R89
+clicks: 89
+dial:   0
+answer: 74
+
+R20
+clicks: 20
+dial:   20
+answer: 74
+
+R24
+clicks: 24
+dial:   44
+answer: 74
+
+L44
+clicks: -44
+dial:   0
+answer: 75
+
+L66
+clicks: -66
+dial:   34
+answer: 75
+
+R99
+clicks: 99
+dial:   33
+answer: 75
+
+R267
+clicks: 267
+dial:   0
+answer: 76
+
+R78
+clicks: 78
+dial:   78
+answer: 76
+
+L78
+clicks: -78
+dial:   0
+answer: 77
+
+R83
+clicks: 83
+dial:   83
+answer: 77
+
+R915
+clicks: 915
+dial:   98
+answer: 77
+
+R84
+clicks: 84
+dial:   82
+answer: 77
+
+R13
+clicks: 13
+dial:   95
+answer: 77
+
+L37
+clicks: -37
+dial:   58
+answer: 77
+
+R56
+clicks: 56
+dial:   14
+answer: 77
+
+L14
+clicks: -14
+dial:   0
+answer: 78
+
+R25
+clicks: 25
+dial:   25
+answer: 78
+
+R62
+clicks: 62
+dial:   87
+answer: 78
+
+L87
+clicks: -87
+dial:   0
+answer: 79
+
+R91
+clicks: 91
+dial:   91
+answer: 79
+
+L91
+clicks: -91
+dial:   0
+answer: 80
+
+L33
+clicks: -33
+dial:   67
+answer: 80
+
+R92
+clicks: 92
+dial:   59
+answer: 80
+
+R41
+clicks: 41
+dial:   0
+answer: 81
+
+R847
+clicks: 847
+dial:   47
+answer: 81
+
+R53
+clicks: 53
+dial:   0
+answer: 82
+
+L68
+clicks: -68
+dial:   32
+answer: 82
+
+R37
+clicks: 37
+dial:   69
+answer: 82
+
+L841
+clicks: -841
+dial:   28
+answer: 82
+
+R17
+clicks: 17
+dial:   45
+answer: 82
+
+R22
+clicks: 22
+dial:   67
+answer: 82
+
+L98
+clicks: -98
+dial:   69
+answer: 82
+
+R631
+clicks: 631
+dial:   0
+answer: 83
+
+L27
+clicks: -27
+dial:   73
+answer: 83
+
+R177
+clicks: 177
+dial:   50
+answer: 83
+
+R450
+clicks: 450
+dial:   0
+answer: 84
+
+R448
+clicks: 448
+dial:   48
+answer: 84
+
+L3
+clicks: -3
+dial:   45
+answer: 84
+
+L45
+clicks: -45
+dial:   0
+answer: 85
+
+L62
+clicks: -62
+dial:   38
+answer: 85
+
+R62
+clicks: 62
+dial:   0
+answer: 86
+
+L36
+clicks: -36
+dial:   64
+answer: 86
+
+R3
+clicks: 3
+dial:   67
+answer: 86
+
+R2
+clicks: 2
+dial:   69
+answer: 86
+
+R31
+clicks: 31
+dial:   0
+answer: 87
+
+R93
+clicks: 93
+dial:   93
+answer: 87
+
+R36
+clicks: 36
+dial:   29
+answer: 87
+
+R663
+clicks: 663
+dial:   92
+answer: 87
+
+R14
+clicks: 14
+dial:   6
+answer: 87
+
+L91
+clicks: -91
+dial:   15
+answer: 87
+
+R946
+clicks: 946
+dial:   61
+answer: 87
+
+R441
+clicks: 441
+dial:   2
+answer: 87
+
+L56
+clicks: -56
+dial:   46
+answer: 87
+
+L5
+clicks: -5
+dial:   41
+answer: 87
+
+R459
+clicks: 459
+dial:   0
+answer: 88
+
+L965
+clicks: -965
+dial:   35
+answer: 88
+
+R695
+clicks: 695
+dial:   30
+answer: 88
+
+L358
+clicks: -358
+dial:   72
+answer: 88
+
+L99
+clicks: -99
+dial:   73
+answer: 88
+
+L16
+clicks: -16
+dial:   57
+answer: 88
+
+R171
+clicks: 171
+dial:   28
+answer: 88
+
+R72
+clicks: 72
+dial:   0
+answer: 89
+
+L24
+clicks: -24
+dial:   76
+answer: 89
+
+R9
+clicks: 9
+dial:   85
+answer: 89
+
+L85
+clicks: -85
+dial:   0
+answer: 90
+
+L42
+clicks: -42
+dial:   58
+answer: 90
+
+L463
+clicks: -463
+dial:   95
+answer: 90
+
+L52
+clicks: -52
+dial:   43
+answer: 90
+
+L46
+clicks: -46
+dial:   97
+answer: 90
+
+R3
+clicks: 3
+dial:   0
+answer: 91
+
+L83
+clicks: -83
+dial:   17
+answer: 91
+
+R83
+clicks: 83
+dial:   0
+answer: 92
+
+R415
+clicks: 415
+dial:   15
+answer: 92
+
+R8
+clicks: 8
+dial:   23
+answer: 92
+
+R94
+clicks: 94
+dial:   17
+answer: 92
+
+R83
+clicks: 83
+dial:   0
+answer: 93
+
+L58
+clicks: -58
+dial:   42
+answer: 93
+
+R962
+clicks: 962
+dial:   4
+answer: 93
+
+R96
+clicks: 96
+dial:   0
+answer: 94
+
+L8
+clicks: -8
+dial:   92
+answer: 94
+
+L983
+clicks: -983
+dial:   9
+answer: 94
+
+L9
+clicks: -9
+dial:   0
+answer: 95
+
+R92
+clicks: 92
+dial:   92
+answer: 95
+
+L14
+clicks: -14
+dial:   78
+answer: 95
+
+R22
+clicks: 22
+dial:   0
+answer: 96
+
+R69
+clicks: 69
+dial:   69
+answer: 96
+
+R70
+clicks: 70
+dial:   39
+answer: 96
+
+R456
+clicks: 456
+dial:   95
+answer: 96
+
+L721
+clicks: -721
+dial:   74
+answer: 96
+
+R249
+clicks: 249
+dial:   23
+answer: 96
+
+R37
+clicks: 37
+dial:   60
+answer: 96
+
+L660
+clicks: -660
+dial:   0
+answer: 97
+
+R48
+clicks: 48
+dial:   48
+answer: 97
+
+R52
+clicks: 52
+dial:   0
+answer: 98
+
+L79
+clicks: -79
+dial:   21
+answer: 98
+
+R79
+clicks: 79
+dial:   0
+answer: 99
+
+R878
+clicks: 878
+dial:   78
+answer: 99
+
+L78
+clicks: -78
+dial:   0
+answer: 100
+
+L65
+clicks: -65
+dial:   35
+answer: 100
+
+L35
+clicks: -35
+dial:   0
+answer: 101
+
+R66
+clicks: 66
+dial:   66
+answer: 101
+
+R31
+clicks: 31
+dial:   97
+answer: 101
+
+R83
+clicks: 83
+dial:   80
+answer: 101
+
+L608
+clicks: -608
+dial:   72
+answer: 101
+
+L57
+clicks: -57
+dial:   15
+answer: 101
+
+L15
+clicks: -15
+dial:   0
+answer: 102
+
+R96
+clicks: 96
+dial:   96
+answer: 102
+
+L96
+clicks: -96
+dial:   0
+answer: 103
+
+R76
+clicks: 76
+dial:   76
+answer: 103
+
+R2
+clicks: 2
+dial:   78
+answer: 103
+
+R699
+clicks: 699
+dial:   77
+answer: 103
+
+L609
+clicks: -609
+dial:   68
+answer: 103
+
+R30
+clicks: 30
+dial:   98
+answer: 103
+
+L82
+clicks: -82
+dial:   16
+answer: 103
+
+R31
+clicks: 31
+dial:   47
+answer: 103
+
+R53
+clicks: 53
+dial:   0
+answer: 104
+
+L51
+clicks: -51
+dial:   49
+answer: 104
+
+L247
+clicks: -247
+dial:   2
+answer: 104
+
+L68
+clicks: -68
+dial:   34
+answer: 104
+
+L59
+clicks: -59
+dial:   75
+answer: 104
+
+R812
+clicks: 812
+dial:   87
+answer: 104
+
+L427
+clicks: -427
+dial:   60
+answer: 104
+
+L60
+clicks: -60
+dial:   0
+answer: 105
+
+R13
+clicks: 13
+dial:   13
+answer: 105
+
+R87
+clicks: 87
+dial:   0
+answer: 106
+
+R81
+clicks: 81
+dial:   81
+answer: 106
+
+L18
+clicks: -18
+dial:   63
+answer: 106
+
+L763
+clicks: -763
+dial:   0
+answer: 107
+
+R89
+clicks: 89
+dial:   89
+answer: 107
+
+L5
+clicks: -5
+dial:   84
+answer: 107
+
+R264
+clicks: 264
+dial:   48
+answer: 107
+
+R1
+clicks: 1
+dial:   49
+answer: 107
+
+R951
+clicks: 951
+dial:   0
+answer: 108
+
+R789
+clicks: 789
+dial:   89
+answer: 108
+
+L1
+clicks: -1
+dial:   88
+answer: 108
+
+R439
+clicks: 439
+dial:   27
+answer: 108
+
+L332
+clicks: -332
+dial:   95
+answer: 108
+
+L44
+clicks: -44
+dial:   51
+answer: 108
+
+R12
+clicks: 12
+dial:   63
+answer: 108
+
+R37
+clicks: 37
+dial:   0
+answer: 109
+
+L67
+clicks: -67
+dial:   33
+answer: 109
+
+R33
+clicks: 33
+dial:   66
+answer: 109
+
+R4
+clicks: 4
+dial:   70
+answer: 109
+
+L70
+clicks: -70
+dial:   0
+answer: 110
+
+L92
+clicks: -92
+dial:   8
+answer: 110
+
+L71
+clicks: -71
+dial:   37
+answer: 110
+
+R63
+clicks: 63
+dial:   0
+answer: 111
+
+L43
+clicks: -43
+dial:   57
+answer: 111
+
+R73
+clicks: 73
+dial:   30
+answer: 111
+
+R70
+clicks: 70
+dial:   0
+answer: 112
+
+R13
+clicks: 13
+dial:   13
+answer: 112
+
+L45
+clicks: -45
+dial:   68
+answer: 112
+
+R40
+clicks: 40
+dial:   8
+answer: 112
+
+R37
+clicks: 37
+dial:   45
+answer: 112
+
+L90
+clicks: -90
+dial:   55
+answer: 112
+
+R45
+clicks: 45
+dial:   0
+answer: 113
+
+R44
+clicks: 44
+dial:   44
+answer: 113
+
+L44
+clicks: -44
+dial:   0
+answer: 114
+
+R15
+clicks: 15
+dial:   15
+answer: 114
+
+R37
+clicks: 37
+dial:   52
+answer: 114
+
+L30
+clicks: -30
+dial:   22
+answer: 114
+
+L22
+clicks: -22
+dial:   0
+answer: 115
+
+L357
+clicks: -357
+dial:   43
+answer: 115
+
+R55
+clicks: 55
+dial:   98
+answer: 115
+
+L30
+clicks: -30
+dial:   68
+answer: 115
+
+L92
+clicks: -92
+dial:   76
+answer: 115
+
+R12
+clicks: 12
+dial:   88
+answer: 115
+
+L88
+clicks: -88
+dial:   0
+answer: 116
+
+R71
+clicks: 71
+dial:   71
+answer: 116
+
+L24
+clicks: -24
+dial:   47
+answer: 116
+
+R53
+clicks: 53
+dial:   0
+answer: 117
+
+R987
+clicks: 987
+dial:   87
+answer: 117
+
+L54
+clicks: -54
+dial:   33
+answer: 117
+
+R578
+clicks: 578
+dial:   11
+answer: 117
+
+R52
+clicks: 52
+dial:   63
+answer: 117
+
+L63
+clicks: -63
+dial:   0
+answer: 118
+
+R581
+clicks: 581
+dial:   81
+answer: 118
+
+R619
+clicks: 619
+dial:   0
+answer: 119
+
+L33
+clicks: -33
+dial:   67
+answer: 119
+
+R33
+clicks: 33
+dial:   0
+answer: 120
+
+L82
+clicks: -82
+dial:   18
+answer: 120
+
+R682
+clicks: 682
+dial:   0
+answer: 121
+
+R411
+clicks: 411
+dial:   11
+answer: 121
+
+L17
+clicks: -17
+dial:   94
+answer: 121
+
+R84
+clicks: 84
+dial:   78
+answer: 121
+
+R22
+clicks: 22
+dial:   0
+answer: 122
+
+R49
+clicks: 49
+dial:   49
+answer: 122
+
+R407
+clicks: 407
+dial:   56
+answer: 122
+
+R67
+clicks: 67
+dial:   23
+answer: 122
+
+L323
+clicks: -323
+dial:   0
+answer: 123
+
+R180
+clicks: 180
+dial:   80
+answer: 123
+
+R20
+clicks: 20
+dial:   0
+answer: 124
+
+R74
+clicks: 74
+dial:   74
+answer: 124
+
+L24
+clicks: -24
+dial:   50
+answer: 124
+
+L4
+clicks: -4
+dial:   46
+answer: 124
+
+R836
+clicks: 836
+dial:   82
+answer: 124
+
+R72
+clicks: 72
+dial:   54
+answer: 124
+
+R46
+clicks: 46
+dial:   0
+answer: 125
+
+R91
+clicks: 91
+dial:   91
+answer: 125
+
+L19
+clicks: -19
+dial:   72
+answer: 125
+
+L94
+clicks: -94
+dial:   78
+answer: 125
+
+L96
+clicks: -96
+dial:   82
+answer: 125
+
+R63
+clicks: 63
+dial:   45
+answer: 125
+
+L945
+clicks: -945
+dial:   0
+answer: 126
+
+R91
+clicks: 91
+dial:   91
+answer: 126
+
+R509
+clicks: 509
+dial:   0
+answer: 127
+
+L46
+clicks: -46
+dial:   54
+answer: 127
+
+L61
+clicks: -61
+dial:   93
+answer: 127
+
+L228
+clicks: -228
+dial:   65
+answer: 127
+
+L365
+clicks: -365
+dial:   0
+answer: 128
+
+R89
+clicks: 89
+dial:   89
+answer: 128
+
+L55
+clicks: -55
+dial:   34
+answer: 128
+
+L50
+clicks: -50
+dial:   84
+answer: 128
+
+L65
+clicks: -65
+dial:   19
+answer: 128
+
+R8
+clicks: 8
+dial:   27
+answer: 128
+
+R73
+clicks: 73
+dial:   0
+answer: 129
+
+R78
+clicks: 78
+dial:   78
+answer: 129
+
+R29
+clicks: 29
+dial:   7
+answer: 129
+
+R14
+clicks: 14
+dial:   21
+answer: 129
+
+R79
+clicks: 79
+dial:   0
+answer: 130
+
+L48
+clicks: -48
+dial:   52
+answer: 130
+
+R62
+clicks: 62
+dial:   14
+answer: 130
+
+L52
+clicks: -52
+dial:   62
+answer: 130
+
+L904
+clicks: -904
+dial:   58
+answer: 130
+
+L90
+clicks: -90
+dial:   68
+answer: 130
+
+L225
+clicks: -225
+dial:   43
+answer: 130
+
+R71
+clicks: 71
+dial:   14
+answer: 130
+
+R82
+clicks: 82
+dial:   96
+answer: 130
+
+L93
+clicks: -93
+dial:   3
+answer: 130
+
+L3
+clicks: -3
+dial:   0
+answer: 131
+
+L370
+clicks: -370
+dial:   30
+answer: 131
+
+L30
+clicks: -30
+dial:   0
+answer: 132
+
+R57
+clicks: 57
+dial:   57
+answer: 132
+
+R43
+clicks: 43
+dial:   0
+answer: 133
+
+R13
+clicks: 13
+dial:   13
+answer: 133
+
+R887
+clicks: 887
+dial:   0
+answer: 134
+
+R68
+clicks: 68
+dial:   68
+answer: 134
+
+R594
+clicks: 594
+dial:   62
+answer: 134
+
+R96
+clicks: 96
+dial:   58
+answer: 134
+
+L9
+clicks: -9
+dial:   49
+answer: 134
+
+R51
+clicks: 51
+dial:   0
+answer: 135
+
+L80
+clicks: -80
+dial:   20
+answer: 135
+
+R81
+clicks: 81
+dial:   1
+answer: 135
+
+L24
+clicks: -24
+dial:   77
+answer: 135
+
+R77
+clicks: 77
+dial:   54
+answer: 135
+
+R510
+clicks: 510
+dial:   64
+answer: 135
+
+L24
+clicks: -24
+dial:   40
+answer: 135
+
+R69
+clicks: 69
+dial:   9
+answer: 135
+
+R317
+clicks: 317
+dial:   26
+answer: 135
+
+R74
+clicks: 74
+dial:   0
+answer: 136
+
+R96
+clicks: 96
+dial:   96
+answer: 136
+
+L28
+clicks: -28
+dial:   68
+answer: 136
+
+R98
+clicks: 98
+dial:   66
+answer: 136
+
+L66
+clicks: -66
+dial:   0
+answer: 137
+
+R129
+clicks: 129
+dial:   29
+answer: 137
+
+L53
+clicks: -53
+dial:   76
+answer: 137
+
+L76
+clicks: -76
+dial:   0
+answer: 138
+
+L22
+clicks: -22
+dial:   78
+answer: 138
+
+L78
+clicks: -78
+dial:   0
+answer: 139
+
+R4
+clicks: 4
+dial:   4
+answer: 139
+
+R3
+clicks: 3
+dial:   7
+answer: 139
+
+R29
+clicks: 29
+dial:   36
+answer: 139
+
+L36
+clicks: -36
+dial:   0
+answer: 140
+
+L683
+clicks: -683
+dial:   17
+answer: 140
+
+L8
+clicks: -8
+dial:   9
+answer: 140
+
+R91
+clicks: 91
+dial:   0
+answer: 141
+
+L66
+clicks: -66
+dial:   34
+answer: 141
+
+L34
+clicks: -34
+dial:   0
+answer: 142
+
+L63
+clicks: -63
+dial:   37
+answer: 142
+
+R63
+clicks: 63
+dial:   0
+answer: 143
+
+L78
+clicks: -78
+dial:   22
+answer: 143
+
+L22
+clicks: -22
+dial:   0
+answer: 144
+
+L64
+clicks: -64
+dial:   36
+answer: 144
+
+L11
+clicks: -11
+dial:   25
+answer: 144
+
+R33
+clicks: 33
+dial:   58
+answer: 144
+
+L741
+clicks: -741
+dial:   17
+answer: 144
+
+L51
+clicks: -51
+dial:   66
+answer: 144
+
+L66
+clicks: -66
+dial:   0
+answer: 145
+
+L59
+clicks: -59
+dial:   41
+answer: 145
+
+R59
+clicks: 59
+dial:   0
+answer: 146
+
+R248
+clicks: 248
+dial:   48
+answer: 146
+
+L45
+clicks: -45
+dial:   3
+answer: 146
+
+L3
+clicks: -3
+dial:   0
+answer: 147
+
+R26
+clicks: 26
+dial:   26
+answer: 147
+
+L26
+clicks: -26
+dial:   0
+answer: 148
+
+R7
+clicks: 7
+dial:   7
+answer: 148
+
+R393
+clicks: 393
+dial:   0
+answer: 149
+
+R782
+clicks: 782
+dial:   82
+answer: 149
+
+R44
+clicks: 44
+dial:   26
+answer: 149
+
+R74
+clicks: 74
+dial:   0
+answer: 150
+
+R6
+clicks: 6
+dial:   6
+answer: 150
+
+L702
+clicks: -702
+dial:   4
+answer: 150
+
+R52
+clicks: 52
+dial:   56
+answer: 150
+
+L856
+clicks: -856
+dial:   0
+answer: 151
+
+R63
+clicks: 63
+dial:   63
+answer: 151
+
+L5
+clicks: -5
+dial:   58
+answer: 151
+
+L224
+clicks: -224
+dial:   34
+answer: 151
+
+R352
+clicks: 352
+dial:   86
+answer: 151
+
+R89
+clicks: 89
+dial:   75
+answer: 151
+
+L22
+clicks: -22
+dial:   53
+answer: 151
+
+R374
+clicks: 374
+dial:   27
+answer: 151
+
+R73
+clicks: 73
+dial:   0
+answer: 152
+
+L67
+clicks: -67
+dial:   33
+answer: 152
+
+L49
+clicks: -49
+dial:   84
+answer: 152
+
+L284
+clicks: -284
+dial:   0
+answer: 153
+
+R671
+clicks: 671
+dial:   71
+answer: 153
+
+R29
+clicks: 29
+dial:   0
+answer: 154
+
+L43
+clicks: -43
+dial:   57
+answer: 154
+
+L590
+clicks: -590
+dial:   67
+answer: 154
+
+R50
+clicks: 50
+dial:   17
+answer: 154
+
+R69
+clicks: 69
+dial:   86
+answer: 154
+
+L86
+clicks: -86
+dial:   0
+answer: 155
+
+L64
+clicks: -64
+dial:   36
+answer: 155
+
+L36
+clicks: -36
+dial:   0
+answer: 156
+
+L714
+clicks: -714
+dial:   86
+answer: 156
+
+R14
+clicks: 14
+dial:   0
+answer: 157
+
+R30
+clicks: 30
+dial:   30
+answer: 157
+
+L92
+clicks: -92
+dial:   38
+answer: 157
+
+R62
+clicks: 62
+dial:   0
+answer: 158
+
+L93
+clicks: -93
+dial:   7
+answer: 158
+
+R838
+clicks: 838
+dial:   45
+answer: 158
+
+R55
+clicks: 55
+dial:   0
+answer: 159
+
+L20
+clicks: -20
+dial:   80
+answer: 159
+
+R944
+clicks: 944
+dial:   24
+answer: 159
+
+R476
+clicks: 476
+dial:   0
+answer: 160
+
+R38
+clicks: 38
+dial:   38
+answer: 160
+
+R33
+clicks: 33
+dial:   71
+answer: 160
+
+R29
+clicks: 29
+dial:   0
+answer: 161
+
+R61
+clicks: 61
+dial:   61
+answer: 161
+
+L61
+clicks: -61
+dial:   0
+answer: 162
+
+R446
+clicks: 446
+dial:   46
+answer: 162
+
+L30
+clicks: -30
+dial:   16
+answer: 162
+
+L16
+clicks: -16
+dial:   0
+answer: 163
+
+L610
+clicks: -610
+dial:   90
+answer: 163
+
+L44
+clicks: -44
+dial:   46
+answer: 163
+
+L854
+clicks: -854
+dial:   92
+answer: 163
+
+R8
+clicks: 8
+dial:   0
+answer: 164
+
+L65
+clicks: -65
+dial:   35
+answer: 164
+
+L13
+clicks: -13
+dial:   22
+answer: 164
+
+R89
+clicks: 89
+dial:   11
+answer: 164
+
+L11
+clicks: -11
+dial:   0
+answer: 165
+
+R92
+clicks: 92
+dial:   92
+answer: 165
+
+R8
+clicks: 8
+dial:   0
+answer: 166
+
+L84
+clicks: -84
+dial:   16
+answer: 166
+
+L90
+clicks: -90
+dial:   26
+answer: 166
+
+R74
+clicks: 74
+dial:   0
+answer: 167
+
+R93
+clicks: 93
+dial:   93
+answer: 167
+
+L22
+clicks: -22
+dial:   71
+answer: 167
+
+L71
+clicks: -71
+dial:   0
+answer: 168
+
+R98
+clicks: 98
+dial:   98
+answer: 168
+
+R102
+clicks: 102
+dial:   0
+answer: 169
+
+L53
+clicks: -53
+dial:   47
+answer: 169
+
+R53
+clicks: 53
+dial:   0
+answer: 170
+
+L129
+clicks: -129
+dial:   71
+answer: 170
+
+R29
+clicks: 29
+dial:   0
+answer: 171
+
+R72
+clicks: 72
+dial:   72
+answer: 171
+
+R50
+clicks: 50
+dial:   22
+answer: 171
+
+L22
+clicks: -22
+dial:   0
+answer: 172
+
+L62
+clicks: -62
+dial:   38
+answer: 172
+
+R61
+clicks: 61
+dial:   99
+answer: 172
+
+L40
+clicks: -40
+dial:   59
+answer: 172
+
+R53
+clicks: 53
+dial:   12
+answer: 172
+
+R88
+clicks: 88
+dial:   0
+answer: 173
+
+L83
+clicks: -83
+dial:   17
+answer: 173
+
+R83
+clicks: 83
+dial:   0
+answer: 174
+
+L72
+clicks: -72
+dial:   28
+answer: 174
+
+L57
+clicks: -57
+dial:   71
+answer: 174
+
+R29
+clicks: 29
+dial:   0
+answer: 175
+
+R88
+clicks: 88
+dial:   88
+answer: 175
+
+R412
+clicks: 412
+dial:   0
+answer: 176
+
+R88
+clicks: 88
+dial:   88
+answer: 176
+
+L899
+clicks: -899
+dial:   89
+answer: 176
+
+R64
+clicks: 64
+dial:   53
+answer: 176
+
+L19
+clicks: -19
+dial:   34
+answer: 176
+
+L453
+clicks: -453
+dial:   81
+answer: 176
+
+L46
+clicks: -46
+dial:   35
+answer: 176
+
+L64
+clicks: -64
+dial:   71
+answer: 176
+
+L71
+clicks: -71
+dial:   0
+answer: 177
+
+R41
+clicks: 41
+dial:   41
+answer: 177
+
+R60
+clicks: 60
+dial:   1
+answer: 177
+
+R99
+clicks: 99
+dial:   0
+answer: 178
+
+L376
+clicks: -376
+dial:   24
+answer: 178
+
+R76
+clicks: 76
+dial:   0
+answer: 179
+
+L3
+clicks: -3
+dial:   97
+answer: 179
+
+R3
+clicks: 3
+dial:   0
+answer: 180
+
+L65
+clicks: -65
+dial:   35
+answer: 180
+
+R865
+clicks: 865
+dial:   0
+answer: 181
+
+L1
+clicks: -1
+dial:   99
+answer: 181
+
+R78
+clicks: 78
+dial:   77
+answer: 181
+
+R62
+clicks: 62
+dial:   39
+answer: 181
+
+R36
+clicks: 36
+dial:   75
+answer: 181
+
+L75
+clicks: -75
+dial:   0
+answer: 182
+
+R19
+clicks: 19
+dial:   19
+answer: 182
+
+R981
+clicks: 981
+dial:   0
+answer: 183
+
+R311
+clicks: 311
+dial:   11
+answer: 183
+
+L404
+clicks: -404
+dial:   7
+answer: 183
+
+L76
+clicks: -76
+dial:   31
+answer: 183
+
+L31
+clicks: -31
+dial:   0
+answer: 184
+
+R756
+clicks: 756
+dial:   56
+answer: 184
+
+R44
+clicks: 44
+dial:   0
+answer: 185
+
+R69
+clicks: 69
+dial:   69
+answer: 185
+
+R7
+clicks: 7
+dial:   76
+answer: 185
+
+R924
+clicks: 924
+dial:   0
+answer: 186
+
+R35
+clicks: 35
+dial:   35
+answer: 186
+
+L81
+clicks: -81
+dial:   54
+answer: 186
+
+L30
+clicks: -30
+dial:   24
+answer: 186
+
+L86
+clicks: -86
+dial:   38
+answer: 186
+
+L38
+clicks: -38
+dial:   0
+answer: 187
+
+L260
+clicks: -260
+dial:   40
+answer: 187
+
+R60
+clicks: 60
+dial:   0
+answer: 188
+
+L3
+clicks: -3
+dial:   97
+answer: 188
+
+R37
+clicks: 37
+dial:   34
+answer: 188
+
+R55
+clicks: 55
+dial:   89
+answer: 188
+
+L20
+clicks: -20
+dial:   69
+answer: 188
+
+L69
+clicks: -69
+dial:   0
+answer: 189
+
+L34
+clicks: -34
+dial:   66
+answer: 189
+
+R25
+clicks: 25
+dial:   91
+answer: 189
+
+L61
+clicks: -61
+dial:   30
+answer: 189
+
+R67
+clicks: 67
+dial:   97
+answer: 189
+
+R24
+clicks: 24
+dial:   21
+answer: 189
+
+L60
+clicks: -60
+dial:   61
+answer: 189
+
+L94
+clicks: -94
+dial:   67
+answer: 189
+
+R33
+clicks: 33
+dial:   0
+answer: 190
+
+L44
+clicks: -44
+dial:   56
+answer: 190
+
+R34
+clicks: 34
+dial:   90
+answer: 190
+
+R16
+clicks: 16
+dial:   6
+answer: 190
+
+R794
+clicks: 794
+dial:   0
+answer: 191
+
+L43
+clicks: -43
+dial:   57
+answer: 191
+
+L43
+clicks: -43
+dial:   14
+answer: 191
+
+L414
+clicks: -414
+dial:   0
+answer: 192
+
+L30
+clicks: -30
+dial:   70
+answer: 192
+
+R804
+clicks: 804
+dial:   74
+answer: 192
+
+L771
+clicks: -771
+dial:   3
+answer: 192
+
+R97
+clicks: 97
+dial:   0
+answer: 193
+
+R66
+clicks: 66
+dial:   66
+answer: 193
+
+L66
+clicks: -66
+dial:   0
+answer: 194
+
+R995
+clicks: 995
+dial:   95
+answer: 194
+
+R86
+clicks: 86
+dial:   81
+answer: 194
+
+L63
+clicks: -63
+dial:   18
+answer: 194
+
+R92
+clicks: 92
+dial:   10
+answer: 194
+
+L5
+clicks: -5
+dial:   5
+answer: 194
+
+R95
+clicks: 95
+dial:   0
+answer: 195
+
+R8
+clicks: 8
+dial:   8
+answer: 195
+
+L99
+clicks: -99
+dial:   9
+answer: 195
+
+L71
+clicks: -71
+dial:   38
+answer: 195
+
+R30
+clicks: 30
+dial:   68
+answer: 195
+
+R84
+clicks: 84
+dial:   52
+answer: 195
+
+R48
+clicks: 48
+dial:   0
+answer: 196
+
+R22
+clicks: 22
+dial:   22
+answer: 196
+
+L54
+clicks: -54
+dial:   68
+answer: 196
+
+L68
+clicks: -68
+dial:   0
+answer: 197
+
+L37
+clicks: -37
+dial:   63
+answer: 197
+
+L63
+clicks: -63
+dial:   0
+answer: 198
+
+L371
+clicks: -371
+dial:   29
+answer: 198
+
+R71
+clicks: 71
+dial:   0
+answer: 199
+
+L85
+clicks: -85
+dial:   15
+answer: 199
+
+L15
+clicks: -15
+dial:   0
+answer: 200
+
+L85
+clicks: -85
+dial:   15
+answer: 200
+
+L27
+clicks: -27
+dial:   88
+answer: 200
+
+R598
+clicks: 598
+dial:   86
+answer: 200
+
+L839
+clicks: -839
+dial:   47
+answer: 200
+
+R30
+clicks: 30
+dial:   77
+answer: 200
+
+R43
+clicks: 43
+dial:   20
+answer: 200
+
+L44
+clicks: -44
+dial:   76
+answer: 200
+
+R24
+clicks: 24
+dial:   0
+answer: 201
+
+R50
+clicks: 50
+dial:   50
+answer: 201
+
+R15
+clicks: 15
+dial:   65
+answer: 201
+
+R61
+clicks: 61
+dial:   26
+answer: 201
+
+L360
+clicks: -360
+dial:   66
+answer: 201
+
+L740
+clicks: -740
+dial:   26
+answer: 201
+
+L532
+clicks: -532
+dial:   94
+answer: 201
+
+L94
+clicks: -94
+dial:   0
+answer: 202
+
+R375
+clicks: 375
+dial:   75
+answer: 202
+
+R72
+clicks: 72
+dial:   47
+answer: 202
+
+R153
+clicks: 153
+dial:   0
+answer: 203
+
+L20
+clicks: -20
+dial:   80
+answer: 203
+
+L9
+clicks: -9
+dial:   71
+answer: 203
+
+L420
+clicks: -420
+dial:   51
+answer: 203
+
+R78
+clicks: 78
+dial:   29
+answer: 203
+
+R595
+clicks: 595
+dial:   24
+answer: 203
+
+R76
+clicks: 76
+dial:   0
+answer: 204
+
+R7
+clicks: 7
+dial:   7
+answer: 204
+
+L32
+clicks: -32
+dial:   75
+answer: 204
+
+R21
+clicks: 21
+dial:   96
+answer: 204
+
+R79
+clicks: 79
+dial:   75
+answer: 204
+
+R43
+clicks: 43
+dial:   18
+answer: 204
+
+L31
+clicks: -31
+dial:   87
+answer: 204
+
+L77
+clicks: -77
+dial:   10
+answer: 204
+
+R65
+clicks: 65
+dial:   75
+answer: 204
+
+R42
+clicks: 42
+dial:   17
+answer: 204
+
+R26
+clicks: 26
+dial:   43
+answer: 204
+
+R54
+clicks: 54
+dial:   97
+answer: 204
+
+L97
+clicks: -97
+dial:   0
+answer: 205
+
+L55
+clicks: -55
+dial:   45
+answer: 205
+
+L39
+clicks: -39
+dial:   6
+answer: 205
+
+R294
+clicks: 294
+dial:   0
+answer: 206
+
+L722
+clicks: -722
+dial:   78
+answer: 206
+
+R222
+clicks: 222
+dial:   0
+answer: 207
+
+L91
+clicks: -91
+dial:   9
+answer: 207
+
+L983
+clicks: -983
+dial:   26
+answer: 207
+
+L26
+clicks: -26
+dial:   0
+answer: 208
+
+L66
+clicks: -66
+dial:   34
+answer: 208
+
+L857
+clicks: -857
+dial:   77
+answer: 208
+
+L77
+clicks: -77
+dial:   0
+answer: 209
+
+R19
+clicks: 19
+dial:   19
+answer: 209
+
+L19
+clicks: -19
+dial:   0
+answer: 210
+
+R28
+clicks: 28
+dial:   28
+answer: 210
+
+R487
+clicks: 487
+dial:   15
+answer: 210
+
+R44
+clicks: 44
+dial:   59
+answer: 210
+
+L27
+clicks: -27
+dial:   32
+answer: 210
+
+R68
+clicks: 68
+dial:   0
+answer: 211
+
+L75
+clicks: -75
+dial:   25
+answer: 211
+
+L25
+clicks: -25
+dial:   0
+answer: 212
+
+R374
+clicks: 374
+dial:   74
+answer: 212
+
+R21
+clicks: 21
+dial:   95
+answer: 212
+
+L8
+clicks: -8
+dial:   87
+answer: 212
+
+R327
+clicks: 327
+dial:   14
+answer: 212
+
+L47
+clicks: -47
+dial:   67
+answer: 212
+
+R92
+clicks: 92
+dial:   59
+answer: 212
+
+R41
+clicks: 41
+dial:   0
+answer: 213
+
+L63
+clicks: -63
+dial:   37
+answer: 213
+
+R81
+clicks: 81
+dial:   18
+answer: 213
+
+R82
+clicks: 82
+dial:   0
+answer: 214
+
+R69
+clicks: 69
+dial:   69
+answer: 214
+
+R8
+clicks: 8
+dial:   77
+answer: 214
+
+L27
+clicks: -27
+dial:   50
+answer: 214
+
+R50
+clicks: 50
+dial:   0
+answer: 215
+
+R44
+clicks: 44
+dial:   44
+answer: 215
+
+R98
+clicks: 98
+dial:   42
+answer: 215
+
+L9
+clicks: -9
+dial:   33
+answer: 215
+
+L89
+clicks: -89
+dial:   44
+answer: 215
+
+L44
+clicks: -44
+dial:   0
+answer: 216
+
+L123
+clicks: -123
+dial:   77
+answer: 216
+
+R51
+clicks: 51
+dial:   28
+answer: 216
+
+L150
+clicks: -150
+dial:   78
+answer: 216
+
+L278
+clicks: -278
+dial:   0
+answer: 217
+
+R29
+clicks: 29
+dial:   29
+answer: 217
+
+R71
+clicks: 71
+dial:   0
+answer: 218
+
+R73
+clicks: 73
+dial:   73
+answer: 218
+
+L78
+clicks: -78
+dial:   95
+answer: 218
+
+L95
+clicks: -95
+dial:   0
+answer: 219
+
+R57
+clicks: 57
+dial:   57
+answer: 219
+
+L64
+clicks: -64
+dial:   93
+answer: 219
+
+R98
+clicks: 98
+dial:   91
+answer: 219
+
+R9
+clicks: 9
+dial:   0
+answer: 220
+
+R59
+clicks: 59
+dial:   59
+answer: 220
+
+R72
+clicks: 72
+dial:   31
+answer: 220
+
+L31
+clicks: -31
+dial:   0
+answer: 221
+
+L805
+clicks: -805
+dial:   95
+answer: 221
+
+R8
+clicks: 8
+dial:   3
+answer: 221
+
+R25
+clicks: 25
+dial:   28
+answer: 221
+
+L893
+clicks: -893
+dial:   35
+answer: 221
+
+R44
+clicks: 44
+dial:   79
+answer: 221
+
+R21
+clicks: 21
+dial:   0
+answer: 222
+
+R78
+clicks: 78
+dial:   78
+answer: 222
+
+R33
+clicks: 33
+dial:   11
+answer: 222
+
+R789
+clicks: 789
+dial:   0
+answer: 223
+
+R15
+clicks: 15
+dial:   15
+answer: 223
+
+L19
+clicks: -19
+dial:   96
+answer: 223
+
+R810
+clicks: 810
+dial:   6
+answer: 223
+
+R63
+clicks: 63
+dial:   69
+answer: 223
+
+L569
+clicks: -569
+dial:   0
+answer: 224
+
+L42
+clicks: -42
+dial:   58
+answer: 224
+
+R591
+clicks: 591
+dial:   49
+answer: 224
+
+L49
+clicks: -49
+dial:   0
+answer: 225
+
+L589
+clicks: -589
+dial:   11
+answer: 225
+
+R41
+clicks: 41
+dial:   52
+answer: 225
+
+L426
+clicks: -426
+dial:   26
+answer: 225
+
+R74
+clicks: 74
+dial:   0
+answer: 226
+
+R63
+clicks: 63
+dial:   63
+answer: 226
+
+L80
+clicks: -80
+dial:   83
+answer: 226
+
+R675
+clicks: 675
+dial:   58
+answer: 226
+
+L96
+clicks: -96
+dial:   62
+answer: 226
+
+L62
+clicks: -62
+dial:   0
+answer: 227
+
+L14
+clicks: -14
+dial:   86
+answer: 227
+
+L8
+clicks: -8
+dial:   78
+answer: 227
+
+R22
+clicks: 22
+dial:   0
+answer: 228
+
+R74
+clicks: 74
+dial:   74
+answer: 228
+
+R52
+clicks: 52
+dial:   26
+answer: 228
+
+R74
+clicks: 74
+dial:   0
+answer: 229
+
+L45
+clicks: -45
+dial:   55
+answer: 229
+
+R45
+clicks: 45
+dial:   0
+answer: 230
+
+R53
+clicks: 53
+dial:   53
+answer: 230
+
+R903
+clicks: 903
+dial:   56
+answer: 230
+
+L61
+clicks: -61
+dial:   95
+answer: 230
+
+R5
+clicks: 5
+dial:   0
+answer: 231
+
+R18
+clicks: 18
+dial:   18
+answer: 231
+
+R66
+clicks: 66
+dial:   84
+answer: 231
+
+R76
+clicks: 76
+dial:   60
+answer: 231
+
+R88
+clicks: 88
+dial:   48
+answer: 231
+
+R43
+clicks: 43
+dial:   91
+answer: 231
+
+R30
+clicks: 30
+dial:   21
+answer: 231
+
+L95
+clicks: -95
+dial:   26
+answer: 231
+
+L259
+clicks: -259
+dial:   67
+answer: 231
+
+L867
+clicks: -867
+dial:   0
+answer: 232
+
+L86
+clicks: -86
+dial:   14
+answer: 232
+
+L96
+clicks: -96
+dial:   18
+answer: 232
+
+L6
+clicks: -6
+dial:   12
+answer: 232
+
+R43
+clicks: 43
+dial:   55
+answer: 232
+
+R88
+clicks: 88
+dial:   43
+answer: 232
+
+L88
+clicks: -88
+dial:   55
+answer: 232
+
+R2
+clicks: 2
+dial:   57
+answer: 232
+
+R12
+clicks: 12
+dial:   69
+answer: 232
+
+R17
+clicks: 17
+dial:   86
+answer: 232
+
+L86
+clicks: -86
+dial:   0
+answer: 233
+
+R44
+clicks: 44
+dial:   44
+answer: 233
+
+L47
+clicks: -47
+dial:   97
+answer: 233
+
+R85
+clicks: 85
+dial:   82
+answer: 233
+
+L38
+clicks: -38
+dial:   44
+answer: 233
+
+R54
+clicks: 54
+dial:   98
+answer: 233
+
+L98
+clicks: -98
+dial:   0
+answer: 234
+
+R84
+clicks: 84
+dial:   84
+answer: 234
+
+L484
+clicks: -484
+dial:   0
+answer: 235
+
+R803
+clicks: 803
+dial:   3
+answer: 235
+
+L278
+clicks: -278
+dial:   25
+answer: 235
+
+L69
+clicks: -69
+dial:   56
+answer: 235
+
+L56
+clicks: -56
+dial:   0
+answer: 236
+
+L40
+clicks: -40
+dial:   60
+answer: 236
+
+L160
+clicks: -160
+dial:   0
+answer: 237
+
+L80
+clicks: -80
+dial:   20
+answer: 237
+
+L20
+clicks: -20
+dial:   0
+answer: 238
+
+L12
+clicks: -12
+dial:   88
+answer: 238
+
+L49
+clicks: -49
+dial:   39
+answer: 238
+
+L39
+clicks: -39
+dial:   0
+answer: 239
+
+R73
+clicks: 73
+dial:   73
+answer: 239
+
+L903
+clicks: -903
+dial:   70
+answer: 239
+
+R30
+clicks: 30
+dial:   0
+answer: 240
+
+L65
+clicks: -65
+dial:   35
+answer: 240
+
+L30
+clicks: -30
+dial:   5
+answer: 240
+
+R9
+clicks: 9
+dial:   14
+answer: 240
+
+R325
+clicks: 325
+dial:   39
+answer: 240
+
+R99
+clicks: 99
+dial:   38
+answer: 240
+
+R60
+clicks: 60
+dial:   98
+answer: 240
+
+R56
+clicks: 56
+dial:   54
+answer: 240
+
+L54
+clicks: -54
+dial:   0
+answer: 241
+
+L46
+clicks: -46
+dial:   54
+answer: 241
+
+R46
+clicks: 46
+dial:   0
+answer: 242
+
+R65
+clicks: 65
+dial:   65
+answer: 242
+
+L65
+clicks: -65
+dial:   0
+answer: 243
+
+R11
+clicks: 11
+dial:   11
+answer: 243
+
+R68
+clicks: 68
+dial:   79
+answer: 243
+
+L94
+clicks: -94
+dial:   85
+answer: 243
+
+L81
+clicks: -81
+dial:   4
+answer: 243
+
+R37
+clicks: 37
+dial:   41
+answer: 243
+
+R876
+clicks: 876
+dial:   17
+answer: 243
+
+L35
+clicks: -35
+dial:   82
+answer: 243
+
+L549
+clicks: -549
+dial:   33
+answer: 243
+
+R54
+clicks: 54
+dial:   87
+answer: 243
+
+L87
+clicks: -87
+dial:   0
+answer: 244
+
+R41
+clicks: 41
+dial:   41
+answer: 244
+
+L45
+clicks: -45
+dial:   96
+answer: 244
+
+R50
+clicks: 50
+dial:   46
+answer: 244
+
+R54
+clicks: 54
+dial:   0
+answer: 245
+
+L94
+clicks: -94
+dial:   6
+answer: 245
+
+R98
+clicks: 98
+dial:   4
+answer: 245
+
+R96
+clicks: 96
+dial:   0
+answer: 246
+
+R96
+clicks: 96
+dial:   96
+answer: 246
+
+R18
+clicks: 18
+dial:   14
+answer: 246
+
+R86
+clicks: 86
+dial:   0
+answer: 247
+
+L788
+clicks: -788
+dial:   12
+answer: 247
+
+L922
+clicks: -922
+dial:   90
+answer: 247
+
+L14
+clicks: -14
+dial:   76
+answer: 247
+
+R57
+clicks: 57
+dial:   33
+answer: 247
+
+L75
+clicks: -75
+dial:   58
+answer: 247
+
+L8
+clicks: -8
+dial:   50
+answer: 247
+
+R71
+clicks: 71
+dial:   21
+answer: 247
+
+L335
+clicks: -335
+dial:   86
+answer: 247
+
+L53
+clicks: -53
+dial:   33
+answer: 247
+
+R81
+clicks: 81
+dial:   14
+answer: 247
+
+L14
+clicks: -14
+dial:   0
+answer: 248
+
+L88
+clicks: -88
+dial:   12
+answer: 248
+
+R855
+clicks: 855
+dial:   67
+answer: 248
+
+L24
+clicks: -24
+dial:   43
+answer: 248
+
+R80
+clicks: 80
+dial:   23
+answer: 248
+
+L23
+clicks: -23
+dial:   0
+answer: 249
+
+R36
+clicks: 36
+dial:   36
+answer: 249
+
+R108
+clicks: 108
+dial:   44
+answer: 249
+
+L68
+clicks: -68
+dial:   76
+answer: 249
+
+L76
+clicks: -76
+dial:   0
+answer: 250
+
+L49
+clicks: -49
+dial:   51
+answer: 250
+
+R49
+clicks: 49
+dial:   0
+answer: 251
+
+R39
+clicks: 39
+dial:   39
+answer: 251
+
+L39
+clicks: -39
+dial:   0
+answer: 252
+
+L69
+clicks: -69
+dial:   31
+answer: 252
+
+L24
+clicks: -24
+dial:   7
+answer: 252
+
+L73
+clicks: -73
+dial:   34
+answer: 252
+
+L34
+clicks: -34
+dial:   0
+answer: 253
+
+R85
+clicks: 85
+dial:   85
+answer: 253
+
+L85
+clicks: -85
+dial:   0
+answer: 254
+
+R91
+clicks: 91
+dial:   91
+answer: 254
+
+R9
+clicks: 9
+dial:   0
+answer: 255
+
+R38
+clicks: 38
+dial:   38
+answer: 255
+
+L706
+clicks: -706
+dial:   32
+answer: 255
+
+L703
+clicks: -703
+dial:   29
+answer: 255
+
+L729
+clicks: -729
+dial:   0
+answer: 256
+
+L947
+clicks: -947
+dial:   53
+answer: 256
+
+R90
+clicks: 90
+dial:   43
+answer: 256
+
+R72
+clicks: 72
+dial:   15
+answer: 256
+
+L1
+clicks: -1
+dial:   14
+answer: 256
+
+R886
+clicks: 886
+dial:   0
+answer: 257
+
+L15
+clicks: -15
+dial:   85
+answer: 257
+
+L58
+clicks: -58
+dial:   27
+answer: 257
+
+L16
+clicks: -16
+dial:   11
+answer: 257
+
+L66
+clicks: -66
+dial:   45
+answer: 257
+
+L19
+clicks: -19
+dial:   26
+answer: 257
+
+R83
+clicks: 83
+dial:   9
+answer: 257
+
+L9
+clicks: -9
+dial:   0
+answer: 258
+
+R10
+clicks: 10
+dial:   10
+answer: 258
+
+R90
+clicks: 90
+dial:   0
+answer: 259
+
+L35
+clicks: -35
+dial:   65
+answer: 259
+
+L88
+clicks: -88
+dial:   77
+answer: 259
+
+L77
+clicks: -77
+dial:   0
+answer: 260
+
+R82
+clicks: 82
+dial:   82
+answer: 260
+
+R39
+clicks: 39
+dial:   21
+answer: 260
+
+R34
+clicks: 34
+dial:   55
+answer: 260
+
+L547
+clicks: -547
+dial:   8
+answer: 260
+
+R92
+clicks: 92
+dial:   0
+answer: 261
+
+R945
+clicks: 945
+dial:   45
+answer: 261
+
+R18
+clicks: 18
+dial:   63
+answer: 261
+
+R640
+clicks: 640
+dial:   3
+answer: 261
+
+L3
+clicks: -3
+dial:   0
+answer: 262
+
+R797
+clicks: 797
+dial:   97
+answer: 262
+
+R90
+clicks: 90
+dial:   87
+answer: 262
+
+L87
+clicks: -87
+dial:   0
+answer: 263
+
+R17
+clicks: 17
+dial:   17
+answer: 263
+
+L17
+clicks: -17
+dial:   0
+answer: 264
+
+L782
+clicks: -782
+dial:   18
+answer: 264
+
+R82
+clicks: 82
+dial:   0
+answer: 265
+
+R63
+clicks: 63
+dial:   63
+answer: 265
+
+L97
+clicks: -97
+dial:   66
+answer: 265
+
+L19
+clicks: -19
+dial:   47
+answer: 265
+
+R70
+clicks: 70
+dial:   17
+answer: 265
+
+L9
+clicks: -9
+dial:   8
+answer: 265
+
+L8
+clicks: -8
+dial:   0
+answer: 266
+
+L71
+clicks: -71
+dial:   29
+answer: 266
+
+L429
+clicks: -429
+dial:   0
+answer: 267
+
+L521
+clicks: -521
+dial:   79
+answer: 267
+
+R97
+clicks: 97
+dial:   76
+answer: 267
+
+L76
+clicks: -76
+dial:   0
+answer: 268
+
+L85
+clicks: -85
+dial:   15
+answer: 268
+
+R72
+clicks: 72
+dial:   87
+answer: 268
+
+R14
+clicks: 14
+dial:   1
+answer: 268
+
+R60
+clicks: 60
+dial:   61
+answer: 268
+
+R39
+clicks: 39
+dial:   0
+answer: 269
+
+R49
+clicks: 49
+dial:   49
+answer: 269
+
+L49
+clicks: -49
+dial:   0
+answer: 270
+
+R783
+clicks: 783
+dial:   83
+answer: 270
+
+L5
+clicks: -5
+dial:   78
+answer: 270
+
+R23
+clicks: 23
+dial:   1
+answer: 270
+
+R70
+clicks: 70
+dial:   71
+answer: 270
+
+R69
+clicks: 69
+dial:   40
+answer: 270
+
+L48
+clicks: -48
+dial:   92
+answer: 270
+
+R37
+clicks: 37
+dial:   29
+answer: 270
+
+L7
+clicks: -7
+dial:   22
+answer: 270
+
+R78
+clicks: 78
+dial:   0
+answer: 271
+
+L81
+clicks: -81
+dial:   19
+answer: 271
+
+L3
+clicks: -3
+dial:   16
+answer: 271
+
+R84
+clicks: 84
+dial:   0
+answer: 272
+
+R46
+clicks: 46
+dial:   46
+answer: 272
+
+L31
+clicks: -31
+dial:   15
+answer: 272
+
+R52
+clicks: 52
+dial:   67
+answer: 272
+
+L23
+clicks: -23
+dial:   44
+answer: 272
+
+L26
+clicks: -26
+dial:   18
+answer: 272
+
+L23
+clicks: -23
+dial:   95
+answer: 272
+
+L95
+clicks: -95
+dial:   0
+answer: 273
+
+R4
+clicks: 4
+dial:   4
+answer: 273
+
+R3
+clicks: 3
+dial:   7
+answer: 273
+
+L21
+clicks: -21
+dial:   86
+answer: 273
+
+R43
+clicks: 43
+dial:   29
+answer: 273
+
+L99
+clicks: -99
+dial:   30
+answer: 273
+
+R36
+clicks: 36
+dial:   66
+answer: 273
+
+L2
+clicks: -2
+dial:   64
+answer: 273
+
+L89
+clicks: -89
+dial:   75
+answer: 273
+
+L258
+clicks: -258
+dial:   17
+answer: 273
+
+L17
+clicks: -17
+dial:   0
+answer: 274
+
+L61
+clicks: -61
+dial:   39
+answer: 274
+
+R20
+clicks: 20
+dial:   59
+answer: 274
+
+L408
+clicks: -408
+dial:   51
+answer: 274
+
+L854
+clicks: -854
+dial:   97
+answer: 274
+
+R705
+clicks: 705
+dial:   2
+answer: 274
+
+L56
+clicks: -56
+dial:   46
+answer: 274
+
+L786
+clicks: -786
+dial:   60
+answer: 274
+
+R40
+clicks: 40
+dial:   0
+answer: 275
+
+L81
+clicks: -81
+dial:   19
+answer: 275
+
+L59
+clicks: -59
+dial:   60
+answer: 275
+
+L690
+clicks: -690
+dial:   70
+answer: 275
+
+L54
+clicks: -54
+dial:   16
+answer: 275
+
+R66
+clicks: 66
+dial:   82
+answer: 275
+
+R18
+clicks: 18
+dial:   0
+answer: 276
+
+R99
+clicks: 99
+dial:   99
+answer: 276
+
+R21
+clicks: 21
+dial:   20
+answer: 276
+
+L1
+clicks: -1
+dial:   19
+answer: 276
+
+L19
+clicks: -19
+dial:   0
+answer: 277
+
+R4
+clicks: 4
+dial:   4
+answer: 277
+
+R24
+clicks: 24
+dial:   28
+answer: 277
+
+R72
+clicks: 72
+dial:   0
+answer: 278
+
+R27
+clicks: 27
+dial:   27
+answer: 278
+
+L76
+clicks: -76
+dial:   51
+answer: 278
+
+R549
+clicks: 549
+dial:   0
+answer: 279
+
+L78
+clicks: -78
+dial:   22
+answer: 279
+
+R87
+clicks: 87
+dial:   9
+answer: 279
+
+R54
+clicks: 54
+dial:   63
+answer: 279
+
+R514
+clicks: 514
+dial:   77
+answer: 279
+
+L90
+clicks: -90
+dial:   87
+answer: 279
+
+L13
+clicks: -13
+dial:   74
+answer: 279
+
+L2
+clicks: -2
+dial:   72
+answer: 279
+
+R46
+clicks: 46
+dial:   18
+answer: 279
+
+R32
+clicks: 32
+dial:   50
+answer: 279
+
+L50
+clicks: -50
+dial:   0
+answer: 280
+
+R188
+clicks: 188
+dial:   88
+answer: 280
+
+R244
+clicks: 244
+dial:   32
+answer: 280
+
+L37
+clicks: -37
+dial:   95
+answer: 280
+
+R40
+clicks: 40
+dial:   35
+answer: 280
+
+R649
+clicks: 649
+dial:   84
+answer: 280
+
+L149
+clicks: -149
+dial:   35
+answer: 280
+
+R65
+clicks: 65
+dial:   0
+answer: 281
+
+L14
+clicks: -14
+dial:   86
+answer: 281
+
+R14
+clicks: 14
+dial:   0
+answer: 282
+
+L459
+clicks: -459
+dial:   41
+answer: 282
+
+L41
+clicks: -41
+dial:   0
+answer: 283
+
+R571
+clicks: 571
+dial:   71
+answer: 283
+
+R29
+clicks: 29
+dial:   0
+answer: 284
+
+L86
+clicks: -86
+dial:   14
+answer: 284
+
+L946
+clicks: -946
+dial:   68
+answer: 284
+
+L97
+clicks: -97
+dial:   71
+answer: 284
+
+L93
+clicks: -93
+dial:   78
+answer: 284
+
+R35
+clicks: 35
+dial:   13
+answer: 284
+
+R87
+clicks: 87
+dial:   0
+answer: 285
+
+L90
+clicks: -90
+dial:   10
+answer: 285
+
+L410
+clicks: -410
+dial:   0
+answer: 286
+
+R4
+clicks: 4
+dial:   4
+answer: 286
+
+L97
+clicks: -97
+dial:   7
+answer: 286
+
+L21
+clicks: -21
+dial:   86
+answer: 286
+
+R14
+clicks: 14
+dial:   0
+answer: 287
+
+L1
+clicks: -1
+dial:   99
+answer: 287
+
+L42
+clicks: -42
+dial:   57
+answer: 287
+
+L57
+clicks: -57
+dial:   0
+answer: 288
+
+L86
+clicks: -86
+dial:   14
+answer: 288
+
+L63
+clicks: -63
+dial:   51
+answer: 288
+
+R49
+clicks: 49
+dial:   0
+answer: 289
+
+L92
+clicks: -92
+dial:   8
+answer: 289
+
+R4
+clicks: 4
+dial:   12
+answer: 289
+
+R268
+clicks: 268
+dial:   80
+answer: 289
+
+L80
+clicks: -80
+dial:   0
+answer: 290
+
+R12
+clicks: 12
+dial:   12
+answer: 290
+
+L12
+clicks: -12
+dial:   0
+answer: 291
+
+L87
+clicks: -87
+dial:   13
+answer: 291
+
+L85
+clicks: -85
+dial:   28
+answer: 291
+
+R234
+clicks: 234
+dial:   62
+answer: 291
+
+L22
+clicks: -22
+dial:   40
+answer: 291
+
+L40
+clicks: -40
+dial:   0
+answer: 292
+
+L76
+clicks: -76
+dial:   24
+answer: 292
+
+L24
+clicks: -24
+dial:   0
+answer: 293
+
+R812
+clicks: 812
+dial:   12
+answer: 293
+
+L4
+clicks: -4
+dial:   8
+answer: 293
+
+R92
+clicks: 92
+dial:   0
+answer: 294
+
+R51
+clicks: 51
+dial:   51
+answer: 294
+
+L71
+clicks: -71
+dial:   80
+answer: 294
+
+R7
+clicks: 7
+dial:   87
+answer: 294
+
+L87
+clicks: -87
+dial:   0
+answer: 295
+
+L22
+clicks: -22
+dial:   78
+answer: 295
+
+R22
+clicks: 22
+dial:   0
+answer: 296
+
+L91
+clicks: -91
+dial:   9
+answer: 296
+
+R91
+clicks: 91
+dial:   0
+answer: 297
+
+L78
+clicks: -78
+dial:   22
+answer: 297
+
+L90
+clicks: -90
+dial:   32
+answer: 297
+
+R12
+clicks: 12
+dial:   44
+answer: 297
+
+R588
+clicks: 588
+dial:   32
+answer: 297
+
+L91
+clicks: -91
+dial:   41
+answer: 297
+
+L78
+clicks: -78
+dial:   63
+answer: 297
+
+R28
+clicks: 28
+dial:   91
+answer: 297
+
+L687
+clicks: -687
+dial:   4
+answer: 297
+
+R7
+clicks: 7
+dial:   11
+answer: 297
+
+R89
+clicks: 89
+dial:   0
+answer: 298
+
+L75
+clicks: -75
+dial:   25
+answer: 298
+
+L9
+clicks: -9
+dial:   16
+answer: 298
+
+R25
+clicks: 25
+dial:   41
+answer: 298
+
+L11
+clicks: -11
+dial:   30
+answer: 298
+
+R470
+clicks: 470
+dial:   0
+answer: 299
+
+R958
+clicks: 958
+dial:   58
+answer: 299
+
+L8
+clicks: -8
+dial:   50
+answer: 299
+
+R69
+clicks: 69
+dial:   19
+answer: 299
+
+L927
+clicks: -927
+dial:   92
+answer: 299
+
+R8
+clicks: 8
+dial:   0
+answer: 300
+
+R72
+clicks: 72
+dial:   72
+answer: 300
+
+L27
+clicks: -27
+dial:   45
+answer: 300
+
+R567
+clicks: 567
+dial:   12
+answer: 300
+
+R1
+clicks: 1
+dial:   13
+answer: 300
+
+R31
+clicks: 31
+dial:   44
+answer: 300
+
+L44
+clicks: -44
+dial:   0
+answer: 301
+
+L76
+clicks: -76
+dial:   24
+answer: 301
+
+R30
+clicks: 30
+dial:   54
+answer: 301
+
+R66
+clicks: 66
+dial:   20
+answer: 301
+
+L71
+clicks: -71
+dial:   49
+answer: 301
+
+L68
+clicks: -68
+dial:   81
+answer: 301
+
+R31
+clicks: 31
+dial:   12
+answer: 301
+
+R89
+clicks: 89
+dial:   1
+answer: 301
+
+L55
+clicks: -55
+dial:   46
+answer: 301
+
+R79
+clicks: 79
+dial:   25
+answer: 301
+
+L808
+clicks: -808
+dial:   17
+answer: 301
+
+R83
+clicks: 83
+dial:   0
+answer: 302
+
+R978
+clicks: 978
+dial:   78
+answer: 302
+
+L78
+clicks: -78
+dial:   0
+answer: 303
+
+L41
+clicks: -41
+dial:   59
+answer: 303
+
+L414
+clicks: -414
+dial:   45
+answer: 303
+
+R70
+clicks: 70
+dial:   15
+answer: 303
+
+R241
+clicks: 241
+dial:   56
+answer: 303
+
+L156
+clicks: -156
+dial:   0
+answer: 304
+
+L339
+clicks: -339
+dial:   61
+answer: 304
+
+R67
+clicks: 67
+dial:   28
+answer: 304
+
+L56
+clicks: -56
+dial:   72
+answer: 304
+
+L72
+clicks: -72
+dial:   0
+answer: 305
+
+L11
+clicks: -11
+dial:   89
+answer: 305
+
+L20
+clicks: -20
+dial:   69
+answer: 305
+
+L22
+clicks: -22
+dial:   47
+answer: 305
+
+L747
+clicks: -747
+dial:   0
+answer: 306
+
+R47
+clicks: 47
+dial:   47
+answer: 306
+
+R53
+clicks: 53
+dial:   0
+answer: 307
+
+L34
+clicks: -34
+dial:   66
+answer: 307
+
+L91
+clicks: -91
+dial:   75
+answer: 307
+
+L58
+clicks: -58
+dial:   17
+answer: 307
+
+L162
+clicks: -162
+dial:   55
+answer: 307
+
+R33
+clicks: 33
+dial:   88
+answer: 307
+
+L555
+clicks: -555
+dial:   33
+answer: 307
+
+R250
+clicks: 250
+dial:   83
+answer: 307
+
+L954
+clicks: -954
+dial:   29
+answer: 307
+
+L51
+clicks: -51
+dial:   78
+answer: 307
+
+L55
+clicks: -55
+dial:   23
+answer: 307
+
+R642
+clicks: 642
+dial:   65
+answer: 307
+
+L365
+clicks: -365
+dial:   0
+answer: 308
+
+L98
+clicks: -98
+dial:   2
+answer: 308
+
+R54
+clicks: 54
+dial:   56
+answer: 308
+
+R44
+clicks: 44
+dial:   0
+answer: 309
+
+R74
+clicks: 74
+dial:   74
+answer: 309
+
+L116
+clicks: -116
+dial:   58
+answer: 309
+
+L2
+clicks: -2
+dial:   56
+answer: 309
+
+R44
+clicks: 44
+dial:   0
+answer: 310
+
+R3
+clicks: 3
+dial:   3
+answer: 310
+
+R23
+clicks: 23
+dial:   26
+answer: 310
+
+L68
+clicks: -68
+dial:   58
+answer: 310
+
+L508
+clicks: -508
+dial:   50
+answer: 310
+
+L50
+clicks: -50
+dial:   0
+answer: 311
+
+R87
+clicks: 87
+dial:   87
+answer: 311
+
+L44
+clicks: -44
+dial:   43
+answer: 311
+
+R657
+clicks: 657
+dial:   0
+answer: 312
+
+R62
+clicks: 62
+dial:   62
+answer: 312
+
+L84
+clicks: -84
+dial:   78
+answer: 312
+
+L46
+clicks: -46
+dial:   32
+answer: 312
+
+L57
+clicks: -57
+dial:   75
+answer: 312
+
+R172
+clicks: 172
+dial:   47
+answer: 312
+
+R53
+clicks: 53
+dial:   0
+answer: 313
+
+L341
+clicks: -341
+dial:   59
+answer: 313
+
+R44
+clicks: 44
+dial:   3
+answer: 313
+
+L70
+clicks: -70
+dial:   33
+answer: 313
+
+R67
+clicks: 67
+dial:   0
+answer: 314
+
+L93
+clicks: -93
+dial:   7
+answer: 314
+
+R41
+clicks: 41
+dial:   48
+answer: 314
+
+R91
+clicks: 91
+dial:   39
+answer: 314
+
+R44
+clicks: 44
+dial:   83
+answer: 314
+
+R62
+clicks: 62
+dial:   45
+answer: 314
+
+R78
+clicks: 78
+dial:   23
+answer: 314
+
+R77
+clicks: 77
+dial:   0
+answer: 315
+
+R251
+clicks: 251
+dial:   51
+answer: 315
+
+L679
+clicks: -679
+dial:   72
+answer: 315
+
+L52
+clicks: -52
+dial:   20
+answer: 315
+
+L256
+clicks: -256
+dial:   64
+answer: 315
+
+R33
+clicks: 33
+dial:   97
+answer: 315
+
+L362
+clicks: -362
+dial:   35
+answer: 315
+
+R95
+clicks: 95
+dial:   30
+answer: 315
+
+L163
+clicks: -163
+dial:   67
+answer: 315
+
+R94
+clicks: 94
+dial:   61
+answer: 315
+
+L15
+clicks: -15
+dial:   46
+answer: 315
+
+R42
+clicks: 42
+dial:   88
+answer: 315
+
+R730
+clicks: 730
+dial:   18
+answer: 315
+
+R582
+clicks: 582
+dial:   0
+answer: 316
+
+R6
+clicks: 6
+dial:   6
+answer: 316
+
+L497
+clicks: -497
+dial:   9
+answer: 316
+
+R68
+clicks: 68
+dial:   77
+answer: 316
+
+L36
+clicks: -36
+dial:   41
+answer: 316
+
+R34
+clicks: 34
+dial:   75
+answer: 316
+
+L75
+clicks: -75
+dial:   0
+answer: 317
+
+L29
+clicks: -29
+dial:   71
+answer: 317
+
+L771
+clicks: -771
+dial:   0
+answer: 318
+
+R44
+clicks: 44
+dial:   44
+answer: 318
+
+R56
+clicks: 56
+dial:   0
+answer: 319
+
+R15
+clicks: 15
+dial:   15
+answer: 319
+
+L119
+clicks: -119
+dial:   96
+answer: 319
+
+L25
+clicks: -25
+dial:   71
+answer: 319
+
+L52
+clicks: -52
+dial:   19
+answer: 319
+
+L55
+clicks: -55
+dial:   64
+answer: 319
+
+L24
+clicks: -24
+dial:   40
+answer: 319
+
+L28
+clicks: -28
+dial:   12
+answer: 319
+
+R988
+clicks: 988
+dial:   0
+answer: 320
+
+L53
+clicks: -53
+dial:   47
+answer: 320
+
+L98
+clicks: -98
+dial:   49
+answer: 320
+
+R70
+clicks: 70
+dial:   19
+answer: 320
+
+L34
+clicks: -34
+dial:   85
+answer: 320
+
+R32
+clicks: 32
+dial:   17
+answer: 320
+
+L42
+clicks: -42
+dial:   75
+answer: 320
+
+R31
+clicks: 31
+dial:   6
+answer: 320
+
+L47
+clicks: -47
+dial:   59
+answer: 320
+
+R41
+clicks: 41
+dial:   0
+answer: 321
+
+L62
+clicks: -62
+dial:   38
+answer: 321
+
+L938
+clicks: -938
+dial:   0
+answer: 322
+
+L80
+clicks: -80
+dial:   20
+answer: 322
+
+R580
+clicks: 580
+dial:   0
+answer: 323
+
+L383
+clicks: -383
+dial:   17
+answer: 323
+
+R583
+clicks: 583
+dial:   0
+answer: 324
+
+L41
+clicks: -41
+dial:   59
+answer: 324
+
+L44
+clicks: -44
+dial:   15
+answer: 324
+
+R216
+clicks: 216
+dial:   31
+answer: 324
+
+L31
+clicks: -31
+dial:   0
+answer: 325
+
+R2
+clicks: 2
+dial:   2
+answer: 325
+
+R26
+clicks: 26
+dial:   28
+answer: 325
+
+R80
+clicks: 80
+dial:   8
+answer: 325
+
+L96
+clicks: -96
+dial:   12
+answer: 325
+
+R77
+clicks: 77
+dial:   89
+answer: 325
+
+R45
+clicks: 45
+dial:   34
+answer: 325
+
+L34
+clicks: -34
+dial:   0
+answer: 326
+
+L10
+clicks: -10
+dial:   90
+answer: 326
+
+L90
+clicks: -90
+dial:   0
+answer: 327
+
+L41
+clicks: -41
+dial:   59
+answer: 327
+
+L59
+clicks: -59
+dial:   0
+answer: 328
+
+R81
+clicks: 81
+dial:   81
+answer: 328
+
+R186
+clicks: 186
+dial:   67
+answer: 328
+
+R33
+clicks: 33
+dial:   0
+answer: 329
+
+L49
+clicks: -49
+dial:   51
+answer: 329
+
+R49
+clicks: 49
+dial:   0
+answer: 330
+
+R20
+clicks: 20
+dial:   20
+answer: 330
+
+L52
+clicks: -52
+dial:   68
+answer: 330
+
+R666
+clicks: 666
+dial:   34
+answer: 330
+
+R80
+clicks: 80
+dial:   14
+answer: 330
+
+L27
+clicks: -27
+dial:   87
+answer: 330
+
+L20
+clicks: -20
+dial:   67
+answer: 330
+
+L957
+clicks: -957
+dial:   10
+answer: 330
+
+L89
+clicks: -89
+dial:   21
+answer: 330
+
+R15
+clicks: 15
+dial:   36
+answer: 330
+
+R64
+clicks: 64
+dial:   0
+answer: 331
+
+R88
+clicks: 88
+dial:   88
+answer: 331
+
+L55
+clicks: -55
+dial:   33
+answer: 331
+
+R67
+clicks: 67
+dial:   0
+answer: 332
+
+R38
+clicks: 38
+dial:   38
+answer: 332
+
+L52
+clicks: -52
+dial:   86
+answer: 332
+
+L97
+clicks: -97
+dial:   89
+answer: 332
+
+R61
+clicks: 61
+dial:   50
+answer: 332
+
+R50
+clicks: 50
+dial:   0
+answer: 333
+
+L48
+clicks: -48
+dial:   52
+answer: 333
+
+L252
+clicks: -252
+dial:   0
+answer: 334
+
+L834
+clicks: -834
+dial:   66
+answer: 334
+
+R34
+clicks: 34
+dial:   0
+answer: 335
+
+L63
+clicks: -63
+dial:   37
+answer: 335
+
+R33
+clicks: 33
+dial:   70
+answer: 335
+
+R83
+clicks: 83
+dial:   53
+answer: 335
+
+R33
+clicks: 33
+dial:   86
+answer: 335
+
+R41
+clicks: 41
+dial:   27
+answer: 335
+
+R746
+clicks: 746
+dial:   73
+answer: 335
+
+L94
+clicks: -94
+dial:   79
+answer: 335
+
+L16
+clicks: -16
+dial:   63
+answer: 335
+
+R21
+clicks: 21
+dial:   84
+answer: 335
+
+L48
+clicks: -48
+dial:   36
+answer: 335
+
+L9
+clicks: -9
+dial:   27
+answer: 335
+
+R73
+clicks: 73
+dial:   0
+answer: 336
+
+L12
+clicks: -12
+dial:   88
+answer: 336
+
+L40
+clicks: -40
+dial:   48
+answer: 336
+
+L764
+clicks: -764
+dial:   84
+answer: 336
+
+L58
+clicks: -58
+dial:   26
+answer: 336
+
+L12
+clicks: -12
+dial:   14
+answer: 336
+
+L73
+clicks: -73
+dial:   41
+answer: 336
+
+L17
+clicks: -17
+dial:   24
+answer: 336
+
+L24
+clicks: -24
+dial:   0
+answer: 337
+
+R93
+clicks: 93
+dial:   93
+answer: 337
+
+L93
+clicks: -93
+dial:   0
+answer: 338
+
+L55
+clicks: -55
+dial:   45
+answer: 338
+
+L65
+clicks: -65
+dial:   80
+answer: 338
+
+R62
+clicks: 62
+dial:   42
+answer: 338
+
+R68
+clicks: 68
+dial:   10
+answer: 338
+
+L10
+clicks: -10
+dial:   0
+answer: 339
+
+R80
+clicks: 80
+dial:   80
+answer: 339
+
+L336
+clicks: -336
+dial:   44
+answer: 339
+
+L13
+clicks: -13
+dial:   31
+answer: 339
+
+R32
+clicks: 32
+dial:   63
+answer: 339
+
+L491
+clicks: -491
+dial:   72
+answer: 339
+
+R20
+clicks: 20
+dial:   92
+answer: 339
+
+R94
+clicks: 94
+dial:   86
+answer: 339
+
+L54
+clicks: -54
+dial:   32
+answer: 339
+
+R14
+clicks: 14
+dial:   46
+answer: 339
+
+L62
+clicks: -62
+dial:   84
+answer: 339
+
+R16
+clicks: 16
+dial:   0
+answer: 340
+
+L27
+clicks: -27
+dial:   73
+answer: 340
+
+R27
+clicks: 27
+dial:   0
+answer: 341
+
+L45
+clicks: -45
+dial:   55
+answer: 341
+
+R17
+clicks: 17
+dial:   72
+answer: 341
+
+L77
+clicks: -77
+dial:   95
+answer: 341
+
+R5
+clicks: 5
+dial:   0
+answer: 342
+
+L36
+clicks: -36
+dial:   64
+answer: 342
+
+L26
+clicks: -26
+dial:   38
+answer: 342
+
+L51
+clicks: -51
+dial:   87
+answer: 342
+
+R428
+clicks: 428
+dial:   15
+answer: 342
+
+R58
+clicks: 58
+dial:   73
+answer: 342
+
+R827
+clicks: 827
+dial:   0
+answer: 343
+
+L3
+clicks: -3
+dial:   97
+answer: 343
+
+L97
+clicks: -97
+dial:   0
+answer: 344
+
+L77
+clicks: -77
+dial:   23
+answer: 344
+
+L23
+clicks: -23
+dial:   0
+answer: 345
+
+R27
+clicks: 27
+dial:   27
+answer: 345
+
+L20
+clicks: -20
+dial:   7
+answer: 345
+
+R24
+clicks: 24
+dial:   31
+answer: 345
+
+R69
+clicks: 69
+dial:   0
+answer: 346
+
+R31
+clicks: 31
+dial:   31
+answer: 346
+
+L65
+clicks: -65
+dial:   66
+answer: 346
+
+R580
+clicks: 580
+dial:   46
+answer: 346
+
+R573
+clicks: 573
+dial:   19
+answer: 346
+
+R40
+clicks: 40
+dial:   59
+answer: 346
+
+R41
+clicks: 41
+dial:   0
+answer: 347
+
+R164
+clicks: 164
+dial:   64
+answer: 347
+
+R39
+clicks: 39
+dial:   3
+answer: 347
+
+L3
+clicks: -3
+dial:   0
+answer: 348
+
+L13
+clicks: -13
+dial:   87
+answer: 348
+
+R85
+clicks: 85
+dial:   72
+answer: 348
+
+R28
+clicks: 28
+dial:   0
+answer: 349
+
+R7
+clicks: 7
+dial:   7
+answer: 349
+
+L45
+clicks: -45
+dial:   62
+answer: 349
+
+L62
+clicks: -62
+dial:   0
+answer: 350
+
+L2
+clicks: -2
+dial:   98
+answer: 350
+
+L50
+clicks: -50
+dial:   48
+answer: 350
+
+L530
+clicks: -530
+dial:   18
+answer: 350
+
+R331
+clicks: 331
+dial:   49
+answer: 350
+
+R16
+clicks: 16
+dial:   65
+answer: 350
+
+R26
+clicks: 26
+dial:   91
+answer: 350
+
+R39
+clicks: 39
+dial:   30
+answer: 350
+
+L16
+clicks: -16
+dial:   14
+answer: 350
+
+R87
+clicks: 87
+dial:   1
+answer: 350
+
+R54
+clicks: 54
+dial:   55
+answer: 350
+
+L68
+clicks: -68
+dial:   87
+answer: 350
+
+L2
+clicks: -2
+dial:   85
+answer: 350
+
+L969
+clicks: -969
+dial:   16
+answer: 350
+
+L5
+clicks: -5
+dial:   11
+answer: 350
+
+R68
+clicks: 68
+dial:   79
+answer: 350
+
+R40
+clicks: 40
+dial:   19
+answer: 350
+
+L19
+clicks: -19
+dial:   0
+answer: 351
+
+L77
+clicks: -77
+dial:   23
+answer: 351
+
+L23
+clicks: -23
+dial:   0
+answer: 352
+
+R683
+clicks: 683
+dial:   83
+answer: 352
+
+L83
+clicks: -83
+dial:   0
+answer: 353
+
+R82
+clicks: 82
+dial:   82
+answer: 353
+
+L82
+clicks: -82
+dial:   0
+answer: 354
+
+R36
+clicks: 36
+dial:   36
+answer: 354
+
+L36
+clicks: -36
+dial:   0
+answer: 355
+
+L55
+clicks: -55
+dial:   45
+answer: 355
+
+R55
+clicks: 55
+dial:   0
+answer: 356
+
+R896
+clicks: 896
+dial:   96
+answer: 356
+
+L47
+clicks: -47
+dial:   49
+answer: 356
+
+L449
+clicks: -449
+dial:   0
+answer: 357
+
+L56
+clicks: -56
+dial:   44
+answer: 357
+
+L82
+clicks: -82
+dial:   62
+answer: 357
+
+L971
+clicks: -971
+dial:   91
+answer: 357
+
+L62
+clicks: -62
+dial:   29
+answer: 357
+
+L28
+clicks: -28
+dial:   1
+answer: 357
+
+L3
+clicks: -3
+dial:   98
+answer: 357
+
+R23
+clicks: 23
+dial:   21
+answer: 357
+
+R74
+clicks: 74
+dial:   95
+answer: 357
+
+R603
+clicks: 603
+dial:   98
+answer: 357
+
+R23
+clicks: 23
+dial:   21
+answer: 357
+
+L5
+clicks: -5
+dial:   16
+answer: 357
+
+R184
+clicks: 184
+dial:   0
+answer: 358
+
+R52
+clicks: 52
+dial:   52
+answer: 358
+
+L55
+clicks: -55
+dial:   97
+answer: 358
+
+L14
+clicks: -14
+dial:   83
+answer: 358
+
+L83
+clicks: -83
+dial:   0
+answer: 359
+
+R31
+clicks: 31
+dial:   31
+answer: 359
+
+R591
+clicks: 591
+dial:   22
+answer: 359
+
+R66
+clicks: 66
+dial:   88
+answer: 359
+
+L327
+clicks: -327
+dial:   61
+answer: 359
+
+R60
+clicks: 60
+dial:   21
+answer: 359
+
+L991
+clicks: -991
+dial:   30
+answer: 359
+
+L68
+clicks: -68
+dial:   62
+answer: 359
+
+R64
+clicks: 64
+dial:   26
+answer: 359
+
+R17
+clicks: 17
+dial:   43
+answer: 359
+
+R38
+clicks: 38
+dial:   81
+answer: 359
+
+L38
+clicks: -38
+dial:   43
+answer: 359
+
+R57
+clicks: 57
+dial:   0
+answer: 360
+
+R72
+clicks: 72
+dial:   72
+answer: 360
+
+R28
+clicks: 28
+dial:   0
+answer: 361
+
+L85
+clicks: -85
+dial:   15
+answer: 361
+
+R73
+clicks: 73
+dial:   88
+answer: 361
+
+R83
+clicks: 83
+dial:   71
+answer: 361
+
+R46
+clicks: 46
+dial:   17
+answer: 361
+
+L44
+clicks: -44
+dial:   73
+answer: 361
+
+L72
+clicks: -72
+dial:   1
+answer: 361
+
+R99
+clicks: 99
+dial:   0
+answer: 362
+
+L19
+clicks: -19
+dial:   81
+answer: 362
+
+R619
+clicks: 619
+dial:   0
+answer: 363
+
+R18
+clicks: 18
+dial:   18
+answer: 363
+
+L18
+clicks: -18
+dial:   0
+answer: 364
+
+R93
+clicks: 93
+dial:   93
+answer: 364
+
+L50
+clicks: -50
+dial:   43
+answer: 364
+
+L43
+clicks: -43
+dial:   0
+answer: 365
+
+L59
+clicks: -59
+dial:   41
+answer: 365
+
+L16
+clicks: -16
+dial:   25
+answer: 365
+
+R75
+clicks: 75
+dial:   0
+answer: 366
+
+L99
+clicks: -99
+dial:   1
+answer: 366
+
+R60
+clicks: 60
+dial:   61
+answer: 366
+
+L61
+clicks: -61
+dial:   0
+answer: 367
+
+L35
+clicks: -35
+dial:   65
+answer: 367
+
+L49
+clicks: -49
+dial:   16
+answer: 367
+
+L16
+clicks: -16
+dial:   0
+answer: 368
+
+R89
+clicks: 89
+dial:   89
+answer: 368
+
+L54
+clicks: -54
+dial:   35
+answer: 368
+
+L17
+clicks: -17
+dial:   18
+answer: 368
+
+L718
+clicks: -718
+dial:   0
+answer: 369
+
+R62
+clicks: 62
+dial:   62
+answer: 369
+
+L62
+clicks: -62
+dial:   0
+answer: 370
+
+L22
+clicks: -22
+dial:   78
+answer: 370
+
+R22
+clicks: 22
+dial:   0
+answer: 371
+
+L39
+clicks: -39
+dial:   61
+answer: 371
+
+L61
+clicks: -61
+dial:   0
+answer: 372
+
+L68
+clicks: -68
+dial:   32
+answer: 372
+
+R62
+clicks: 62
+dial:   94
+answer: 372
+
+R6
+clicks: 6
+dial:   0
+answer: 373
+
+R4
+clicks: 4
+dial:   4
+answer: 373
+
+L104
+clicks: -104
+dial:   0
+answer: 374
+
+L91
+clicks: -91
+dial:   9
+answer: 374
+
+L9
+clicks: -9
+dial:   0
+answer: 375
+
+L887
+clicks: -887
+dial:   13
+answer: 375
+
+R72
+clicks: 72
+dial:   85
+answer: 375
+
+R65
+clicks: 65
+dial:   50
+answer: 375
+
+R50
+clicks: 50
+dial:   0
+answer: 376
+
+R33
+clicks: 33
+dial:   33
+answer: 376
+
+R159
+clicks: 159
+dial:   92
+answer: 376
+
+L15
+clicks: -15
+dial:   77
+answer: 376
+
+R551
+clicks: 551
+dial:   28
+answer: 376
+
+L28
+clicks: -28
+dial:   0
+answer: 377
+
+R499
+clicks: 499
+dial:   99
+answer: 377
+
+R64
+clicks: 64
+dial:   63
+answer: 377
+
+L63
+clicks: -63
+dial:   0
+answer: 378
+
+L67
+clicks: -67
+dial:   33
+answer: 378
+
+L169
+clicks: -169
+dial:   64
+answer: 378
+
+L32
+clicks: -32
+dial:   32
+answer: 378
+
+R68
+clicks: 68
+dial:   0
+answer: 379
+
+R926
+clicks: 926
+dial:   26
+answer: 379
+
+R65
+clicks: 65
+dial:   91
+answer: 379
+
+L982
+clicks: -982
+dial:   9
+answer: 379
+
+R96
+clicks: 96
+dial:   5
+answer: 379
+
+L46
+clicks: -46
+dial:   59
+answer: 379
+
+R26
+clicks: 26
+dial:   85
+answer: 379
+
+R594
+clicks: 594
+dial:   79
+answer: 379
+
+L21
+clicks: -21
+dial:   58
+answer: 379
+
+L858
+clicks: -858
+dial:   0
+answer: 380
+
+L63
+clicks: -63
+dial:   37
+answer: 380
+
+R63
+clicks: 63
+dial:   0
+answer: 381
+
+R69
+clicks: 69
+dial:   69
+answer: 381
+
+L269
+clicks: -269
+dial:   0
+answer: 382
+
+L41
+clicks: -41
+dial:   59
+answer: 382
+
+R61
+clicks: 61
+dial:   20
+answer: 382
+
+L50
+clicks: -50
+dial:   70
+answer: 382
+
+R37
+clicks: 37
+dial:   7
+answer: 382
+
+L7
+clicks: -7
+dial:   0
+answer: 383
+
+L47
+clicks: -47
+dial:   53
+answer: 383
+
+L15
+clicks: -15
+dial:   38
+answer: 383
+
+L63
+clicks: -63
+dial:   75
+answer: 383
+
+R25
+clicks: 25
+dial:   0
+answer: 384
+
+L99
+clicks: -99
+dial:   1
+answer: 384
+
+L87
+clicks: -87
+dial:   14
+answer: 384
+
+R7
+clicks: 7
+dial:   21
+answer: 384
+
+L21
+clicks: -21
+dial:   0
+answer: 385
+
+L787
+clicks: -787
+dial:   13
+answer: 385
+
+L87
+clicks: -87
+dial:   26
+answer: 385
+
+R74
+clicks: 74
+dial:   0
+answer: 386
+
+L86
+clicks: -86
+dial:   14
+answer: 386
+
+L804
+clicks: -804
+dial:   10
+answer: 386
+
+L10
+clicks: -10
+dial:   0
+answer: 387
+
+L13
+clicks: -13
+dial:   87
+answer: 387
+
+L55
+clicks: -55
+dial:   32
+answer: 387
+
+L24
+clicks: -24
+dial:   8
+answer: 387
+
+L8
+clicks: -8
+dial:   0
+answer: 388
+
+R96
+clicks: 96
+dial:   96
+answer: 388
+
+R4
+clicks: 4
+dial:   0
+answer: 389
+
+L68
+clicks: -68
+dial:   32
+answer: 389
+
+L83
+clicks: -83
+dial:   49
+answer: 389
+
+R51
+clicks: 51
+dial:   0
+answer: 390
+
+L43
+clicks: -43
+dial:   57
+answer: 390
+
+L98
+clicks: -98
+dial:   59
+answer: 390
+
+R55
+clicks: 55
+dial:   14
+answer: 390
+
+L758
+clicks: -758
+dial:   56
+answer: 390
+
+R70
+clicks: 70
+dial:   26
+answer: 390
+
+L77
+clicks: -77
+dial:   49
+answer: 390
+
+L74
+clicks: -74
+dial:   75
+answer: 390
+
+L75
+clicks: -75
+dial:   0
+answer: 391
+
+R19
+clicks: 19
+dial:   19
+answer: 391
+
+L24
+clicks: -24
+dial:   95
+answer: 391
+
+L646
+clicks: -646
+dial:   49
+answer: 391
+
+L49
+clicks: -49
+dial:   0
+answer: 392
+
+R47
+clicks: 47
+dial:   47
+answer: 392
+
+R53
+clicks: 53
+dial:   0
+answer: 393
+
+R91
+clicks: 91
+dial:   91
+answer: 393
+
+R9
+clicks: 9
+dial:   0
+answer: 394
+
+L56
+clicks: -56
+dial:   44
+answer: 394
+
+R19
+clicks: 19
+dial:   63
+answer: 394
+
+R90
+clicks: 90
+dial:   53
+answer: 394
+
+R37
+clicks: 37
+dial:   90
+answer: 394
+
+L358
+clicks: -358
+dial:   32
+answer: 394
+
+R96
+clicks: 96
+dial:   28
+answer: 394
+
+R67
+clicks: 67
+dial:   95
+answer: 394
+
+R5
+clicks: 5
+dial:   0
+answer: 395
+
+R12
+clicks: 12
+dial:   12
+answer: 395
+
+R435
+clicks: 435
+dial:   47
+answer: 395
+
+L82
+clicks: -82
+dial:   65
+answer: 395
+
+R69
+clicks: 69
+dial:   34
+answer: 395
+
+L9
+clicks: -9
+dial:   25
+answer: 395
+
+L89
+clicks: -89
+dial:   36
+answer: 395
+
+R896
+clicks: 896
+dial:   32
+answer: 395
+
+L32
+clicks: -32
+dial:   0
+answer: 396
+
+L53
+clicks: -53
+dial:   47
+answer: 396
+
+R132
+clicks: 132
+dial:   79
+answer: 396
+
+L84
+clicks: -84
+dial:   95
+answer: 396
+
+R67
+clicks: 67
+dial:   62
+answer: 396
+
+L42
+clicks: -42
+dial:   20
+answer: 396
+
+L617
+clicks: -617
+dial:   3
+answer: 396
+
+L45
+clicks: -45
+dial:   58
+answer: 396
+
+L36
+clicks: -36
+dial:   22
+answer: 396
+
+R78
+clicks: 78
+dial:   0
+answer: 397
+
+R70
+clicks: 70
+dial:   70
+answer: 397
+
+R94
+clicks: 94
+dial:   64
+answer: 397
+
+R50
+clicks: 50
+dial:   14
+answer: 397
+
+L14
+clicks: -14
+dial:   0
+answer: 398
+
+R42
+clicks: 42
+dial:   42
+answer: 398
+
+R27
+clicks: 27
+dial:   69
+answer: 398
+
+L59
+clicks: -59
+dial:   10
+answer: 398
+
+L10
+clicks: -10
+dial:   0
+answer: 399
+
+R20
+clicks: 20
+dial:   20
+answer: 399
+
+R16
+clicks: 16
+dial:   36
+answer: 399
+
+R64
+clicks: 64
+dial:   0
+answer: 400
+
+L9
+clicks: -9
+dial:   91
+answer: 400
+
+L91
+clicks: -91
+dial:   0
+answer: 401
+
+R74
+clicks: 74
+dial:   74
+answer: 401
+
+L34
+clicks: -34
+dial:   40
+answer: 401
+
+L53
+clicks: -53
+dial:   87
+answer: 401
+
+L87
+clicks: -87
+dial:   0
+answer: 402
+
+R64
+clicks: 64
+dial:   64
+answer: 402
+
+L64
+clicks: -64
+dial:   0
+answer: 403
+
+L40
+clicks: -40
+dial:   60
+answer: 403
+
+R40
+clicks: 40
+dial:   0
+answer: 404
+
+R22
+clicks: 22
+dial:   22
+answer: 404
+
+L22
+clicks: -22
+dial:   0
+answer: 405
+
+L13
+clicks: -13
+dial:   87
+answer: 405
+
+R857
+clicks: 857
+dial:   44
+answer: 405
+
+R5
+clicks: 5
+dial:   49
+answer: 405
+
+R74
+clicks: 74
+dial:   23
+answer: 405
+
+R77
+clicks: 77
+dial:   0
+answer: 406
+
+R43
+clicks: 43
+dial:   43
+answer: 406
+
+R98
+clicks: 98
+dial:   41
+answer: 406
+
+R425
+clicks: 425
+dial:   66
+answer: 406
+
+L5
+clicks: -5
+dial:   61
+answer: 406
+
+R36
+clicks: 36
+dial:   97
+answer: 406
+
+L3
+clicks: -3
+dial:   94
+answer: 406
+
+L38
+clicks: -38
+dial:   56
+answer: 406
+
+L56
+clicks: -56
+dial:   0
+answer: 407
+
+L968
+clicks: -968
+dial:   32
+answer: 407
+
+R453
+clicks: 453
+dial:   85
+answer: 407
+
+L1
+clicks: -1
+dial:   84
+answer: 407
+
+L84
+clicks: -84
+dial:   0
+answer: 408
+
+L95
+clicks: -95
+dial:   5
+answer: 408
+
+L63
+clicks: -63
+dial:   42
+answer: 408
+
+R58
+clicks: 58
+dial:   0
+answer: 409
+
+L30
+clicks: -30
+dial:   70
+answer: 409
+
+L78
+clicks: -78
+dial:   92
+answer: 409
+
+L92
+clicks: -92
+dial:   0
+answer: 410
+
+L939
+clicks: -939
+dial:   61
+answer: 410
+
+R83
+clicks: 83
+dial:   44
+answer: 410
+
+L40
+clicks: -40
+dial:   4
+answer: 410
+
+L4
+clicks: -4
+dial:   0
+answer: 411
+
+R40
+clicks: 40
+dial:   40
+answer: 411
+
+L40
+clicks: -40
+dial:   0
+answer: 412
+
+R16
+clicks: 16
+dial:   16
+answer: 412
+
+R22
+clicks: 22
+dial:   38
+answer: 412
+
+R962
+clicks: 962
+dial:   0
+answer: 413
+
+R57
+clicks: 57
+dial:   57
+answer: 413
+
+L57
+clicks: -57
+dial:   0
+answer: 414
+
+L8
+clicks: -8
+dial:   92
+answer: 414
+
+R17
+clicks: 17
+dial:   9
+answer: 414
+
+R41
+clicks: 41
+dial:   50
+answer: 414
+
+R97
+clicks: 97
+dial:   47
+answer: 414
+
+R70
+clicks: 70
+dial:   17
+answer: 414
+
+L17
+clicks: -17
+dial:   0
+answer: 415
+
+L276
+clicks: -276
+dial:   24
+answer: 415
+
+R55
+clicks: 55
+dial:   79
+answer: 415
+
+R60
+clicks: 60
+dial:   39
+answer: 415
+
+R930
+clicks: 930
+dial:   69
+answer: 415
+
+R25
+clicks: 25
+dial:   94
+answer: 415
+
+L94
+clicks: -94
+dial:   0
+answer: 416
+
+R49
+clicks: 49
+dial:   49
+answer: 416
+
+R10
+clicks: 10
+dial:   59
+answer: 416
+
+R341
+clicks: 341
+dial:   0
+answer: 417
+
+L36
+clicks: -36
+dial:   64
+answer: 417
+
+R41
+clicks: 41
+dial:   5
+answer: 417
+
+R29
+clicks: 29
+dial:   34
+answer: 417
+
+L108
+clicks: -108
+dial:   26
+answer: 417
+
+L74
+clicks: -74
+dial:   52
+answer: 417
+
+L52
+clicks: -52
+dial:   0
+answer: 418
+
+R30
+clicks: 30
+dial:   30
+answer: 418
+
+R68
+clicks: 68
+dial:   98
+answer: 418
+
+L71
+clicks: -71
+dial:   27
+answer: 418
+
+R73
+clicks: 73
+dial:   0
+answer: 419
+
+R11
+clicks: 11
+dial:   11
+answer: 419
+
+L54
+clicks: -54
+dial:   57
+answer: 419
+
+R13
+clicks: 13
+dial:   70
+answer: 419
+
+L70
+clicks: -70
+dial:   0
+answer: 420
+
+R69
+clicks: 69
+dial:   69
+answer: 420
+
+L69
+clicks: -69
+dial:   0
+answer: 421
+
+L36
+clicks: -36
+dial:   64
+answer: 421
+
+R77
+clicks: 77
+dial:   41
+answer: 421
+
+R22
+clicks: 22
+dial:   63
+answer: 421
+
+R61
+clicks: 61
+dial:   24
+answer: 421
+
+R115
+clicks: 115
+dial:   39
+answer: 421
+
+L39
+clicks: -39
+dial:   0
+answer: 422
+
+L87
+clicks: -87
+dial:   13
+answer: 422
+
+L40
+clicks: -40
+dial:   73
+answer: 422
+
+R27
+clicks: 27
+dial:   0
+answer: 423
+
+L13
+clicks: -13
+dial:   87
+answer: 423
+
+R13
+clicks: 13
+dial:   0
+answer: 424
+
+R27
+clicks: 27
+dial:   27
+answer: 424
+
+L3
+clicks: -3
+dial:   24
+answer: 424
+
+R76
+clicks: 76
+dial:   0
+answer: 425
+
+R63
+clicks: 63
+dial:   63
+answer: 425
+
+R34
+clicks: 34
+dial:   97
+answer: 425
+
+L750
+clicks: -750
+dial:   47
+answer: 425
+
+L78
+clicks: -78
+dial:   69
+answer: 425
+
+L11
+clicks: -11
+dial:   58
+answer: 425
+
+R42
+clicks: 42
+dial:   0
+answer: 426
+
+R88
+clicks: 88
+dial:   88
+answer: 426
+
+R12
+clicks: 12
+dial:   0
+answer: 427
+
+R138
+clicks: 138
+dial:   38
+answer: 427
+
+R62
+clicks: 62
+dial:   0
+answer: 428
+
+R39
+clicks: 39
+dial:   39
+answer: 428
+
+L39
+clicks: -39
+dial:   0
+answer: 429
+
+L13
+clicks: -13
+dial:   87
+answer: 429
+
+L75
+clicks: -75
+dial:   12
+answer: 429
+
+R36
+clicks: 36
+dial:   48
+answer: 429
+
+R3
+clicks: 3
+dial:   51
+answer: 429
+
+L63
+clicks: -63
+dial:   88
+answer: 429
+
+L88
+clicks: -88
+dial:   0
+answer: 430
+
+L556
+clicks: -556
+dial:   44
+answer: 430
+
+R48
+clicks: 48
+dial:   92
+answer: 430
+
+R81
+clicks: 81
+dial:   73
+answer: 430
+
+R27
+clicks: 27
+dial:   0
+answer: 431
+
+R33
+clicks: 33
+dial:   33
+answer: 431
+
+R53
+clicks: 53
+dial:   86
+answer: 431
+
+L195
+clicks: -195
+dial:   91
+answer: 431
+
+L91
+clicks: -91
+dial:   0
+answer: 432
+
+R85
+clicks: 85
+dial:   85
+answer: 432
+
+L85
+clicks: -85
+dial:   0
+answer: 433
+
+R83
+clicks: 83
+dial:   83
+answer: 433
+
+R84
+clicks: 84
+dial:   67
+answer: 433
+
+L95
+clicks: -95
+dial:   72
+answer: 433
+
+R28
+clicks: 28
+dial:   0
+answer: 434
+
+R724
+clicks: 724
+dial:   24
+answer: 434
+
+L62
+clicks: -62
+dial:   62
+answer: 434
+
+L62
+clicks: -62
+dial:   0
+answer: 435
+
+L954
+clicks: -954
+dial:   46
+answer: 435
+
+L56
+clicks: -56
+dial:   90
+answer: 435
+
+R10
+clicks: 10
+dial:   0
+answer: 436
+
+L7
+clicks: -7
+dial:   93
+answer: 436
+
+L87
+clicks: -87
+dial:   6
+answer: 436
+
+R957
+clicks: 957
+dial:   63
+answer: 436
+
+R64
+clicks: 64
+dial:   27
+answer: 436
+
+R73
+clicks: 73
+dial:   0
+answer: 437
+
+L325
+clicks: -325
+dial:   75
+answer: 437
+
+L775
+clicks: -775
+dial:   0
+answer: 438
+
+R52
+clicks: 52
+dial:   52
+answer: 438
+
+R48
+clicks: 48
+dial:   0
+answer: 439
+
+R41
+clicks: 41
+dial:   41
+answer: 439
+
+L41
+clicks: -41
+dial:   0
+answer: 440
+
+L90
+clicks: -90
+dial:   10
+answer: 440
+
+R90
+clicks: 90
+dial:   0
+answer: 441
+
+L591
+clicks: -591
+dial:   9
+answer: 441
+
+R81
+clicks: 81
+dial:   90
+answer: 441
+
+L190
+clicks: -190
+dial:   0
+answer: 442
+
+L61
+clicks: -61
+dial:   39
+answer: 442
+
+L99
+clicks: -99
+dial:   40
+answer: 442
+
+L987
+clicks: -987
+dial:   53
+answer: 442
+
+R30
+clicks: 30
+dial:   83
+answer: 442
+
+R992
+clicks: 992
+dial:   75
+answer: 442
+
+L75
+clicks: -75
+dial:   0
+answer: 443
+
+L97
+clicks: -97
+dial:   3
+answer: 443
+
+R97
+clicks: 97
+dial:   0
+answer: 444
+
+R126
+clicks: 126
+dial:   26
+answer: 444
+
+R175
+clicks: 175
+dial:   1
+answer: 444
+
+L1
+clicks: -1
+dial:   0
+answer: 445
+
+R50
+clicks: 50
+dial:   50
+answer: 445
+
+L50
+clicks: -50
+dial:   0
+answer: 446
+
+R262
+clicks: 262
+dial:   62
+answer: 446
+
+R38
+clicks: 38
+dial:   0
+answer: 447
+
+L26
+clicks: -26
+dial:   74
+answer: 447
+
+L174
+clicks: -174
+dial:   0
+answer: 448
+
+R52
+clicks: 52
+dial:   52
+answer: 448
+
+L30
+clicks: -30
+dial:   22
+answer: 448
+
+R23
+clicks: 23
+dial:   45
+answer: 448
+
+R89
+clicks: 89
+dial:   34
+answer: 448
+
+L30
+clicks: -30
+dial:   4
+answer: 448
+
+R928
+clicks: 928
+dial:   32
+answer: 448
+
+L32
+clicks: -32
+dial:   0
+answer: 449
+
+L64
+clicks: -64
+dial:   36
+answer: 449
+
+L418
+clicks: -418
+dial:   18
+answer: 449
+
+R30
+clicks: 30
+dial:   48
+answer: 449
+
+L78
+clicks: -78
+dial:   70
+answer: 449
+
+R45
+clicks: 45
+dial:   15
+answer: 449
+
+L46
+clicks: -46
+dial:   69
+answer: 449
+
+R59
+clicks: 59
+dial:   28
+answer: 449
+
+L4
+clicks: -4
+dial:   24
+answer: 449
+
+L22
+clicks: -22
+dial:   2
+answer: 449
+
+R2
+clicks: 2
+dial:   4
+answer: 449
+
+R17
+clicks: 17
+dial:   21
+answer: 449
+
+L97
+clicks: -97
+dial:   24
+answer: 449
+
+R64
+clicks: 64
+dial:   88
+answer: 449
+
+L46
+clicks: -46
+dial:   42
+answer: 449
+
+L83
+clicks: -83
+dial:   59
+answer: 449
+
+L59
+clicks: -59
+dial:   0
+answer: 450
+
+L85
+clicks: -85
+dial:   15
+answer: 450
+
+R74
+clicks: 74
+dial:   89
+answer: 450
+
+L76
+clicks: -76
+dial:   13
+answer: 450
+
+L13
+clicks: -13
+dial:   0
+answer: 451
+
+R30
+clicks: 30
+dial:   30
+answer: 451
+
+L230
+clicks: -230
+dial:   0
+answer: 452
+
+R11
+clicks: 11
+dial:   11
+answer: 452
+
+L150
+clicks: -150
+dial:   61
+answer: 452
+
+L61
+clicks: -61
+dial:   0
+answer: 453
+
+R55
+clicks: 55
+dial:   55
+answer: 453
+
+L6
+clicks: -6
+dial:   49
+answer: 453
+
+L29
+clicks: -29
+dial:   20
+answer: 453
+
+L17
+clicks: -17
+dial:   3
+answer: 453
+
+L87
+clicks: -87
+dial:   16
+answer: 453
+
+R84
+clicks: 84
+dial:   0
+answer: 454
+
+R394
+clicks: 394
+dial:   94
+answer: 454
+
+L94
+clicks: -94
+dial:   0
+answer: 455
+
+R92
+clicks: 92
+dial:   92
+answer: 455
+
+L97
+clicks: -97
+dial:   95
+answer: 455
+
+L595
+clicks: -595
+dial:   0
+answer: 456
+
+R317
+clicks: 317
+dial:   17
+answer: 456
+
+L85
+clicks: -85
+dial:   32
+answer: 456
+
+L32
+clicks: -32
+dial:   0
+answer: 457
+
+L358
+clicks: -358
+dial:   42
+answer: 457
+
+R58
+clicks: 58
+dial:   0
+answer: 458
+
+L344
+clicks: -344
+dial:   56
+answer: 458
+
+L46
+clicks: -46
+dial:   10
+answer: 458
+
+L76
+clicks: -76
+dial:   34
+answer: 458
+
+L28
+clicks: -28
+dial:   6
+answer: 458
+
+L46
+clicks: -46
+dial:   60
+answer: 458
+
+R840
+clicks: 840
+dial:   0
+answer: 459
+
+L20
+clicks: -20
+dial:   80
+answer: 459
+
+R20
+clicks: 20
+dial:   0
+answer: 460
+
+R24
+clicks: 24
+dial:   24
+answer: 460
+
+R76
+clicks: 76
+dial:   0
+answer: 461
+
+R30
+clicks: 30
+dial:   30
+answer: 461
+
+L430
+clicks: -430
+dial:   0
+answer: 462
+
+L53
+clicks: -53
+dial:   47
+answer: 462
+
+R53
+clicks: 53
+dial:   0
+answer: 463
+
+L41
+clicks: -41
+dial:   59
+answer: 463
+
+R941
+clicks: 941
+dial:   0
+answer: 464
+
+L664
+clicks: -664
+dial:   36
+answer: 464
+
+L36
+clicks: -36
+dial:   0
+answer: 465
+
+L420
+clicks: -420
+dial:   80
+answer: 465
+
+R20
+clicks: 20
+dial:   0
+answer: 466
+
+R21
+clicks: 21
+dial:   21
+answer: 466
+
+L21
+clicks: -21
+dial:   0
+answer: 467
+
+L38
+clicks: -38
+dial:   62
+answer: 467
+
+R38
+clicks: 38
+dial:   0
+answer: 468
+
+L16
+clicks: -16
+dial:   84
+answer: 468
+
+L78
+clicks: -78
+dial:   6
+answer: 468
+
+R846
+clicks: 846
+dial:   52
+answer: 468
+
+L95
+clicks: -95
+dial:   57
+answer: 468
+
+L952
+clicks: -952
+dial:   5
+answer: 468
+
+L86
+clicks: -86
+dial:   19
+answer: 468
+
+L19
+clicks: -19
+dial:   0
+answer: 469
+
+L28
+clicks: -28
+dial:   72
+answer: 469
+
+R5
+clicks: 5
+dial:   77
+answer: 469
+
+R89
+clicks: 89
+dial:   66
+answer: 469
+
+R6
+clicks: 6
+dial:   72
+answer: 469
+
+R78
+clicks: 78
+dial:   50
+answer: 469
+
+L23
+clicks: -23
+dial:   27
+answer: 469
+
+L5
+clicks: -5
+dial:   22
+answer: 469
+
+L22
+clicks: -22
+dial:   0
+answer: 470
+
+R271
+clicks: 271
+dial:   71
+answer: 470
+
+R6
+clicks: 6
+dial:   77
+answer: 470
+
+R48
+clicks: 48
+dial:   25
+answer: 470
+
+R4
+clicks: 4
+dial:   29
+answer: 470
+
+L91
+clicks: -91
+dial:   38
+answer: 470
+
+R84
+clicks: 84
+dial:   22
+answer: 470
+
+R13
+clicks: 13
+dial:   35
+answer: 470
+
+R20
+clicks: 20
+dial:   55
+answer: 470
+
+L855
+clicks: -855
+dial:   0
+answer: 471
+
+R91
+clicks: 91
+dial:   91
+answer: 471
+
+L74
+clicks: -74
+dial:   17
+answer: 471
+
+R41
+clicks: 41
+dial:   58
+answer: 471
+
+L49
+clicks: -49
+dial:   9
+answer: 471
+
+L86
+clicks: -86
+dial:   23
+answer: 471
+
+R19
+clicks: 19
+dial:   42
+answer: 471
+
+L42
+clicks: -42
+dial:   0
+answer: 472
+
+R865
+clicks: 865
+dial:   65
+answer: 472
+
+L2
+clicks: -2
+dial:   63
+answer: 472
+
+R96
+clicks: 96
+dial:   59
+answer: 472
+
+L236
+clicks: -236
+dial:   23
+answer: 472
+
+L23
+clicks: -23
+dial:   0
+answer: 473
+
+L63
+clicks: -63
+dial:   37
+answer: 473
+
+R63
+clicks: 63
+dial:   0
+answer: 474
+
+L51
+clicks: -51
+dial:   49
+answer: 474
+
+R66
+clicks: 66
+dial:   15
+answer: 474
+
+L521
+clicks: -521
+dial:   94
+answer: 474
+
+L5
+clicks: -5
+dial:   89
+answer: 474
+
+R31
+clicks: 31
+dial:   20
+answer: 474
+
+L52
+clicks: -52
+dial:   68
+answer: 474
+
+L68
+clicks: -68
+dial:   0
+answer: 475
+
+R30
+clicks: 30
+dial:   30
+answer: 475
+
+L517
+clicks: -517
+dial:   13
+answer: 475
+
+L16
+clicks: -16
+dial:   97
+answer: 475
+
+L4
+clicks: -4
+dial:   93
+answer: 475
+
+R35
+clicks: 35
+dial:   28
+answer: 475
+
+R16
+clicks: 16
+dial:   44
+answer: 475
+
+L44
+clicks: -44
+dial:   0
+answer: 476
+
+R60
+clicks: 60
+dial:   60
+answer: 476
+
+L27
+clicks: -27
+dial:   33
+answer: 476
+
+R67
+clicks: 67
+dial:   0
+answer: 477
+
+L206
+clicks: -206
+dial:   94
+answer: 477
+
+L85
+clicks: -85
+dial:   9
+answer: 477
+
+R891
+clicks: 891
+dial:   0
+answer: 478
+
+L643
+clicks: -643
+dial:   57
+answer: 478
+
+R43
+clicks: 43
+dial:   0
+answer: 479
+
+L2
+clicks: -2
+dial:   98
+answer: 479
+
+L67
+clicks: -67
+dial:   31
+answer: 479
+
+L32
+clicks: -32
+dial:   99
+answer: 479
+
+R601
+clicks: 601
+dial:   0
+answer: 480
+
+R86
+clicks: 86
+dial:   86
+answer: 480
+
+R3
+clicks: 3
+dial:   89
+answer: 480
+
+R11
+clicks: 11
+dial:   0
+answer: 481
+
+L19
+clicks: -19
+dial:   81
+answer: 481
+
+R80
+clicks: 80
+dial:   61
+answer: 481
+
+L59
+clicks: -59
+dial:   2
+answer: 481
+
+L702
+clicks: -702
+dial:   0
+answer: 482
+
+L154
+clicks: -154
+dial:   46
+answer: 482
+
+R85
+clicks: 85
+dial:   31
+answer: 482
+
+R79
+clicks: 79
+dial:   10
+answer: 482
+
+R94
+clicks: 94
+dial:   4
+answer: 482
+
+R496
+clicks: 496
+dial:   0
+answer: 483
+
+L72
+clicks: -72
+dial:   28
+answer: 483
+
+R33
+clicks: 33
+dial:   61
+answer: 483
+
+L71
+clicks: -71
+dial:   90
+answer: 483
+
+R33
+clicks: 33
+dial:   23
+answer: 483
+
+L23
+clicks: -23
+dial:   0
+answer: 484
+
+R78
+clicks: 78
+dial:   78
+answer: 484
+
+R22
+clicks: 22
+dial:   0
+answer: 485
+
+L36
+clicks: -36
+dial:   64
+answer: 485
+
+R136
+clicks: 136
+dial:   0
+answer: 486
+
+R319
+clicks: 319
+dial:   19
+answer: 486
+
+L3
+clicks: -3
+dial:   16
+answer: 486
+
+R61
+clicks: 61
+dial:   77
+answer: 486
+
+R43
+clicks: 43
+dial:   20
+answer: 486
+
+L433
+clicks: -433
+dial:   87
+answer: 486
+
+L87
+clicks: -87
+dial:   0
+answer: 487
+
+R7
+clicks: 7
+dial:   7
+answer: 487
+
+R655
+clicks: 655
+dial:   62
+answer: 487
+
+R46
+clicks: 46
+dial:   8
+answer: 487
+
+R95
+clicks: 95
+dial:   3
+answer: 487
+
+L3
+clicks: -3
+dial:   0
+answer: 488
+
+R8
+clicks: 8
+dial:   8
+answer: 488
+
+L108
+clicks: -108
+dial:   0
+answer: 489
+
+L349
+clicks: -349
+dial:   51
+answer: 489
+
+L91
+clicks: -91
+dial:   60
+answer: 489
+
+L360
+clicks: -360
+dial:   0
+answer: 490
+
+R53
+clicks: 53
+dial:   53
+answer: 490
+
+L29
+clicks: -29
+dial:   24
+answer: 490
+
+R76
+clicks: 76
+dial:   0
+answer: 491
+
+R43
+clicks: 43
+dial:   43
+answer: 491
+
+R1
+clicks: 1
+dial:   44
+answer: 491
+
+R39
+clicks: 39
+dial:   83
+answer: 491
+
+L829
+clicks: -829
+dial:   54
+answer: 491
+
+L54
+clicks: -54
+dial:   0
+answer: 492
+
+L61
+clicks: -61
+dial:   39
+answer: 492
+
+R61
+clicks: 61
+dial:   0
+answer: 493
+
+R72
+clicks: 72
+dial:   72
+answer: 493
+
+L986
+clicks: -986
+dial:   86
+answer: 493
+
+R14
+clicks: 14
+dial:   0
+answer: 494
+
+R35
+clicks: 35
+dial:   35
+answer: 494
+
+R83
+clicks: 83
+dial:   18
+answer: 494
+
+R68
+clicks: 68
+dial:   86
+answer: 494
+
+R21
+clicks: 21
+dial:   7
+answer: 494
+
+L58
+clicks: -58
+dial:   49
+answer: 494
+
+L249
+clicks: -249
+dial:   0
+answer: 495
+
+R51
+clicks: 51
+dial:   51
+answer: 495
+
+L30
+clicks: -30
+dial:   21
+answer: 495
+
+R63
+clicks: 63
+dial:   84
+answer: 495
+
+L484
+clicks: -484
+dial:   0
+answer: 496
+
+R96
+clicks: 96
+dial:   96
+answer: 496
+
+L435
+clicks: -435
+dial:   61
+answer: 496
+
+R39
+clicks: 39
+dial:   0
+answer: 497
+
+R71
+clicks: 71
+dial:   71
+answer: 497
+
+R339
+clicks: 339
+dial:   10
+answer: 497
+
+L10
+clicks: -10
+dial:   0
+answer: 498
+
+R69
+clicks: 69
+dial:   69
+answer: 498
+
+L69
+clicks: -69
+dial:   0
+answer: 499
+
+R2
+clicks: 2
+dial:   2
+answer: 499
+
+L44
+clicks: -44
+dial:   58
+answer: 499
+
+R244
+clicks: 244
+dial:   2
+answer: 499
+
+L492
+clicks: -492
+dial:   10
+answer: 499
+
+L75
+clicks: -75
+dial:   35
+answer: 499
+
+R62
+clicks: 62
+dial:   97
+answer: 499
+
+R47
+clicks: 47
+dial:   44
+answer: 499
+
+L51
+clicks: -51
+dial:   93
+answer: 499
+
+R53
+clicks: 53
+dial:   46
+answer: 499
+
+L24
+clicks: -24
+dial:   22
+answer: 499
+
+L80
+clicks: -80
+dial:   42
+answer: 499
+
+R8
+clicks: 8
+dial:   50
+answer: 499
+
+R78
+clicks: 78
+dial:   28
+answer: 499
+
+R94
+clicks: 94
+dial:   22
+answer: 499
+
+L45
+clicks: -45
+dial:   77
+answer: 499
+
+R42
+clicks: 42
+dial:   19
+answer: 499
+
+L13
+clicks: -13
+dial:   6
+answer: 499
+
+L94
+clicks: -94
+dial:   12
+answer: 499
+
+L40
+clicks: -40
+dial:   72
+answer: 499
+
+L30
+clicks: -30
+dial:   42
+answer: 499
+
+L16
+clicks: -16
+dial:   26
+answer: 499
+
+L26
+clicks: -26
+dial:   0
+answer: 500
+
+L482
+clicks: -482
+dial:   18
+answer: 500
+
+R82
+clicks: 82
+dial:   0
+answer: 501
+
+L83
+clicks: -83
+dial:   17
+answer: 501
+
+R798
+clicks: 798
+dial:   15
+answer: 501
+
+R16
+clicks: 16
+dial:   31
+answer: 501
+
+R69
+clicks: 69
+dial:   0
+answer: 502
+
+R9
+clicks: 9
+dial:   9
+answer: 502
+
+R6
+clicks: 6
+dial:   15
+answer: 502
+
+L89
+clicks: -89
+dial:   26
+answer: 502
+
+L77
+clicks: -77
+dial:   49
+answer: 502
+
+L49
+clicks: -49
+dial:   0
+answer: 503
+
+L24
+clicks: -24
+dial:   76
+answer: 503
+
+L57
+clicks: -57
+dial:   19
+answer: 503
+
+R56
+clicks: 56
+dial:   75
+answer: 503
+
+L175
+clicks: -175
+dial:   0
+answer: 504
+
+L56
+clicks: -56
+dial:   44
+answer: 504
+
+R20
+clicks: 20
+dial:   64
+answer: 504
+
+R33
+clicks: 33
+dial:   97
+answer: 504
+
+R20
+clicks: 20
+dial:   17
+answer: 504
+
+L44
+clicks: -44
+dial:   73
+answer: 504
+
+L93
+clicks: -93
+dial:   80
+answer: 504
+
+R20
+clicks: 20
+dial:   0
+answer: 505
+
+R99
+clicks: 99
+dial:   99
+answer: 505
+
+L99
+clicks: -99
+dial:   0
+answer: 506
+
+R8
+clicks: 8
+dial:   8
+answer: 506
+
+L251
+clicks: -251
+dial:   57
+answer: 506
+
+L57
+clicks: -57
+dial:   0
+answer: 507
+
+L5
+clicks: -5
+dial:   95
+answer: 507
+
+R63
+clicks: 63
+dial:   58
+answer: 507
+
+L59
+clicks: -59
+dial:   99
+answer: 507
+
+R16
+clicks: 16
+dial:   15
+answer: 507
+
+R70
+clicks: 70
+dial:   85
+answer: 507
+
+L42
+clicks: -42
+dial:   43
+answer: 507
+
+L30
+clicks: -30
+dial:   13
+answer: 507
+
+L61
+clicks: -61
+dial:   52
+answer: 507
+
+R68
+clicks: 68
+dial:   20
+answer: 507
+
+R180
+clicks: 180
+dial:   0
+answer: 508
+
+L566
+clicks: -566
+dial:   34
+answer: 508
+
+L80
+clicks: -80
+dial:   54
+answer: 508
+
+L76
+clicks: -76
+dial:   78
+answer: 508
+
+L30
+clicks: -30
+dial:   48
+answer: 508
+
+R71
+clicks: 71
+dial:   19
+answer: 508
+
+L73
+clicks: -73
+dial:   46
+answer: 508
+
+R65
+clicks: 65
+dial:   11
+answer: 508
+
+R92
+clicks: 92
+dial:   3
+answer: 508
+
+L3
+clicks: -3
+dial:   0
+answer: 509
+
+R67
+clicks: 67
+dial:   67
+answer: 509
+
+R33
+clicks: 33
+dial:   0
+answer: 510
+
+L54
+clicks: -54
+dial:   46
+answer: 510
+
+L43
+clicks: -43
+dial:   3
+answer: 510
+
+L81
+clicks: -81
+dial:   22
+answer: 510
+
+R78
+clicks: 78
+dial:   0
+answer: 511
+
+L76
+clicks: -76
+dial:   24
+answer: 511
+
+L24
+clicks: -24
+dial:   0
+answer: 512
+
+R17
+clicks: 17
+dial:   17
+answer: 512
+
+L56
+clicks: -56
+dial:   61
+answer: 512
+
+L41
+clicks: -41
+dial:   20
+answer: 512
+
+L58
+clicks: -58
+dial:   62
+answer: 512
+
+R938
+clicks: 938
+dial:   0
+answer: 513
+
+R54
+clicks: 54
+dial:   54
+answer: 513
+
+L53
+clicks: -53
+dial:   1
+answer: 513
+
+L1
+clicks: -1
+dial:   0
+answer: 514
+
+L96
+clicks: -96
+dial:   4
+answer: 514
+
+L75
+clicks: -75
+dial:   29
+answer: 514
+
+R771
+clicks: 771
+dial:   0
+answer: 515
+
+L85
+clicks: -85
+dial:   15
+answer: 515
+
+L15
+clicks: -15
+dial:   0
+answer: 516
+
+L48
+clicks: -48
+dial:   52
+answer: 516
+
+R98
+clicks: 98
+dial:   50
+answer: 516
+
+L56
+clicks: -56
+dial:   94
+answer: 516
+
+L83
+clicks: -83
+dial:   11
+answer: 516
+
+R290
+clicks: 290
+dial:   1
+answer: 516
+
+L84
+clicks: -84
+dial:   17
+answer: 516
+
+L17
+clicks: -17
+dial:   0
+answer: 517
+
+R51
+clicks: 51
+dial:   51
+answer: 517
+
+R44
+clicks: 44
+dial:   95
+answer: 517
+
+R15
+clicks: 15
+dial:   10
+answer: 517
+
+L98
+clicks: -98
+dial:   12
+answer: 517
+
+L43
+clicks: -43
+dial:   69
+answer: 517
+
+L69
+clicks: -69
+dial:   0
+answer: 518
+
+R16
+clicks: 16
+dial:   16
+answer: 518
+
+R84
+clicks: 84
+dial:   0
+answer: 519
+
+R35
+clicks: 35
+dial:   35
+answer: 519
+
+R78
+clicks: 78
+dial:   13
+answer: 519
+
+L13
+clicks: -13
+dial:   0
+answer: 520
+
+L60
+clicks: -60
+dial:   40
+answer: 520
+
+R882
+clicks: 882
+dial:   22
+answer: 520
+
+R521
+clicks: 521
+dial:   43
+answer: 520
+
+R1
+clicks: 1
+dial:   44
+answer: 520
+
+L431
+clicks: -431
+dial:   13
+answer: 520
+
+R58
+clicks: 58
+dial:   71
+answer: 520
+
+R829
+clicks: 829
+dial:   0
+answer: 521
+
+R75
+clicks: 75
+dial:   75
+answer: 521
+
+R99
+clicks: 99
+dial:   74
+answer: 521
+
+L48
+clicks: -48
+dial:   26
+answer: 521
+
+R77
+clicks: 77
+dial:   3
+answer: 521
+
+L86
+clicks: -86
+dial:   17
+answer: 521
+
+R70
+clicks: 70
+dial:   87
+answer: 521
+
+R114
+clicks: 114
+dial:   1
+answer: 521
+
+R788
+clicks: 788
+dial:   89
+answer: 521
+
+R11
+clicks: 11
+dial:   0
+answer: 522
+
+L95
+clicks: -95
+dial:   5
+answer: 522
+
+L75
+clicks: -75
+dial:   30
+answer: 522
+
+R633
+clicks: 633
+dial:   63
+answer: 522
+
+L94
+clicks: -94
+dial:   69
+answer: 522
+
+R331
+clicks: 331
+dial:   0
+answer: 523
+
+R92
+clicks: 92
+dial:   92
+answer: 523
+
+L18
+clicks: -18
+dial:   74
+answer: 523
+
+L75
+clicks: -75
+dial:   99
+answer: 523
+
+L29
+clicks: -29
+dial:   70
+answer: 523
+
+L35
+clicks: -35
+dial:   35
+answer: 523
+
+R65
+clicks: 65
+dial:   0
+answer: 524
+
+L59
+clicks: -59
+dial:   41
+answer: 524
+
+L88
+clicks: -88
+dial:   53
+answer: 524
+
+L75
+clicks: -75
+dial:   78
+answer: 524
+
+L40
+clicks: -40
+dial:   38
+answer: 524
+
+R27
+clicks: 27
+dial:   65
+answer: 524
+
+L65
+clicks: -65
+dial:   0
+answer: 525
+
+L319
+clicks: -319
+dial:   81
+answer: 525
+
+R19
+clicks: 19
+dial:   0
+answer: 526
+
+R56
+clicks: 56
+dial:   56
+answer: 526
+
+L95
+clicks: -95
+dial:   61
+answer: 526
+
+R39
+clicks: 39
+dial:   0
+answer: 527
+
+R65
+clicks: 65
+dial:   65
+answer: 527
+
+R15
+clicks: 15
+dial:   80
+answer: 527
+
+R60
+clicks: 60
+dial:   40
+answer: 527
+
+L50
+clicks: -50
+dial:   90
+answer: 527
+
+R66
+clicks: 66
+dial:   56
+answer: 527
+
+L56
+clicks: -56
+dial:   0
+answer: 528
+
+R62
+clicks: 62
+dial:   62
+answer: 528
+
+L762
+clicks: -762
+dial:   0
+answer: 529
+
+L58
+clicks: -58
+dial:   42
+answer: 529
+
+L49
+clicks: -49
+dial:   93
+answer: 529
+
+L93
+clicks: -93
+dial:   0
+answer: 530
+
+R35
+clicks: 35
+dial:   35
+answer: 530
+
+L50
+clicks: -50
+dial:   85
+answer: 530
+
+R69
+clicks: 69
+dial:   54
+answer: 530
+
+R574
+clicks: 574
+dial:   28
+answer: 530
+
+L28
+clicks: -28
+dial:   0
+answer: 531
+
+R44
+clicks: 44
+dial:   44
+answer: 531
+
+R56
+clicks: 56
+dial:   0
+answer: 532
+
+L45
+clicks: -45
+dial:   55
+answer: 532
+
+R79
+clicks: 79
+dial:   34
+answer: 532
+
+L5
+clicks: -5
+dial:   29
+answer: 532
+
+R36
+clicks: 36
+dial:   65
+answer: 532
+
+L63
+clicks: -63
+dial:   2
+answer: 532
+
+L602
+clicks: -602
+dial:   0
+answer: 533
+
+L51
+clicks: -51
+dial:   49
+answer: 533
+
+L22
+clicks: -22
+dial:   27
+answer: 533
+
+L10
+clicks: -10
+dial:   17
+answer: 533
+
+R73
+clicks: 73
+dial:   90
+answer: 533
+
+L35
+clicks: -35
+dial:   55
+answer: 533
+
+R45
+clicks: 45
+dial:   0
+answer: 534
+
+R66
+clicks: 66
+dial:   66
+answer: 534
+
+R34
+clicks: 34
+dial:   0
+answer: 535
+
+L776
+clicks: -776
+dial:   24
+answer: 535
+
+R35
+clicks: 35
+dial:   59
+answer: 535
+
+L459
+clicks: -459
+dial:   0
+answer: 536
+
+L10
+clicks: -10
+dial:   90
+answer: 536
+
+L261
+clicks: -261
+dial:   29
+answer: 536
+
+L57
+clicks: -57
+dial:   72
+answer: 536
+
+L87
+clicks: -87
+dial:   85
+answer: 536
+
+L260
+clicks: -260
+dial:   25
+answer: 536
+
+R13
+clicks: 13
+dial:   38
+answer: 536
+
+R70
+clicks: 70
+dial:   8
+answer: 536
+
+R92
+clicks: 92
+dial:   0
+answer: 537
+
+L23
+clicks: -23
+dial:   77
+answer: 537
+
+L87
+clicks: -87
+dial:   90
+answer: 537
+
+L90
+clicks: -90
+dial:   0
+answer: 538
+
+L517
+clicks: -517
+dial:   83
+answer: 538
+
+L38
+clicks: -38
+dial:   45
+answer: 538
+
+L78
+clicks: -78
+dial:   67
+answer: 538
+
+R410
+clicks: 410
+dial:   77
+answer: 538
+
+L89
+clicks: -89
+dial:   88
+answer: 538
+
+L30
+clicks: -30
+dial:   58
+answer: 538
+
+R87
+clicks: 87
+dial:   45
+answer: 538
+
+L36
+clicks: -36
+dial:   9
+answer: 538
+
+L14
+clicks: -14
+dial:   95
+answer: 538
+
+R19
+clicks: 19
+dial:   14
+answer: 538
+
+R29
+clicks: 29
+dial:   43
+answer: 538
+
+L43
+clicks: -43
+dial:   0
+answer: 539
+
+R81
+clicks: 81
+dial:   81
+answer: 539
+
+R57
+clicks: 57
+dial:   38
+answer: 539
+
+L338
+clicks: -338
+dial:   0
+answer: 540
+
+L22
+clicks: -22
+dial:   78
+answer: 540
+
+L15
+clicks: -15
+dial:   63
+answer: 540
+
+R79
+clicks: 79
+dial:   42
+answer: 540
+
+R56
+clicks: 56
+dial:   98
+answer: 540
+
+R648
+clicks: 648
+dial:   46
+answer: 540
+
+L912
+clicks: -912
+dial:   34
+answer: 540
+
+R59
+clicks: 59
+dial:   93
+answer: 540
+
+L90
+clicks: -90
+dial:   3
+answer: 540
+
+L29
+clicks: -29
+dial:   74
+answer: 540
+
+R17
+clicks: 17
+dial:   91
+answer: 540
+
+L11
+clicks: -11
+dial:   80
+answer: 540
+
+R520
+clicks: 520
+dial:   0
+answer: 541
+
+R86
+clicks: 86
+dial:   86
+answer: 541
+
+R14
+clicks: 14
+dial:   0
+answer: 542
+
+R97
+clicks: 97
+dial:   97
+answer: 542
+
+R73
+clicks: 73
+dial:   70
+answer: 542
+
+L85
+clicks: -85
+dial:   85
+answer: 542
+
+L96
+clicks: -96
+dial:   89
+answer: 542
+
+R720
+clicks: 720
+dial:   9
+answer: 542
+
+R707
+clicks: 707
+dial:   16
+answer: 542
+
+L95
+clicks: -95
+dial:   21
+answer: 542
+
+R54
+clicks: 54
+dial:   75
+answer: 542
+
+L52
+clicks: -52
+dial:   23
+answer: 542
+
+L97
+clicks: -97
+dial:   26
+answer: 542
+
+L26
+clicks: -26
+dial:   0
+answer: 543
+
+L98
+clicks: -98
+dial:   2
+answer: 543
+
+R578
+clicks: 578
+dial:   80
+answer: 543
+
+L62
+clicks: -62
+dial:   18
+answer: 543
+
+R80
+clicks: 80
+dial:   98
+answer: 543
+
+R8
+clicks: 8
+dial:   6
+answer: 543
+
+L6
+clicks: -6
+dial:   0
+answer: 544
+
+L37
+clicks: -37
+dial:   63
+answer: 544
+
+R437
+clicks: 437
+dial:   0
+answer: 545
+
+L47
+clicks: -47
+dial:   53
+answer: 545
+
+L16
+clicks: -16
+dial:   37
+answer: 545
+
+R61
+clicks: 61
+dial:   98
+answer: 545
+
+L98
+clicks: -98
+dial:   0
+answer: 546
+
+L59
+clicks: -59
+dial:   41
+answer: 546
+
+L98
+clicks: -98
+dial:   43
+answer: 546
+
+L63
+clicks: -63
+dial:   80
+answer: 546
+
+L55
+clicks: -55
+dial:   25
+answer: 546
+
+L325
+clicks: -325
+dial:   0
+answer: 547
+
+L11
+clicks: -11
+dial:   89
+answer: 547
+
+L25
+clicks: -25
+dial:   64
+answer: 547
+
+L98
+clicks: -98
+dial:   66
+answer: 547
+
+L39
+clicks: -39
+dial:   27
+answer: 547
+
+L27
+clicks: -27
+dial:   0
+answer: 548
+
+R20
+clicks: 20
+dial:   20
+answer: 548
+
+L739
+clicks: -739
+dial:   81
+answer: 548
+
+L781
+clicks: -781
+dial:   0
+answer: 549
+
+L48
+clicks: -48
+dial:   52
+answer: 549
+
+L206
+clicks: -206
+dial:   46
+answer: 549
+
+L37
+clicks: -37
+dial:   9
+answer: 549
+
+L37
+clicks: -37
+dial:   72
+answer: 549
+
+L87
+clicks: -87
+dial:   85
+answer: 549
+
+R22
+clicks: 22
+dial:   7
+answer: 549
+
+R26
+clicks: 26
+dial:   33
+answer: 549
+
+L33
+clicks: -33
+dial:   0
+answer: 550
+
+R67
+clicks: 67
+dial:   67
+answer: 550
+
+R552
+clicks: 552
+dial:   19
+answer: 550
+
+L67
+clicks: -67
+dial:   52
+answer: 550
+
+L84
+clicks: -84
+dial:   68
+answer: 550
+
+R32
+clicks: 32
+dial:   0
+answer: 551
+
+R48
+clicks: 48
+dial:   48
+answer: 551
+
+L88
+clicks: -88
+dial:   60
+answer: 551
+
+R27
+clicks: 27
+dial:   87
+answer: 551
+
+R78
+clicks: 78
+dial:   65
+answer: 551
+
+R79
+clicks: 79
+dial:   44
+answer: 551
+
+R250
+clicks: 250
+dial:   94
+answer: 551
+
+L82
+clicks: -82
+dial:   12
+answer: 551
+
+L54
+clicks: -54
+dial:   58
+answer: 551
+
+L95
+clicks: -95
+dial:   63
+answer: 551
+
+R37
+clicks: 37
+dial:   0
+answer: 552
+
+L83
+clicks: -83
+dial:   17
+answer: 552
+
+R83
+clicks: 83
+dial:   0
+answer: 553
+
+R46
+clicks: 46
+dial:   46
+answer: 553
+
+L51
+clicks: -51
+dial:   95
+answer: 553
+
+R46
+clicks: 46
+dial:   41
+answer: 553
+
+R59
+clicks: 59
+dial:   0
+answer: 554
+
+L217
+clicks: -217
+dial:   83
+answer: 554
+
+R835
+clicks: 835
+dial:   18
+answer: 554
+
+L65
+clicks: -65
+dial:   53
+answer: 554
+
+R50
+clicks: 50
+dial:   3
+answer: 554
+
+L557
+clicks: -557
+dial:   46
+answer: 554
+
+R154
+clicks: 154
+dial:   0
+answer: 555
+
+L87
+clicks: -87
+dial:   13
+answer: 555
+
+L741
+clicks: -741
+dial:   72
+answer: 555
+
+R93
+clicks: 93
+dial:   65
+answer: 555
+
+L65
+clicks: -65
+dial:   0
+answer: 556
+
+L519
+clicks: -519
+dial:   81
+answer: 556
+
+R187
+clicks: 187
+dial:   68
+answer: 556
+
+R16
+clicks: 16
+dial:   84
+answer: 556
+
+R16
+clicks: 16
+dial:   0
+answer: 557
+
+R82
+clicks: 82
+dial:   82
+answer: 557
+
+L82
+clicks: -82
+dial:   0
+answer: 558
+
+L89
+clicks: -89
+dial:   11
+answer: 558
+
+L211
+clicks: -211
+dial:   0
+answer: 559
+
+L719
+clicks: -719
+dial:   81
+answer: 559
+
+L3
+clicks: -3
+dial:   78
+answer: 559
+
+R22
+clicks: 22
+dial:   0
+answer: 560
+
+R29
+clicks: 29
+dial:   29
+answer: 560
+
+L29
+clicks: -29
+dial:   0
+answer: 561
+
+L23
+clicks: -23
+dial:   77
+answer: 561
+
+L77
+clicks: -77
+dial:   0
+answer: 562
+
+R3
+clicks: 3
+dial:   3
+answer: 562
+
+L3
+clicks: -3
+dial:   0
+answer: 563
+
+R71
+clicks: 71
+dial:   71
+answer: 563
+
+L71
+clicks: -71
+dial:   0
+answer: 564
+
+R636
+clicks: 636
+dial:   36
+answer: 564
+
+R64
+clicks: 64
+dial:   0
+answer: 565
+
+R103
+clicks: 103
+dial:   3
+answer: 565
+
+L741
+clicks: -741
+dial:   62
+answer: 565
+
+R88
+clicks: 88
+dial:   50
+answer: 565
+
+R550
+clicks: 550
+dial:   0
+answer: 566
+
+R49
+clicks: 49
+dial:   49
+answer: 566
+
+L66
+clicks: -66
+dial:   83
+answer: 566
+
+L97
+clicks: -97
+dial:   86
+answer: 566
+
+R114
+clicks: 114
+dial:   0
+answer: 567
+
+L881
+clicks: -881
+dial:   19
+answer: 567
+
+R17
+clicks: 17
+dial:   36
+answer: 567
+
+L91
+clicks: -91
+dial:   45
+answer: 567
+
+L15
+clicks: -15
+dial:   30
+answer: 567
+
+R70
+clicks: 70
+dial:   0
+answer: 568
+
+R21
+clicks: 21
+dial:   21
+answer: 568
+
+R714
+clicks: 714
+dial:   35
+answer: 568
+
+L71
+clicks: -71
+dial:   64
+answer: 568
+
+R10
+clicks: 10
+dial:   74
+answer: 568
+
+R47
+clicks: 47
+dial:   21
+answer: 568
+
+R665
+clicks: 665
+dial:   86
+answer: 568
+
+R14
+clicks: 14
+dial:   0
+answer: 569
+
+L41
+clicks: -41
+dial:   59
+answer: 569
+
+L68
+clicks: -68
+dial:   91
+answer: 569
+
+L98
+clicks: -98
+dial:   93
+answer: 569
+
+R89
+clicks: 89
+dial:   82
+answer: 569
+
+R95
+clicks: 95
+dial:   77
+answer: 569
+
+R23
+clicks: 23
+dial:   0
+answer: 570
+
+L76
+clicks: -76
+dial:   24
+answer: 570
+
+R92
+clicks: 92
+dial:   16
+answer: 570
+
+L47
+clicks: -47
+dial:   69
+answer: 570
+
+R222
+clicks: 222
+dial:   91
+answer: 570
+
+L48
+clicks: -48
+dial:   43
+answer: 570
+
+L63
+clicks: -63
+dial:   80
+answer: 570
+
+R43
+clicks: 43
+dial:   23
+answer: 570
+
+R73
+clicks: 73
+dial:   96
+answer: 570
+
+L96
+clicks: -96
+dial:   0
+answer: 571
+
+R23
+clicks: 23
+dial:   23
+answer: 571
+
+L23
+clicks: -23
+dial:   0
+answer: 572
+
+L34
+clicks: -34
+dial:   66
+answer: 572
+
+L54
+clicks: -54
+dial:   12
+answer: 572
+
+R96
+clicks: 96
+dial:   8
+answer: 572
+
+L66
+clicks: -66
+dial:   42
+answer: 572
+
+R32
+clicks: 32
+dial:   74
+answer: 572
+
+R997
+clicks: 997
+dial:   71
+answer: 572
+
+R23
+clicks: 23
+dial:   94
+answer: 572
+
+L2
+clicks: -2
+dial:   92
+answer: 572
+
+R44
+clicks: 44
+dial:   36
+answer: 572
+
+R41
+clicks: 41
+dial:   77
+answer: 572
+
+R12
+clicks: 12
+dial:   89
+answer: 572
+
+R27
+clicks: 27
+dial:   16
+answer: 572
+
+L24
+clicks: -24
+dial:   92
+answer: 572
+
+R808
+clicks: 808
+dial:   0
+answer: 573
+
+L59
+clicks: -59
+dial:   41
+answer: 573
+
+R5
+clicks: 5
+dial:   46
+answer: 573
+
+R33
+clicks: 33
+dial:   79
+answer: 573
+
+L54
+clicks: -54
+dial:   25
+answer: 573
+
+R953
+clicks: 953
+dial:   78
+answer: 573
+
+R1
+clicks: 1
+dial:   79
+answer: 573
+
+R21
+clicks: 21
+dial:   0
+answer: 574
+
+L973
+clicks: -973
+dial:   27
+answer: 574
+
+L27
+clicks: -27
+dial:   0
+answer: 575
+
+R91
+clicks: 91
+dial:   91
+answer: 575
+
+L64
+clicks: -64
+dial:   27
+answer: 575
+
+R55
+clicks: 55
+dial:   82
+answer: 575
+
+R618
+clicks: 618
+dial:   0
+answer: 576
+
+L34
+clicks: -34
+dial:   66
+answer: 576
+
+L26
+clicks: -26
+dial:   40
+answer: 576
+
+R94
+clicks: 94
+dial:   34
+answer: 576
+
+R64
+clicks: 64
+dial:   98
+answer: 576
+
+R368
+clicks: 368
+dial:   66
+answer: 576
+
+R34
+clicks: 34
+dial:   0
+answer: 577
+
+R65
+clicks: 65
+dial:   65
+answer: 577
+
+L65
+clicks: -65
+dial:   0
+answer: 578
+
+L176
+clicks: -176
+dial:   24
+answer: 578
+
+R76
+clicks: 76
+dial:   0
+answer: 579
+
+R295
+clicks: 295
+dial:   95
+answer: 579
+
+L172
+clicks: -172
+dial:   23
+answer: 579
+
+L49
+clicks: -49
+dial:   74
+answer: 579
+
+R40
+clicks: 40
+dial:   14
+answer: 579
+
+R83
+clicks: 83
+dial:   97
+answer: 579
+
+L76
+clicks: -76
+dial:   21
+answer: 579
+
+R79
+clicks: 79
+dial:   0
+answer: 580
+
+L69
+clicks: -69
+dial:   31
+answer: 580
+
+L17
+clicks: -17
+dial:   14
+answer: 580
+
+R63
+clicks: 63
+dial:   77
+answer: 580
+
+R223
+clicks: 223
+dial:   0
+answer: 581
+
+R41
+clicks: 41
+dial:   41
+answer: 581
+
+L49
+clicks: -49
+dial:   92
+answer: 581
+
+L92
+clicks: -92
+dial:   0
+answer: 582
+
+R81
+clicks: 81
+dial:   81
+answer: 582
+
+R19
+clicks: 19
+dial:   0
+answer: 583
+
+L84
+clicks: -84
+dial:   16
+answer: 583
+
+R46
+clicks: 46
+dial:   62
+answer: 583
+
+R38
+clicks: 38
+dial:   0
+answer: 584
+
+L89
+clicks: -89
+dial:   11
+answer: 584
+
+R89
+clicks: 89
+dial:   0
+answer: 585
+
+R496
+clicks: 496
+dial:   96
+answer: 585
+
+L58
+clicks: -58
+dial:   38
+answer: 585
+
+R24
+clicks: 24
+dial:   62
+answer: 585
+
+R11
+clicks: 11
+dial:   73
+answer: 585
+
+L39
+clicks: -39
+dial:   34
+answer: 585
+
+R59
+clicks: 59
+dial:   93
+answer: 585
+
+R7
+clicks: 7
+dial:   0
+answer: 586
+
+R582
+clicks: 582
+dial:   82
+answer: 586
+
+L82
+clicks: -82
+dial:   0
+answer: 587
+
+L44
+clicks: -44
+dial:   56
+answer: 587
+
+R44
+clicks: 44
+dial:   0
+answer: 588
+
+L10
+clicks: -10
+dial:   90
+answer: 588
+
+L528
+clicks: -528
+dial:   62
+answer: 588
+
+R238
+clicks: 238
+dial:   0
+answer: 589
+
+R89
+clicks: 89
+dial:   89
+answer: 589
+
+R98
+clicks: 98
+dial:   87
+answer: 589
+
+R92
+clicks: 92
+dial:   79
+answer: 589
+
+L53
+clicks: -53
+dial:   26
+answer: 589
+
+R74
+clicks: 74
+dial:   0
+answer: 590
+
+R29
+clicks: 29
+dial:   29
+answer: 590
+
+L75
+clicks: -75
+dial:   54
+answer: 590
+
+L60
+clicks: -60
+dial:   94
+answer: 590
+
+L38
+clicks: -38
+dial:   56
+answer: 590
+
+R44
+clicks: 44
+dial:   0
+answer: 591
+
+L109
+clicks: -109
+dial:   91
+answer: 591
+
+R209
+clicks: 209
+dial:   0
+answer: 592
+
+R84
+clicks: 84
+dial:   84
+answer: 592
+
+R417
+clicks: 417
+dial:   1
+answer: 592
+
+L154
+clicks: -154
+dial:   47
+answer: 592
+
+L447
+clicks: -447
+dial:   0
+answer: 593
+
+R34
+clicks: 34
+dial:   34
+answer: 593
+
+L65
+clicks: -65
+dial:   69
+answer: 593
+
+L215
+clicks: -215
+dial:   54
+answer: 593
+
+L39
+clicks: -39
+dial:   15
+answer: 593
+
+L15
+clicks: -15
+dial:   0
+answer: 594
+
+R97
+clicks: 97
+dial:   97
+answer: 594
+
+R74
+clicks: 74
+dial:   71
+answer: 594
+
+L91
+clicks: -91
+dial:   80
+answer: 594
+
+R20
+clicks: 20
+dial:   0
+answer: 595
+
+R2
+clicks: 2
+dial:   2
+answer: 595
+
+L502
+clicks: -502
+dial:   0
+answer: 596
+
+R94
+clicks: 94
+dial:   94
+answer: 596
+
+R6
+clicks: 6
+dial:   0
+answer: 597
+
+L75
+clicks: -75
+dial:   25
+answer: 597
+
+L682
+clicks: -682
+dial:   43
+answer: 597
+
+R57
+clicks: 57
+dial:   0
+answer: 598
+
+R15
+clicks: 15
+dial:   15
+answer: 598
+
+R72
+clicks: 72
+dial:   87
+answer: 598
+
+L487
+clicks: -487
+dial:   0
+answer: 599
+
+R440
+clicks: 440
+dial:   40
+answer: 599
+
+R617
+clicks: 617
+dial:   57
+answer: 599
+
+L11
+clicks: -11
+dial:   46
+answer: 599
+
+R54
+clicks: 54
+dial:   0
+answer: 600
+
+R18
+clicks: 18
+dial:   18
+answer: 600
+
+L20
+clicks: -20
+dial:   98
+answer: 600
+
+R275
+clicks: 275
+dial:   73
+answer: 600
+
+R41
+clicks: 41
+dial:   14
+answer: 600
+
+L14
+clicks: -14
+dial:   0
+answer: 601
+
+L59
+clicks: -59
+dial:   41
+answer: 601
+
+L42
+clicks: -42
+dial:   99
+answer: 601
+
+L99
+clicks: -99
+dial:   0
+answer: 602
+
+L832
+clicks: -832
+dial:   68
+answer: 602
+
+L52
+clicks: -52
+dial:   16
+answer: 602
+
+L88
+clicks: -88
+dial:   28
+answer: 602
+
+L28
+clicks: -28
+dial:   0
+answer: 603
+
+R76
+clicks: 76
+dial:   76
+answer: 603
+
+R71
+clicks: 71
+dial:   47
+answer: 603
+
+R9
+clicks: 9
+dial:   56
+answer: 603
+
+L56
+clicks: -56
+dial:   0
+answer: 604
+
+L10
+clicks: -10
+dial:   90
+answer: 604
+
+L790
+clicks: -790
+dial:   0
+answer: 605
+
+L746
+clicks: -746
+dial:   54
+answer: 605
+
+R63
+clicks: 63
+dial:   17
+answer: 605
+
+L96
+clicks: -96
+dial:   21
+answer: 605
+
+R13
+clicks: 13
+dial:   34
+answer: 605
+
+L34
+clicks: -34
+dial:   0
+answer: 606
+
+R901
+clicks: 901
+dial:   1
+answer: 606
+
+R99
+clicks: 99
+dial:   0
+answer: 607
+
+R68
+clicks: 68
+dial:   68
+answer: 607
+
+R32
+clicks: 32
+dial:   0
+answer: 608
+
+L81
+clicks: -81
+dial:   19
+answer: 608
+
+L68
+clicks: -68
+dial:   51
+answer: 608
+
+L18
+clicks: -18
+dial:   33
+answer: 608
+
+L29
+clicks: -29
+dial:   4
+answer: 608
+
+R5
+clicks: 5
+dial:   9
+answer: 608
+
+R24
+clicks: 24
+dial:   33
+answer: 608
+
+R767
+clicks: 767
+dial:   0
+answer: 609
+
+L29
+clicks: -29
+dial:   71
+answer: 609
+
+R81
+clicks: 81
+dial:   52
+answer: 609
+
+L52
+clicks: -52
+dial:   0
+answer: 610
+
+L37
+clicks: -37
+dial:   63
+answer: 610
+
+R9
+clicks: 9
+dial:   72
+answer: 610
+
+R928
+clicks: 928
+dial:   0
+answer: 611
+
+L91
+clicks: -91
+dial:   9
+answer: 611
+
+L44
+clicks: -44
+dial:   65
+answer: 611
+
+L97
+clicks: -97
+dial:   68
+answer: 611
+
+L68
+clicks: -68
+dial:   0
+answer: 612
+
+L95
+clicks: -95
+dial:   5
+answer: 612
+
+L5
+clicks: -5
+dial:   0
+answer: 613
+
+L55
+clicks: -55
+dial:   45
+answer: 613
+
+L30
+clicks: -30
+dial:   15
+answer: 613
+
+L76
+clicks: -76
+dial:   39
+answer: 613
+
+R61
+clicks: 61
+dial:   0
+answer: 614
+
+R79
+clicks: 79
+dial:   79
+answer: 614
+
+R73
+clicks: 73
+dial:   52
+answer: 614
+
+L81
+clicks: -81
+dial:   71
+answer: 614
+
+R75
+clicks: 75
+dial:   46
+answer: 614
+
+L650
+clicks: -650
+dial:   96
+answer: 614
+
+L836
+clicks: -836
+dial:   60
+answer: 614
+
+L65
+clicks: -65
+dial:   95
+answer: 614
+
+L95
+clicks: -95
+dial:   0
+answer: 615
+
+R43
+clicks: 43
+dial:   43
+answer: 615
+
+R57
+clicks: 57
+dial:   0
+answer: 616
+
+R9
+clicks: 9
+dial:   9
+answer: 616
+
+R64
+clicks: 64
+dial:   73
+answer: 616
+
+R27
+clicks: 27
+dial:   0
+answer: 617
+
+R62
+clicks: 62
+dial:   62
+answer: 617
+
+L210
+clicks: -210
+dial:   52
+answer: 617
+
+L283
+clicks: -283
+dial:   69
+answer: 617
+
+R731
+clicks: 731
+dial:   0
+answer: 618
+
+R1
+clicks: 1
+dial:   1
+answer: 618
+
+R299
+clicks: 299
+dial:   0
+answer: 619
+
+R23
+clicks: 23
+dial:   23
+answer: 619
+
+R54
+clicks: 54
+dial:   77
+answer: 619
+
+R87
+clicks: 87
+dial:   64
+answer: 619
+
+L864
+clicks: -864
+dial:   0
+answer: 620
+
+L35
+clicks: -35
+dial:   65
+answer: 620
+
+R82
+clicks: 82
+dial:   47
+answer: 620
+
+R61
+clicks: 61
+dial:   8
+answer: 620
+
+L158
+clicks: -158
+dial:   50
+answer: 620
+
+R682
+clicks: 682
+dial:   32
+answer: 620
+
+L804
+clicks: -804
+dial:   28
+answer: 620
+
+L28
+clicks: -28
+dial:   0
+answer: 621
+
+L288
+clicks: -288
+dial:   12
+answer: 621
+
+R88
+clicks: 88
+dial:   0
+answer: 622
+
+L5
+clicks: -5
+dial:   95
+answer: 622
+
+R86
+clicks: 86
+dial:   81
+answer: 622
+
+R8
+clicks: 8
+dial:   89
+answer: 622
+
+L8
+clicks: -8
+dial:   81
+answer: 622
+
+R19
+clicks: 19
+dial:   0
+answer: 623
+
+R138
+clicks: 138
+dial:   38
+answer: 623
+
+R570
+clicks: 570
+dial:   8
+answer: 623
+
+R50
+clicks: 50
+dial:   58
+answer: 623
+
+L52
+clicks: -52
+dial:   6
+answer: 623
+
+L43
+clicks: -43
+dial:   63
+answer: 623
+
+L47
+clicks: -47
+dial:   16
+answer: 623
+
+L99
+clicks: -99
+dial:   17
+answer: 623
+
+R83
+clicks: 83
+dial:   0
+answer: 624
+
+L26
+clicks: -26
+dial:   74
+answer: 624
+
+R426
+clicks: 426
+dial:   0
+answer: 625
+
+R13
+clicks: 13
+dial:   13
+answer: 625
+
+R13
+clicks: 13
+dial:   26
+answer: 625
+
+L28
+clicks: -28
+dial:   98
+answer: 625
+
+L88
+clicks: -88
+dial:   10
+answer: 625
+
+L675
+clicks: -675
+dial:   35
+answer: 625
+
+R77
+clicks: 77
+dial:   12
+answer: 625
+
+L412
+clicks: -412
+dial:   0
+answer: 626
+
+R385
+clicks: 385
+dial:   85
+answer: 626
+
+L37
+clicks: -37
+dial:   48
+answer: 626
+
+L95
+clicks: -95
+dial:   53
+answer: 626
+
+L10
+clicks: -10
+dial:   43
+answer: 626
+
+L843
+clicks: -843
+dial:   0
+answer: 627
+
+R9
+clicks: 9
+dial:   9
+answer: 627
+
+L9
+clicks: -9
+dial:   0
+answer: 628
+
+R55
+clicks: 55
+dial:   55
+answer: 628
+
+L78
+clicks: -78
+dial:   77
+answer: 628
+
+L25
+clicks: -25
+dial:   52
+answer: 628
+
+R55
+clicks: 55
+dial:   7
+answer: 628
+
+L52
+clicks: -52
+dial:   55
+answer: 628
+
+L55
+clicks: -55
+dial:   0
+answer: 629
+
+R71
+clicks: 71
+dial:   71
+answer: 629
+
+R29
+clicks: 29
+dial:   0
+answer: 630
+
+L6
+clicks: -6
+dial:   94
+answer: 630
+
+L94
+clicks: -94
+dial:   0
+answer: 631
+
+L63
+clicks: -63
+dial:   37
+answer: 631
+
+R77
+clicks: 77
+dial:   14
+answer: 631
+
+R8
+clicks: 8
+dial:   22
+answer: 631
+
+L15
+clicks: -15
+dial:   7
+answer: 631
+
+L907
+clicks: -907
+dial:   0
+answer: 632
+
+R89
+clicks: 89
+dial:   89
+answer: 632
+
+L689
+clicks: -689
+dial:   0
+answer: 633
+
+L88
+clicks: -88
+dial:   12
+answer: 633
+
+R89
+clicks: 89
+dial:   1
+answer: 633
+
+L1
+clicks: -1
+dial:   0
+answer: 634
+
+L53
+clicks: -53
+dial:   47
+answer: 634
+
+R53
+clicks: 53
+dial:   0
+answer: 635
+
+L85
+clicks: -85
+dial:   15
+answer: 635
+
+L15
+clicks: -15
+dial:   0
+answer: 636
+
+R57
+clicks: 57
+dial:   57
+answer: 636
+
+R86
+clicks: 86
+dial:   43
+answer: 636
+
+L12
+clicks: -12
+dial:   31
+answer: 636
+
+L2
+clicks: -2
+dial:   29
+answer: 636
+
+L647
+clicks: -647
+dial:   82
+answer: 636
+
+R41
+clicks: 41
+dial:   23
+answer: 636
+
+R677
+clicks: 677
+dial:   0
+answer: 637
+
+L25
+clicks: -25
+dial:   75
+answer: 637
+
+R25
+clicks: 25
+dial:   0
+answer: 638
+
+L69
+clicks: -69
+dial:   31
+answer: 638
+
+R38
+clicks: 38
+dial:   69
+answer: 638
+
+R31
+clicks: 31
+dial:   0
+answer: 639
+
+L14
+clicks: -14
+dial:   86
+answer: 639
+
+R14
+clicks: 14
+dial:   0
+answer: 640
+
+L63
+clicks: -63
+dial:   37
+answer: 640
+
+R63
+clicks: 63
+dial:   0
+answer: 641
+
+R40
+clicks: 40
+dial:   40
+answer: 641
+
+R35
+clicks: 35
+dial:   75
+answer: 641
+
+L83
+clicks: -83
+dial:   92
+answer: 641
+
+R8
+clicks: 8
+dial:   0
+answer: 642
+
+L634
+clicks: -634
+dial:   66
+answer: 642
+
+L330
+clicks: -330
+dial:   36
+answer: 642
+
+L44
+clicks: -44
+dial:   92
+answer: 642
+
+L692
+clicks: -692
+dial:   0
+answer: 643
+
+R62
+clicks: 62
+dial:   62
+answer: 643
+
+R34
+clicks: 34
+dial:   96
+answer: 643
+
+L52
+clicks: -52
+dial:   44
+answer: 643
+
+R656
+clicks: 656
+dial:   0
+answer: 644
+
+R21
+clicks: 21
+dial:   21
+answer: 644
+
+R59
+clicks: 59
+dial:   80
+answer: 644
+
+L280
+clicks: -280
+dial:   0
+answer: 645
+
+L76
+clicks: -76
+dial:   24
+answer: 645
+
+L305
+clicks: -305
+dial:   19
+answer: 645
+
+R42
+clicks: 42
+dial:   61
+answer: 645
+
+R59
+clicks: 59
+dial:   20
+answer: 645
+
+L1
+clicks: -1
+dial:   19
+answer: 645
+
+R17
+clicks: 17
+dial:   36
+answer: 645
+
+L36
+clicks: -36
+dial:   0
+answer: 646
+
+R754
+clicks: 754
+dial:   54
+answer: 646
+
+L5
+clicks: -5
+dial:   49
+answer: 646
+
+L49
+clicks: -49
+dial:   0
+answer: 647
+
+R347
+clicks: 347
+dial:   47
+answer: 647
+
+L47
+clicks: -47
+dial:   0
+answer: 648
+
+R499
+clicks: 499
+dial:   99
+answer: 648
+
+R49
+clicks: 49
+dial:   48
+answer: 648
+
+L12
+clicks: -12
+dial:   36
+answer: 648
+
+L36
+clicks: -36
+dial:   0
+answer: 649
+
+R22
+clicks: 22
+dial:   22
+answer: 649
+
+L22
+clicks: -22
+dial:   0
+answer: 650
+
+R51
+clicks: 51
+dial:   51
+answer: 650
+
+L75
+clicks: -75
+dial:   76
+answer: 650
+
+L76
+clicks: -76
+dial:   0
+answer: 651
+
+L756
+clicks: -756
+dial:   44
+answer: 651
+
+R95
+clicks: 95
+dial:   39
+answer: 651
+
+L34
+clicks: -34
+dial:   5
+answer: 651
+
+R93
+clicks: 93
+dial:   98
+answer: 651
+
+R27
+clicks: 27
+dial:   25
+answer: 651
+
+R11
+clicks: 11
+dial:   36
+answer: 651
+
+R44
+clicks: 44
+dial:   80
+answer: 651
+
+L80
+clicks: -80
+dial:   0
+answer: 652
+
+L97
+clicks: -97
+dial:   3
+answer: 652
+
+L72
+clicks: -72
+dial:   31
+answer: 652
+
+R69
+clicks: 69
+dial:   0
+answer: 653
+
+R31
+clicks: 31
+dial:   31
+answer: 653
+
+R169
+clicks: 169
+dial:   0
+answer: 654
+
+R38
+clicks: 38
+dial:   38
+answer: 654
+
+R33
+clicks: 33
+dial:   71
+answer: 654
+
+R168
+clicks: 168
+dial:   39
+answer: 654
+
+R61
+clicks: 61
+dial:   0
+answer: 655
+
+L408
+clicks: -408
+dial:   92
+answer: 655
+
+L92
+clicks: -92
+dial:   0
+answer: 656
+
+R47
+clicks: 47
+dial:   47
+answer: 656
+
+R653
+clicks: 653
+dial:   0
+answer: 657
+
+L97
+clicks: -97
+dial:   3
+answer: 657
+
+R7
+clicks: 7
+dial:   10
+answer: 657
+
+R40
+clicks: 40
+dial:   50
+answer: 657
+
+L52
+clicks: -52
+dial:   98
+answer: 657
+
+L160
+clicks: -160
+dial:   38
+answer: 657
+
+L38
+clicks: -38
+dial:   0
+answer: 658
+
+R7
+clicks: 7
+dial:   7
+answer: 658
+
+R181
+clicks: 181
+dial:   88
+answer: 658
+
+R21
+clicks: 21
+dial:   9
+answer: 658
+
+L39
+clicks: -39
+dial:   70
+answer: 658
+
+R785
+clicks: 785
+dial:   55
+answer: 658
+
+R45
+clicks: 45
+dial:   0
+answer: 659
+
+R33
+clicks: 33
+dial:   33
+answer: 659
+
+R67
+clicks: 67
+dial:   0
+answer: 660
+
+L26
+clicks: -26
+dial:   74
+answer: 660
+
+L99
+clicks: -99
+dial:   75
+answer: 660
+
+L52
+clicks: -52
+dial:   23
+answer: 660
+
+R642
+clicks: 642
+dial:   65
+answer: 660
+
+R661
+clicks: 661
+dial:   26
+answer: 660
+
+L34
+clicks: -34
+dial:   92
+answer: 660
+
+L92
+clicks: -92
+dial:   0
+answer: 661
+
+R96
+clicks: 96
+dial:   96
+answer: 661
+
+L396
+clicks: -396
+dial:   0
+answer: 662
+
+L24
+clicks: -24
+dial:   76
+answer: 662
+
+L9
+clicks: -9
+dial:   67
+answer: 662
+
+R33
+clicks: 33
+dial:   0
+answer: 663
+
+L41
+clicks: -41
+dial:   59
+answer: 663
+
+R79
+clicks: 79
+dial:   38
+answer: 663
+
+R25
+clicks: 25
+dial:   63
+answer: 663
+
+R489
+clicks: 489
+dial:   52
+answer: 663
+
+R59
+clicks: 59
+dial:   11
+answer: 663
+
+L784
+clicks: -784
+dial:   27
+answer: 663
+
+L27
+clicks: -27
+dial:   0
+answer: 664
+
+R62
+clicks: 62
+dial:   62
+answer: 664
+
+R746
+clicks: 746
+dial:   8
+answer: 664
+
+R55
+clicks: 55
+dial:   63
+answer: 664
+
+R22
+clicks: 22
+dial:   85
+answer: 664
+
+L7
+clicks: -7
+dial:   78
+answer: 664
+
+L720
+clicks: -720
+dial:   58
+answer: 664
+
+R48
+clicks: 48
+dial:   6
+answer: 664
+
+R48
+clicks: 48
+dial:   54
+answer: 664
+
+R46
+clicks: 46
+dial:   0
+answer: 665
+
+L49
+clicks: -49
+dial:   51
+answer: 665
+
+L51
+clicks: -51
+dial:   0
+answer: 666
+
+R62
+clicks: 62
+dial:   62
+answer: 666
+
+L62
+clicks: -62
+dial:   0
+answer: 667
+
+L63
+clicks: -63
+dial:   37
+answer: 667
+
+R65
+clicks: 65
+dial:   2
+answer: 667
+
+L2
+clicks: -2
+dial:   0
+answer: 668
+
+R59
+clicks: 59
+dial:   59
+answer: 668
+
+L59
+clicks: -59
+dial:   0
+answer: 669
+
+L98
+clicks: -98
+dial:   2
+answer: 669
+
+L2
+clicks: -2
+dial:   0
+answer: 670
+
+R566
+clicks: 566
+dial:   66
+answer: 670
+
+R967
+clicks: 967
+dial:   33
+answer: 670
+
+L71
+clicks: -71
+dial:   62
+answer: 670
+
+R39
+clicks: 39
+dial:   1
+answer: 670
+
+L88
+clicks: -88
+dial:   13
+answer: 670
+
+L3
+clicks: -3
+dial:   10
+answer: 670
+
+L32
+clicks: -32
+dial:   78
+answer: 670
+
+R622
+clicks: 622
+dial:   0
+answer: 671
+
+R2
+clicks: 2
+dial:   2
+answer: 671
+
+R24
+clicks: 24
+dial:   26
+answer: 671
+
+R174
+clicks: 174
+dial:   0
+answer: 672
+
+R53
+clicks: 53
+dial:   53
+answer: 672
+
+L93
+clicks: -93
+dial:   60
+answer: 672
+
+R14
+clicks: 14
+dial:   74
+answer: 672
+
+L78
+clicks: -78
+dial:   96
+answer: 672
+
+L62
+clicks: -62
+dial:   34
+answer: 672
+
+L965
+clicks: -965
+dial:   69
+answer: 672
+
+R262
+clicks: 262
+dial:   31
+answer: 672
+
+R697
+clicks: 697
+dial:   28
+answer: 672
+
+R29
+clicks: 29
+dial:   57
+answer: 672
+
+R43
+clicks: 43
+dial:   0
+answer: 673
+
+L26
+clicks: -26
+dial:   74
+answer: 673
+
+R683
+clicks: 683
+dial:   57
+answer: 673
+
+L57
+clicks: -57
+dial:   0
+answer: 674
+
+L98
+clicks: -98
+dial:   2
+answer: 674
+
+L31
+clicks: -31
+dial:   71
+answer: 674
+
+L25
+clicks: -25
+dial:   46
+answer: 674
+
+L703
+clicks: -703
+dial:   43
+answer: 674
+
+L43
+clicks: -43
+dial:   0
+answer: 675
+
+L27
+clicks: -27
+dial:   73
+answer: 675
+
+L80
+clicks: -80
+dial:   93
+answer: 675
+
+L831
+clicks: -831
+dial:   62
+answer: 675
+
+R297
+clicks: 297
+dial:   59
+answer: 675
+
+L599
+clicks: -599
+dial:   60
+answer: 675
+
+R940
+clicks: 940
+dial:   0
+answer: 676
+
+L25
+clicks: -25
+dial:   75
+answer: 676
+
+L75
+clicks: -75
+dial:   0
+answer: 677
+
+R40
+clicks: 40
+dial:   40
+answer: 677
+
+R87
+clicks: 87
+dial:   27
+answer: 677
+
+L8
+clicks: -8
+dial:   19
+answer: 677
+
+L819
+clicks: -819
+dial:   0
+answer: 678
+
+R667
+clicks: 667
+dial:   67
+answer: 678
+
+R86
+clicks: 86
+dial:   53
+answer: 678
+
+R97
+clicks: 97
+dial:   50
+answer: 678
+
+R50
+clicks: 50
+dial:   0
+answer: 679
+
+L888
+clicks: -888
+dial:   12
+answer: 679
+
+L31
+clicks: -31
+dial:   81
+answer: 679
+
+L75
+clicks: -75
+dial:   6
+answer: 679
+
+L24
+clicks: -24
+dial:   82
+answer: 679
+
+R18
+clicks: 18
+dial:   0
+answer: 680
+
+L46
+clicks: -46
+dial:   54
+answer: 680
+
+L72
+clicks: -72
+dial:   82
+answer: 680
+
+R38
+clicks: 38
+dial:   20
+answer: 680
+
+L12
+clicks: -12
+dial:   8
+answer: 680
+
+L33
+clicks: -33
+dial:   75
+answer: 680
+
+L703
+clicks: -703
+dial:   72
+answer: 680
+
+L72
+clicks: -72
+dial:   0
+answer: 681
+
+R20
+clicks: 20
+dial:   20
+answer: 681
+
+R94
+clicks: 94
+dial:   14
+answer: 681
+
+L50
+clicks: -50
+dial:   64
+answer: 681
+
+R936
+clicks: 936
+dial:   0
+answer: 682
+
+L29
+clicks: -29
+dial:   71
+answer: 682
+
+L43
+clicks: -43
+dial:   28
+answer: 682
+
+L2
+clicks: -2
+dial:   26
+answer: 682
+
+R94
+clicks: 94
+dial:   20
+answer: 682
+
+R39
+clicks: 39
+dial:   59
+answer: 682
+
+R98
+clicks: 98
+dial:   57
+answer: 682
+
+R80
+clicks: 80
+dial:   37
+answer: 682
+
+L50
+clicks: -50
+dial:   87
+answer: 682
+
+L16
+clicks: -16
+dial:   71
+answer: 682
+
+R973
+clicks: 973
+dial:   44
+answer: 682
+
+L744
+clicks: -744
+dial:   0
+answer: 683
+
+R80
+clicks: 80
+dial:   80
+answer: 683
+
+L3
+clicks: -3
+dial:   77
+answer: 683
+
+R64
+clicks: 64
+dial:   41
+answer: 683
+
+R20
+clicks: 20
+dial:   61
+answer: 683
+
+L96
+clicks: -96
+dial:   65
+answer: 683
+
+L70
+clicks: -70
+dial:   95
+answer: 683
+
+R5
+clicks: 5
+dial:   0
+answer: 684
+
+L18
+clicks: -18
+dial:   82
+answer: 684
+
+L37
+clicks: -37
+dial:   45
+answer: 684
+
+L18
+clicks: -18
+dial:   27
+answer: 684
+
+R79
+clicks: 79
+dial:   6
+answer: 684
+
+R19
+clicks: 19
+dial:   25
+answer: 684
+
+L25
+clicks: -25
+dial:   0
+answer: 685
+
+L930
+clicks: -930
+dial:   70
+answer: 685
+
+L36
+clicks: -36
+dial:   34
+answer: 685
+
+L34
+clicks: -34
+dial:   0
+answer: 686
+
+L73
+clicks: -73
+dial:   27
+answer: 686
+
+L27
+clicks: -27
+dial:   0
+answer: 687
+
+L18
+clicks: -18
+dial:   82
+answer: 687
+
+L55
+clicks: -55
+dial:   27
+answer: 687
+
+R73
+clicks: 73
+dial:   0
+answer: 688
+
+R678
+clicks: 678
+dial:   78
+answer: 688
+
+L65
+clicks: -65
+dial:   13
+answer: 688
+
+R55
+clicks: 55
+dial:   68
+answer: 688
+
+R32
+clicks: 32
+dial:   0
+answer: 689
+
+L41
+clicks: -41
+dial:   59
+answer: 689
+
+R39
+clicks: 39
+dial:   98
+answer: 689
+
+R49
+clicks: 49
+dial:   47
+answer: 689
+
+R953
+clicks: 953
+dial:   0
+answer: 690
+
+L27
+clicks: -27
+dial:   73
+answer: 690
+
+L973
+clicks: -973
+dial:   0
+answer: 691
+
+R96
+clicks: 96
+dial:   96
+answer: 691
+
+R25
+clicks: 25
+dial:   21
+answer: 691
+
+L21
+clicks: -21
+dial:   0
+answer: 692
+
+R406
+clicks: 406
+dial:   6
+answer: 692
+
+R94
+clicks: 94
+dial:   0
+answer: 693
+
+R25
+clicks: 25
+dial:   25
+answer: 693
+
+R72
+clicks: 72
+dial:   97
+answer: 693
+
+R154
+clicks: 154
+dial:   51
+answer: 693
+
+R84
+clicks: 84
+dial:   35
+answer: 693
+
+L19
+clicks: -19
+dial:   16
+answer: 693
+
+L16
+clicks: -16
+dial:   0
+answer: 694
+
+R85
+clicks: 85
+dial:   85
+answer: 694
+
+L85
+clicks: -85
+dial:   0
+answer: 695
+
+R45
+clicks: 45
+dial:   45
+answer: 695
+
+R29
+clicks: 29
+dial:   74
+answer: 695
+
+R826
+clicks: 826
+dial:   0
+answer: 696
+
+L7
+clicks: -7
+dial:   93
+answer: 696
+
+R644
+clicks: 644
+dial:   37
+answer: 696
+
+L37
+clicks: -37
+dial:   0
+answer: 697
+
+R79
+clicks: 79
+dial:   79
+answer: 697
+
+L517
+clicks: -517
+dial:   62
+answer: 697
+
+R52
+clicks: 52
+dial:   14
+answer: 697
+
+R74
+clicks: 74
+dial:   88
+answer: 697
+
+R12
+clicks: 12
+dial:   0
+answer: 698
+
+R52
+clicks: 52
+dial:   52
+answer: 698
+
+R64
+clicks: 64
+dial:   16
+answer: 698
+
+L96
+clicks: -96
+dial:   20
+answer: 698
+
+R264
+clicks: 264
+dial:   84
+answer: 698
+
+L24
+clicks: -24
+dial:   60
+answer: 698
+
+R8
+clicks: 8
+dial:   68
+answer: 698
+
+L68
+clicks: -68
+dial:   0
+answer: 699
+
+L79
+clicks: -79
+dial:   21
+answer: 699
+
+R79
+clicks: 79
+dial:   0
+answer: 700
+
+R382
+clicks: 382
+dial:   82
+answer: 700
+
+R82
+clicks: 82
+dial:   64
+answer: 700
+
+R308
+clicks: 308
+dial:   72
+answer: 700
+
+L72
+clicks: -72
+dial:   0
+answer: 701
+
+L18
+clicks: -18
+dial:   82
+answer: 701
+
+L49
+clicks: -49
+dial:   33
+answer: 701
+
+R37
+clicks: 37
+dial:   70
+answer: 701
+
+L431
+clicks: -431
+dial:   39
+answer: 701
+
+L39
+clicks: -39
+dial:   0
+answer: 702
+
+L75
+clicks: -75
+dial:   25
+answer: 702
+
+L64
+clicks: -64
+dial:   61
+answer: 702
+
+L51
+clicks: -51
+dial:   10
+answer: 702
+
+L112
+clicks: -112
+dial:   98
+answer: 702
+
+L9
+clicks: -9
+dial:   89
+answer: 702
+
+L13
+clicks: -13
+dial:   76
+answer: 702
+
+R837
+clicks: 837
+dial:   13
+answer: 702
+
+R77
+clicks: 77
+dial:   90
+answer: 702
+
+R188
+clicks: 188
+dial:   78
+answer: 702
+
+L37
+clicks: -37
+dial:   41
+answer: 702
+
+L62
+clicks: -62
+dial:   79
+answer: 702
+
+L64
+clicks: -64
+dial:   15
+answer: 702
+
+R15
+clicks: 15
+dial:   30
+answer: 702
+
+L6
+clicks: -6
+dial:   24
+answer: 702
+
+R76
+clicks: 76
+dial:   0
+answer: 703
+
+L463
+clicks: -463
+dial:   37
+answer: 703
+
+R63
+clicks: 63
+dial:   0
+answer: 704
+
+R915
+clicks: 915
+dial:   15
+answer: 704
+
+R145
+clicks: 145
+dial:   60
+answer: 704
+
+R40
+clicks: 40
+dial:   0
+answer: 705
+
+L99
+clicks: -99
+dial:   1
+answer: 705
+
+L84
+clicks: -84
+dial:   17
+answer: 705
+
+R389
+clicks: 389
+dial:   6
+answer: 705
+
+R55
+clicks: 55
+dial:   61
+answer: 705
+
+L93
+clicks: -93
+dial:   68
+answer: 705
+
+R932
+clicks: 932
+dial:   0
+answer: 706
+
+R31
+clicks: 31
+dial:   31
+answer: 706
+
+R8
+clicks: 8
+dial:   39
+answer: 706
+
+L41
+clicks: -41
+dial:   98
+answer: 706
+
+R951
+clicks: 951
+dial:   49
+answer: 706
+
+R440
+clicks: 440
+dial:   89
+answer: 706
+
+R79
+clicks: 79
+dial:   68
+answer: 706
+
+L81
+clicks: -81
+dial:   87
+answer: 706
+
+R413
+clicks: 413
+dial:   0
+answer: 707
+
+L731
+clicks: -731
+dial:   69
+answer: 707
+
+L69
+clicks: -69
+dial:   0
+answer: 708
+
+L19
+clicks: -19
+dial:   81
+answer: 708
+
+L391
+clicks: -391
+dial:   90
+answer: 708
+
+R910
+clicks: 910
+dial:   0
+answer: 709
+
+R15
+clicks: 15
+dial:   15
+answer: 709
+
+L15
+clicks: -15
+dial:   0
+answer: 710
+
+L774
+clicks: -774
+dial:   26
+answer: 710
+
+L126
+clicks: -126
+dial:   0
+answer: 711
+
+R85
+clicks: 85
+dial:   85
+answer: 711
+
+R297
+clicks: 297
+dial:   82
+answer: 711
+
+R483
+clicks: 483
+dial:   65
+answer: 711
+
+L65
+clicks: -65
+dial:   0
+answer: 712
+
+R49
+clicks: 49
+dial:   49
+answer: 712
+
+L664
+clicks: -664
+dial:   85
+answer: 712
+
+L85
+clicks: -85
+dial:   0
+answer: 713
+
+L6
+clicks: -6
+dial:   94
+answer: 713
+
+L11
+clicks: -11
+dial:   83
+answer: 713
+
+R57
+clicks: 57
+dial:   40
+answer: 713
+
+R76
+clicks: 76
+dial:   16
+answer: 713
+
+L70
+clicks: -70
+dial:   46
+answer: 713
+
+L122
+clicks: -122
+dial:   24
+answer: 713
+
+L41
+clicks: -41
+dial:   83
+answer: 713
+
+L17
+clicks: -17
+dial:   66
+answer: 713
+
+R50
+clicks: 50
+dial:   16
+answer: 713
+
+R84
+clicks: 84
+dial:   0
+answer: 714
+
+L358
+clicks: -358
+dial:   42
+answer: 714
+
+L35
+clicks: -35
+dial:   7
+answer: 714
+
+R793
+clicks: 793
+dial:   0
+answer: 715
+
+R46
+clicks: 46
+dial:   46
+answer: 715
+
+L46
+clicks: -46
+dial:   0
+answer: 716
+
+R93
+clicks: 93
+dial:   93
+answer: 716
+
+L97
+clicks: -97
+dial:   96
+answer: 716
+
+R4
+clicks: 4
+dial:   0
+answer: 717
+
+R31
+clicks: 31
+dial:   31
+answer: 717
+
+L31
+clicks: -31
+dial:   0
+answer: 718
+
+R71
+clicks: 71
+dial:   71
+answer: 718
+
+R1
+clicks: 1
+dial:   72
+answer: 718
+
+L56
+clicks: -56
+dial:   16
+answer: 718
+
+L15
+clicks: -15
+dial:   1
+answer: 718
+
+R81
+clicks: 81
+dial:   82
+answer: 718
+
+R218
+clicks: 218
+dial:   0
+answer: 719
+
+L358
+clicks: -358
+dial:   42
+answer: 719
+
+R58
+clicks: 58
+dial:   0
+answer: 720
+
+L63
+clicks: -63
+dial:   37
+answer: 720
+
+L67
+clicks: -67
+dial:   70
+answer: 720
+
+R30
+clicks: 30
+dial:   0
+answer: 721
+
+R40
+clicks: 40
+dial:   40
+answer: 721
+
+R560
+clicks: 560
+dial:   0
+answer: 722
+
+R16
+clicks: 16
+dial:   16
+answer: 722
+
+R725
+clicks: 725
+dial:   41
+answer: 722
+
+L56
+clicks: -56
+dial:   85
+answer: 722
+
+R24
+clicks: 24
+dial:   9
+answer: 722
+
+L47
+clicks: -47
+dial:   62
+answer: 722
+
+L40
+clicks: -40
+dial:   22
+answer: 722
+
+R13
+clicks: 13
+dial:   35
+answer: 722
+
+R69
+clicks: 69
+dial:   4
+answer: 722
+
+R7
+clicks: 7
+dial:   11
+answer: 722
+
+L78
+clicks: -78
+dial:   33
+answer: 722
+
+L32
+clicks: -32
+dial:   1
+answer: 722
+
+L1
+clicks: -1
+dial:   0
+answer: 723
+
+R62
+clicks: 62
+dial:   62
+answer: 723
+
+R38
+clicks: 38
+dial:   0
+answer: 724
+
+R19
+clicks: 19
+dial:   19
+answer: 724
+
+L4
+clicks: -4
+dial:   15
+answer: 724
+
+L121
+clicks: -121
+dial:   94
+answer: 724
+
+R59
+clicks: 59
+dial:   53
+answer: 724
+
+R72
+clicks: 72
+dial:   25
+answer: 724
+
+L84
+clicks: -84
+dial:   41
+answer: 724
+
+R19
+clicks: 19
+dial:   60
+answer: 724
+
+L451
+clicks: -451
+dial:   9
+answer: 724
+
+L47
+clicks: -47
+dial:   62
+answer: 724
+
+L62
+clicks: -62
+dial:   0
+answer: 725
+
+L47
+clicks: -47
+dial:   53
+answer: 725
+
+R33
+clicks: 33
+dial:   86
+answer: 725
+
+L267
+clicks: -267
+dial:   19
+answer: 725
+
+R47
+clicks: 47
+dial:   66
+answer: 725
+
+L66
+clicks: -66
+dial:   0
+answer: 726
+
+L40
+clicks: -40
+dial:   60
+answer: 726
+
+R50
+clicks: 50
+dial:   10
+answer: 726
+
+R31
+clicks: 31
+dial:   41
+answer: 726
+
+R59
+clicks: 59
+dial:   0
+answer: 727
+
+L83
+clicks: -83
+dial:   17
+answer: 727
+
+L683
+clicks: -683
+dial:   34
+answer: 727
+
+R97
+clicks: 97
+dial:   31
+answer: 727
+
+R785
+clicks: 785
+dial:   16
+answer: 727
+
+R870
+clicks: 870
+dial:   86
+answer: 727
+
+R14
+clicks: 14
+dial:   0
+answer: 728
+
+R1
+clicks: 1
+dial:   1
+answer: 728
+
+R99
+clicks: 99
+dial:   0
+answer: 729
+
+R95
+clicks: 95
+dial:   95
+answer: 729
+
+R81
+clicks: 81
+dial:   76
+answer: 729
+
+R24
+clicks: 24
+dial:   0
+answer: 730
+
+L2
+clicks: -2
+dial:   98
+answer: 730
+
+L696
+clicks: -696
+dial:   2
+answer: 730
+
+R2
+clicks: 2
+dial:   4
+answer: 730
+
+R70
+clicks: 70
+dial:   74
+answer: 730
+
+L53
+clicks: -53
+dial:   21
+answer: 730
+
+L21
+clicks: -21
+dial:   0
+answer: 731
+
+L844
+clicks: -844
+dial:   56
+answer: 731
+
+L83
+clicks: -83
+dial:   73
+answer: 731
+
+R80
+clicks: 80
+dial:   53
+answer: 731
+
+L254
+clicks: -254
+dial:   99
+answer: 731
+
+R740
+clicks: 740
+dial:   39
+answer: 731
+
+L98
+clicks: -98
+dial:   41
+answer: 731
+
+R959
+clicks: 959
+dial:   0
+answer: 732
+
+L38
+clicks: -38
+dial:   62
+answer: 732
+
+R94
+clicks: 94
+dial:   56
+answer: 732
+
+R244
+clicks: 244
+dial:   0
+answer: 733
+
+R83
+clicks: 83
+dial:   83
+answer: 733
+
+L72
+clicks: -72
+dial:   11
+answer: 733
+
+L90
+clicks: -90
+dial:   21
+answer: 733
+
+R642
+clicks: 642
+dial:   63
+answer: 733
+
+R15
+clicks: 15
+dial:   78
+answer: 733
+
+L75
+clicks: -75
+dial:   3
+answer: 733
+
+R141
+clicks: 141
+dial:   44
+answer: 733
+
+R42
+clicks: 42
+dial:   86
+answer: 733
+
+L465
+clicks: -465
+dial:   21
+answer: 733
+
+L94
+clicks: -94
+dial:   27
+answer: 733
+
+L17
+clicks: -17
+dial:   10
+answer: 733
+
+L59
+clicks: -59
+dial:   51
+answer: 733
+
+R57
+clicks: 57
+dial:   8
+answer: 733
+
+R92
+clicks: 92
+dial:   0
+answer: 734
+
+R77
+clicks: 77
+dial:   77
+answer: 734
+
+R54
+clicks: 54
+dial:   31
+answer: 734
+
+R69
+clicks: 69
+dial:   0
+answer: 735
+
+R45
+clicks: 45
+dial:   45
+answer: 735
+
+L84
+clicks: -84
+dial:   61
+answer: 735
+
+L61
+clicks: -61
+dial:   0
+answer: 736
+
+L634
+clicks: -634
+dial:   66
+answer: 736
+
+R49
+clicks: 49
+dial:   15
+answer: 736
+
+L15
+clicks: -15
+dial:   0
+answer: 737
+
+L59
+clicks: -59
+dial:   41
+answer: 737
+
+R449
+clicks: 449
+dial:   90
+answer: 737
+
+L355
+clicks: -355
+dial:   35
+answer: 737
+
+L43
+clicks: -43
+dial:   92
+answer: 737
+
+R8
+clicks: 8
+dial:   0
+answer: 738
+
+R154
+clicks: 154
+dial:   54
+answer: 738
+
+R1
+clicks: 1
+dial:   55
+answer: 738
+
+L97
+clicks: -97
+dial:   58
+answer: 738
+
+R28
+clicks: 28
+dial:   86
+answer: 738
+
+R71
+clicks: 71
+dial:   57
+answer: 738
+
+R43
+clicks: 43
+dial:   0
+answer: 739
+
+L671
+clicks: -671
+dial:   29
+answer: 739
+
+R71
+clicks: 71
+dial:   0
+answer: 740
+
+R3
+clicks: 3
+dial:   3
+answer: 740
+
+L79
+clicks: -79
+dial:   24
+answer: 740
+
+L74
+clicks: -74
+dial:   50
+answer: 740
+
+R42
+clicks: 42
+dial:   92
+answer: 740
+
+L92
+clicks: -92
+dial:   0
+answer: 741
+
+R628
+clicks: 628
+dial:   28
+answer: 741
+
+R930
+clicks: 930
+dial:   58
+answer: 741
+
+R973
+clicks: 973
+dial:   31
+answer: 741
+
+L24
+clicks: -24
+dial:   7
+answer: 741
+
+R48
+clicks: 48
+dial:   55
+answer: 741
+
+R45
+clicks: 45
+dial:   0
+answer: 742
+
+L492
+clicks: -492
+dial:   8
+answer: 742
+
+L108
+clicks: -108
+dial:   0
+answer: 743
+
+L14
+clicks: -14
+dial:   86
+answer: 743
+
+L86
+clicks: -86
+dial:   0
+answer: 744
+
+L4
+clicks: -4
+dial:   96
+answer: 744
+
+R48
+clicks: 48
+dial:   44
+answer: 744
+
+R77
+clicks: 77
+dial:   21
+answer: 744
+
+L96
+clicks: -96
+dial:   25
+answer: 744
+
+L2
+clicks: -2
+dial:   23
+answer: 744
+
+L23
+clicks: -23
+dial:   0
+answer: 745
+
+R46
+clicks: 46
+dial:   46
+answer: 745
+
+L46
+clicks: -46
+dial:   0
+answer: 746
+
+R510
+clicks: 510
+dial:   10
+answer: 746
+
+R90
+clicks: 90
+dial:   0
+answer: 747
+
+R3
+clicks: 3
+dial:   3
+answer: 747
+
+R97
+clicks: 97
+dial:   0
+answer: 748
+
+L52
+clicks: -52
+dial:   48
+answer: 748
+
+L48
+clicks: -48
+dial:   0
+answer: 749
+
+R64
+clicks: 64
+dial:   64
+answer: 749
+
+L67
+clicks: -67
+dial:   97
+answer: 749
+
+R3
+clicks: 3
+dial:   0
+answer: 750
+
+L23
+clicks: -23
+dial:   77
+answer: 750
+
+L73
+clicks: -73
+dial:   4
+answer: 750
+
+L4
+clicks: -4
+dial:   0
+answer: 751
+
+L12
+clicks: -12
+dial:   88
+answer: 751
+
+R67
+clicks: 67
+dial:   55
+answer: 751
+
+R28
+clicks: 28
+dial:   83
+answer: 751
+
+R83
+clicks: 83
+dial:   66
+answer: 751
+
+R3
+clicks: 3
+dial:   69
+answer: 751
+
+R531
+clicks: 531
+dial:   0
+answer: 752
+
+L70
+clicks: -70
+dial:   30
+answer: 752
+
+R70
+clicks: 70
+dial:   0
+answer: 753
+
+R50
+clicks: 50
+dial:   50
+answer: 753
+
+R14
+clicks: 14
+dial:   64
+answer: 753
+
+R43
+clicks: 43
+dial:   7
+answer: 753
+
+L17
+clicks: -17
+dial:   90
+answer: 753
+
+L26
+clicks: -26
+dial:   64
+answer: 753
+
+L97
+clicks: -97
+dial:   67
+answer: 753
+
+R7
+clicks: 7
+dial:   74
+answer: 753
+
+R45
+clicks: 45
+dial:   19
+answer: 753
+
+L19
+clicks: -19
+dial:   0
+answer: 754
+
+R84
+clicks: 84
+dial:   84
+answer: 754
+
+R16
+clicks: 16
+dial:   0
+answer: 755
+
+L67
+clicks: -67
+dial:   33
+answer: 755
+
+L33
+clicks: -33
+dial:   0
+answer: 756
+
+R38
+clicks: 38
+dial:   38
+answer: 756
+
+R879
+clicks: 879
+dial:   17
+answer: 756
+
+L67
+clicks: -67
+dial:   50
+answer: 756
+
+R719
+clicks: 719
+dial:   69
+answer: 756
+
+R27
+clicks: 27
+dial:   96
+answer: 756
+
+R58
+clicks: 58
+dial:   54
+answer: 756
+
+R86
+clicks: 86
+dial:   40
+answer: 756
+
+L64
+clicks: -64
+dial:   76
+answer: 756
+
+R77
+clicks: 77
+dial:   53
+answer: 756
+
+R81
+clicks: 81
+dial:   34
+answer: 756
+
+R66
+clicks: 66
+dial:   0
+answer: 757
+
+L40
+clicks: -40
+dial:   60
+answer: 757
+
+R35
+clicks: 35
+dial:   95
+answer: 757
+
+L95
+clicks: -95
+dial:   0
+answer: 758
+
+L708
+clicks: -708
+dial:   92
+answer: 758
+
+R70
+clicks: 70
+dial:   62
+answer: 758
+
+R27
+clicks: 27
+dial:   89
+answer: 758
+
+L53
+clicks: -53
+dial:   36
+answer: 758
+
+L96
+clicks: -96
+dial:   40
+answer: 758
+
+R18
+clicks: 18
+dial:   58
+answer: 758
+
+L958
+clicks: -958
+dial:   0
+answer: 759
+
+L7
+clicks: -7
+dial:   93
+answer: 759
+
+R853
+clicks: 853
+dial:   46
+answer: 759
+
+R6
+clicks: 6
+dial:   52
+answer: 759
+
+L27
+clicks: -27
+dial:   25
+answer: 759
+
+R20
+clicks: 20
+dial:   45
+answer: 759
+
+R41
+clicks: 41
+dial:   86
+answer: 759
+
+R14
+clicks: 14
+dial:   0
+answer: 760
+
+L67
+clicks: -67
+dial:   33
+answer: 760
+
+L963
+clicks: -963
+dial:   70
+answer: 760
+
+R30
+clicks: 30
+dial:   0
+answer: 761
+
+L91
+clicks: -91
+dial:   9
+answer: 761
+
+L67
+clicks: -67
+dial:   42
+answer: 761
+
+R60
+clicks: 60
+dial:   2
+answer: 761
+
+R33
+clicks: 33
+dial:   35
+answer: 761
+
+L25
+clicks: -25
+dial:   10
+answer: 761
+
+R41
+clicks: 41
+dial:   51
+answer: 761
+
+L251
+clicks: -251
+dial:   0
+answer: 762
+
+R32
+clicks: 32
+dial:   32
+answer: 762
+
+L71
+clicks: -71
+dial:   61
+answer: 762
+
+L57
+clicks: -57
+dial:   4
+answer: 762
+
+L4
+clicks: -4
+dial:   0
+answer: 763
+
+R661
+clicks: 661
+dial:   61
+answer: 763
+
+R39
+clicks: 39
+dial:   0
+answer: 764
+
+L46
+clicks: -46
+dial:   54
+answer: 764
+
+R812
+clicks: 812
+dial:   66
+answer: 764
+
+L75
+clicks: -75
+dial:   91
+answer: 764
+
+L74
+clicks: -74
+dial:   17
+answer: 764
+
+R98
+clicks: 98
+dial:   15
+answer: 764
+
+R22
+clicks: 22
+dial:   37
+answer: 764
+
+R49
+clicks: 49
+dial:   86
+answer: 764
+
+R14
+clicks: 14
+dial:   0
+answer: 765
+
+L1
+clicks: -1
+dial:   99
+answer: 765
+
+L99
+clicks: -99
+dial:   0
+answer: 766
+
+L695
+clicks: -695
+dial:   5
+answer: 766
+
+L85
+clicks: -85
+dial:   20
+answer: 766
+
+L12
+clicks: -12
+dial:   8
+answer: 766
+
+R492
+clicks: 492
+dial:   0
+answer: 767
+
+L84
+clicks: -84
+dial:   16
+answer: 767
+
+R702
+clicks: 702
+dial:   18
+answer: 767
+
+R788
+clicks: 788
+dial:   6
+answer: 767
+
+L606
+clicks: -606
+dial:   0
+answer: 768
+
+R25
+clicks: 25
+dial:   25
+answer: 768
+
+R75
+clicks: 75
+dial:   0
+answer: 769
+
+R543
+clicks: 543
+dial:   43
+answer: 769
+
+R6
+clicks: 6
+dial:   49
+answer: 769
+
+L53
+clicks: -53
+dial:   96
+answer: 769
+
+L26
+clicks: -26
+dial:   70
+answer: 769
+
+R66
+clicks: 66
+dial:   36
+answer: 769
+
+L37
+clicks: -37
+dial:   99
+answer: 769
+
+L6
+clicks: -6
+dial:   93
+answer: 769
+
+L93
+clicks: -93
+dial:   0
+answer: 770
+
+R19
+clicks: 19
+dial:   19
+answer: 770
+
+R81
+clicks: 81
+dial:   0
+answer: 771
+
+L82
+clicks: -82
+dial:   18
+answer: 771
+
+R54
+clicks: 54
+dial:   72
+answer: 771
+
+R636
+clicks: 636
+dial:   8
+answer: 771
+
+R85
+clicks: 85
+dial:   93
+answer: 771
+
+L93
+clicks: -93
+dial:   0
+answer: 772
+
+R5
+clicks: 5
+dial:   5
+answer: 772
+
+L75
+clicks: -75
+dial:   30
+answer: 772
+
+L61
+clicks: -61
+dial:   69
+answer: 772
+
+L31
+clicks: -31
+dial:   38
+answer: 772
+
+R99
+clicks: 99
+dial:   37
+answer: 772
+
+L46
+clicks: -46
+dial:   91
+answer: 772
+
+L92
+clicks: -92
+dial:   99
+answer: 772
+
+R48
+clicks: 48
+dial:   47
+answer: 772
+
+L71
+clicks: -71
+dial:   76
+answer: 772
+
+L76
+clicks: -76
+dial:   0
+answer: 773
+
+R83
+clicks: 83
+dial:   83
+answer: 773
+
+L9
+clicks: -9
+dial:   74
+answer: 773
+
+R37
+clicks: 37
+dial:   11
+answer: 773
+
+L12
+clicks: -12
+dial:   99
+answer: 773
+
+L56
+clicks: -56
+dial:   43
+answer: 773
+
+R57
+clicks: 57
+dial:   0
+answer: 774
+
+L77
+clicks: -77
+dial:   23
+answer: 774
+
+L23
+clicks: -23
+dial:   0
+answer: 775
+
+L56
+clicks: -56
+dial:   44
+answer: 775
+
+L44
+clicks: -44
+dial:   0
+answer: 776
+
+L48
+clicks: -48
+dial:   52
+answer: 776
+
+L52
+clicks: -52
+dial:   0
+answer: 777
+
+L74
+clicks: -74
+dial:   26
+answer: 777
+
+L31
+clicks: -31
+dial:   95
+answer: 777
+
+R825
+clicks: 825
+dial:   20
+answer: 777
+
+R61
+clicks: 61
+dial:   81
+answer: 777
+
+R46
+clicks: 46
+dial:   27
+answer: 777
+
+L90
+clicks: -90
+dial:   37
+answer: 777
+
+L35
+clicks: -35
+dial:   2
+answer: 777
+
+R34
+clicks: 34
+dial:   36
+answer: 777
+
+L36
+clicks: -36
+dial:   0
+answer: 778
+
+L893
+clicks: -893
+dial:   7
+answer: 778
+
+R93
+clicks: 93
+dial:   0
+answer: 779
+
+L550
+clicks: -550
+dial:   50
+answer: 779
+
+R50
+clicks: 50
+dial:   0
+answer: 780
+
+R70
+clicks: 70
+dial:   70
+answer: 780
+
+L70
+clicks: -70
+dial:   0
+answer: 781
+
+R48
+clicks: 48
+dial:   48
+answer: 781
+
+L33
+clicks: -33
+dial:   15
+answer: 781
+
+R885
+clicks: 885
+dial:   0
+answer: 782
+
+R21
+clicks: 21
+dial:   21
+answer: 782
+
+L21
+clicks: -21
+dial:   0
+answer: 783
+
+L43
+clicks: -43
+dial:   57
+answer: 783
+
+R63
+clicks: 63
+dial:   20
+answer: 783
+
+L20
+clicks: -20
+dial:   0
+answer: 784
+
+L61
+clicks: -61
+dial:   39
+answer: 784
+
+L43
+clicks: -43
+dial:   96
+answer: 784
+
+L11
+clicks: -11
+dial:   85
+answer: 784
+
+L937
+clicks: -937
+dial:   48
+answer: 784
+
+R52
+clicks: 52
+dial:   0
+answer: 785
+
+L112
+clicks: -112
+dial:   88
+answer: 785
+
+L88
+clicks: -88
+dial:   0
+answer: 786
+
+R56
+clicks: 56
+dial:   56
+answer: 786
+
+R747
+clicks: 747
+dial:   3
+answer: 786
+
+R36
+clicks: 36
+dial:   39
+answer: 786
+
+L70
+clicks: -70
+dial:   69
+answer: 786
+
+L69
+clicks: -69
+dial:   0
+answer: 787
+
+L52
+clicks: -52
+dial:   48
+answer: 787
+
+L19
+clicks: -19
+dial:   29
+answer: 787
+
+L29
+clicks: -29
+dial:   0
+answer: 788
+
+L281
+clicks: -281
+dial:   19
+answer: 788
+
+R51
+clicks: 51
+dial:   70
+answer: 788
+
+R34
+clicks: 34
+dial:   4
+answer: 788
+
+L21
+clicks: -21
+dial:   83
+answer: 788
+
+R16
+clicks: 16
+dial:   99
+answer: 788
+
+R26
+clicks: 26
+dial:   25
+answer: 788
+
+L25
+clicks: -25
+dial:   0
+answer: 789
+
+R78
+clicks: 78
+dial:   78
+answer: 789
+
+L583
+clicks: -583
+dial:   95
+answer: 789
+
+R77
+clicks: 77
+dial:   72
+answer: 789
+
+R28
+clicks: 28
+dial:   0
+answer: 790
+
+L14
+clicks: -14
+dial:   86
+answer: 790
+
+L86
+clicks: -86
+dial:   0
+answer: 791
+
+R53
+clicks: 53
+dial:   53
+answer: 791
+
+L20
+clicks: -20
+dial:   33
+answer: 791
+
+L33
+clicks: -33
+dial:   0
+answer: 792
+
+R73
+clicks: 73
+dial:   73
+answer: 792
+
+L741
+clicks: -741
+dial:   32
+answer: 792
+
+L91
+clicks: -91
+dial:   41
+answer: 792
+
+L438
+clicks: -438
+dial:   3
+answer: 792
+
+L71
+clicks: -71
+dial:   32
+answer: 792
+
+R94
+clicks: 94
+dial:   26
+answer: 792
+
+R417
+clicks: 417
+dial:   43
+answer: 792
+
+L476
+clicks: -476
+dial:   67
+answer: 792
+
+R16
+clicks: 16
+dial:   83
+answer: 792
+
+L23
+clicks: -23
+dial:   60
+answer: 792
+
+R670
+clicks: 670
+dial:   30
+answer: 792
+
+L66
+clicks: -66
+dial:   64
+answer: 792
+
+L55
+clicks: -55
+dial:   9
+answer: 792
+
+R55
+clicks: 55
+dial:   64
+answer: 792
+
+L9
+clicks: -9
+dial:   55
+answer: 792
+
+R6
+clicks: 6
+dial:   61
+answer: 792
+
+L38
+clicks: -38
+dial:   23
+answer: 792
+
+L39
+clicks: -39
+dial:   84
+answer: 792
+
+R299
+clicks: 299
+dial:   83
+answer: 792
+
+L83
+clicks: -83
+dial:   0
+answer: 793
+
+L9
+clicks: -9
+dial:   91
+answer: 793
+
+L91
+clicks: -91
+dial:   0
+answer: 794
+
+R7
+clicks: 7
+dial:   7
+answer: 794
+
+L7
+clicks: -7
+dial:   0
+answer: 795
+
+R31
+clicks: 31
+dial:   31
+answer: 795
+
+R373
+clicks: 373
+dial:   4
+answer: 795
+
+L49
+clicks: -49
+dial:   55
+answer: 795
+
+L55
+clicks: -55
+dial:   0
+answer: 796
+
+L36
+clicks: -36
+dial:   64
+answer: 796
+
+R36
+clicks: 36
+dial:   0
+answer: 797
+
+L67
+clicks: -67
+dial:   33
+answer: 797
+
+L23
+clicks: -23
+dial:   10
+answer: 797
+
+L710
+clicks: -710
+dial:   0
+answer: 798
+
+L59
+clicks: -59
+dial:   41
+answer: 798
+
+R59
+clicks: 59
+dial:   0
+answer: 799
+
+L79
+clicks: -79
+dial:   21
+answer: 799
+
+L21
+clicks: -21
+dial:   0
+answer: 800
+
+R211
+clicks: 211
+dial:   11
+answer: 800
+
+L11
+clicks: -11
+dial:   0
+answer: 801
+
+L32
+clicks: -32
+dial:   68
+answer: 801
+
+L68
+clicks: -68
+dial:   0
+answer: 802
+
+R5
+clicks: 5
+dial:   5
+answer: 802
+
+L79
+clicks: -79
+dial:   26
+answer: 802
+
+R74
+clicks: 74
+dial:   0
+answer: 803
+
+R90
+clicks: 90
+dial:   90
+answer: 803
+
+L44
+clicks: -44
+dial:   46
+answer: 803
+
+L58
+clicks: -58
+dial:   88
+answer: 803
+
+L64
+clicks: -64
+dial:   24
+answer: 803
+
+R76
+clicks: 76
+dial:   0
+answer: 804
+
+R83
+clicks: 83
+dial:   83
+answer: 804
+
+R625
+clicks: 625
+dial:   8
+answer: 804
+
+R92
+clicks: 92
+dial:   0
+answer: 805
+
+R12
+clicks: 12
+dial:   12
+answer: 805
+
+R49
+clicks: 49
+dial:   61
+answer: 805
+
+R83
+clicks: 83
+dial:   44
+answer: 805
+
+L44
+clicks: -44
+dial:   0
+answer: 806
+
+R21
+clicks: 21
+dial:   21
+answer: 806
+
+L701
+clicks: -701
+dial:   20
+answer: 806
+
+L43
+clicks: -43
+dial:   77
+answer: 806
+
+L37
+clicks: -37
+dial:   40
+answer: 806
+
+R925
+clicks: 925
+dial:   65
+answer: 806
+
+L13
+clicks: -13
+dial:   52
+answer: 806
+
+R448
+clicks: 448
+dial:   0
+answer: 807
+
+R46
+clicks: 46
+dial:   46
+answer: 807
+
+L11
+clicks: -11
+dial:   35
+answer: 807
+
+R11
+clicks: 11
+dial:   46
+answer: 807
+
+L589
+clicks: -589
+dial:   57
+answer: 807
+
+R52
+clicks: 52
+dial:   9
+answer: 807
+
+R91
+clicks: 91
+dial:   0
+answer: 808
+
+L42
+clicks: -42
+dial:   58
+answer: 808
+
+L42
+clicks: -42
+dial:   16
+answer: 808
+
+R784
+clicks: 784
+dial:   0
+answer: 809
+
+R553
+clicks: 553
+dial:   53
+answer: 809
+
+R47
+clicks: 47
+dial:   0
+answer: 810
+
+R514
+clicks: 514
+dial:   14
+answer: 810
+
+R90
+clicks: 90
+dial:   4
+answer: 810
+
+R98
+clicks: 98
+dial:   2
+answer: 810
+
+L96
+clicks: -96
+dial:   6
+answer: 810
+
+L88
+clicks: -88
+dial:   18
+answer: 810
+
+L291
+clicks: -291
+dial:   27
+answer: 810
+
+L78
+clicks: -78
+dial:   49
+answer: 810
+
+L33
+clicks: -33
+dial:   16
+answer: 810
+
+L45
+clicks: -45
+dial:   71
+answer: 810
+
+R20
+clicks: 20
+dial:   91
+answer: 810
+
+R9
+clicks: 9
+dial:   0
+answer: 811
+
+R989
+clicks: 989
+dial:   89
+answer: 811
+
+L35
+clicks: -35
+dial:   54
+answer: 811
+
+R801
+clicks: 801
+dial:   55
+answer: 811
+
+L198
+clicks: -198
+dial:   57
+answer: 811
+
+R43
+clicks: 43
+dial:   0
+answer: 812
+
+L39
+clicks: -39
+dial:   61
+answer: 812
+
+L27
+clicks: -27
+dial:   34
+answer: 812
+
+R11
+clicks: 11
+dial:   45
+answer: 812
+
+L27
+clicks: -27
+dial:   18
+answer: 812
+
+L18
+clicks: -18
+dial:   0
+answer: 813
+
+L43
+clicks: -43
+dial:   57
+answer: 813
+
+L58
+clicks: -58
+dial:   99
+answer: 813
+
+R24
+clicks: 24
+dial:   23
+answer: 813
+
+L31
+clicks: -31
+dial:   92
+answer: 813
+
+L92
+clicks: -92
+dial:   0
+answer: 814
+
+L61
+clicks: -61
+dial:   39
+answer: 814
+
+R61
+clicks: 61
+dial:   0
+answer: 815
+
+L764
+clicks: -764
+dial:   36
+answer: 815
+
+R64
+clicks: 64
+dial:   0
+answer: 816
+
+L26
+clicks: -26
+dial:   74
+answer: 816
+
+L42
+clicks: -42
+dial:   32
+answer: 816
+
+L19
+clicks: -19
+dial:   13
+answer: 816
+
+R87
+clicks: 87
+dial:   0
+answer: 817
+
+L767
+clicks: -767
+dial:   33
+answer: 817
+
+R33
+clicks: 33
+dial:   66
+answer: 817
+
+L66
+clicks: -66
+dial:   0
+answer: 818
+
+L38
+clicks: -38
+dial:   62
+answer: 818
+
+L62
+clicks: -62
+dial:   0
+answer: 819
+
+R23
+clicks: 23
+dial:   23
+answer: 819
+
+R77
+clicks: 77
+dial:   0
+answer: 820
+
+R96
+clicks: 96
+dial:   96
+answer: 820
+
+L42
+clicks: -42
+dial:   54
+answer: 820
+
+L79
+clicks: -79
+dial:   75
+answer: 820
+
+L20
+clicks: -20
+dial:   55
+answer: 820
+
+L376
+clicks: -376
+dial:   79
+answer: 820
+
+R21
+clicks: 21
+dial:   0
+answer: 821
+
+R13
+clicks: 13
+dial:   13
+answer: 821
+
+R422
+clicks: 422
+dial:   35
+answer: 821
+
+R65
+clicks: 65
+dial:   0
+answer: 822
+
+R90
+clicks: 90
+dial:   90
+answer: 822
+
+R54
+clicks: 54
+dial:   44
+answer: 822
+
+L54
+clicks: -54
+dial:   90
+answer: 822
+
+R10
+clicks: 10
+dial:   0
+answer: 823
+
+R29
+clicks: 29
+dial:   29
+answer: 823
+
+R30
+clicks: 30
+dial:   59
+answer: 823
+
+L70
+clicks: -70
+dial:   89
+answer: 823
+
+R85
+clicks: 85
+dial:   74
+answer: 823
+
+L43
+clicks: -43
+dial:   31
+answer: 823
+
+R43
+clicks: 43
+dial:   74
+answer: 823
+
+R26
+clicks: 26
+dial:   0
+answer: 824
+
+R30
+clicks: 30
+dial:   30
+answer: 824
+
+L59
+clicks: -59
+dial:   71
+answer: 824
+
+R60
+clicks: 60
+dial:   31
+answer: 824
+
+L11
+clicks: -11
+dial:   20
+answer: 824
+
+L74
+clicks: -74
+dial:   46
+answer: 824
+
+L12
+clicks: -12
+dial:   34
+answer: 824
+
+L34
+clicks: -34
+dial:   0
+answer: 825
+
+R568
+clicks: 568
+dial:   68
+answer: 825
+
+R67
+clicks: 67
+dial:   35
+answer: 825
+
+L35
+clicks: -35
+dial:   0
+answer: 826
+
+L64
+clicks: -64
+dial:   36
+answer: 826
+
+L36
+clicks: -36
+dial:   0
+answer: 827
+
+L35
+clicks: -35
+dial:   65
+answer: 827
+
+R35
+clicks: 35
+dial:   0
+answer: 828
+
+R221
+clicks: 221
+dial:   21
+answer: 828
+
+R79
+clicks: 79
+dial:   0
+answer: 829
+
+R5
+clicks: 5
+dial:   5
+answer: 829
+
+R45
+clicks: 45
+dial:   50
+answer: 829
+
+R769
+clicks: 769
+dial:   19
+answer: 829
+
+L59
+clicks: -59
+dial:   60
+answer: 829
+
+L60
+clicks: -60
+dial:   0
+answer: 830
+
+L67
+clicks: -67
+dial:   33
+answer: 830
+
+R912
+clicks: 912
+dial:   45
+answer: 830
+
+L45
+clicks: -45
+dial:   0
+answer: 831
+
+L20
+clicks: -20
+dial:   80
+answer: 831
+
+R20
+clicks: 20
+dial:   0
+answer: 832
+
+L43
+clicks: -43
+dial:   57
+answer: 832
+
+L57
+clicks: -57
+dial:   0
+answer: 833
+
+L80
+clicks: -80
+dial:   20
+answer: 833
+
+L20
+clicks: -20
+dial:   0
+answer: 834
+
+R53
+clicks: 53
+dial:   53
+answer: 834
+
+R653
+clicks: 653
+dial:   6
+answer: 834
+
+L46
+clicks: -46
+dial:   60
+answer: 834
+
+R81
+clicks: 81
+dial:   41
+answer: 834
+
+R59
+clicks: 59
+dial:   0
+answer: 835
+
+L67
+clicks: -67
+dial:   33
+answer: 835
+
+R1
+clicks: 1
+dial:   34
+answer: 835
+
+L93
+clicks: -93
+dial:   41
+answer: 835
+
+R37
+clicks: 37
+dial:   78
+answer: 835
+
+L78
+clicks: -78
+dial:   0
+answer: 836
+
+L740
+clicks: -740
+dial:   60
+answer: 836
+
+R740
+clicks: 740
+dial:   0
+answer: 837
+
+R956
+clicks: 956
+dial:   56
+answer: 837
+
+L32
+clicks: -32
+dial:   24
+answer: 837
+
+L96
+clicks: -96
+dial:   28
+answer: 837
+
+L28
+clicks: -28
+dial:   0
+answer: 838
+
+R695
+clicks: 695
+dial:   95
+answer: 838
+
+L95
+clicks: -95
+dial:   0
+answer: 839
+
+R859
+clicks: 859
+dial:   59
+answer: 839
+
+L39
+clicks: -39
+dial:   20
+answer: 839
+
+R62
+clicks: 62
+dial:   82
+answer: 839
+
+L96
+clicks: -96
+dial:   86
+answer: 839
+
+L1
+clicks: -1
+dial:   85
+answer: 839
+
+L85
+clicks: -85
+dial:   0
+answer: 840
+
+L835
+clicks: -835
+dial:   65
+answer: 840
+
+R81
+clicks: 81
+dial:   46
+answer: 840
+
+L98
+clicks: -98
+dial:   48
+answer: 840
+
+L48
+clicks: -48
+dial:   0
+answer: 841
+
+L50
+clicks: -50
+dial:   50
+answer: 841
+
+R50
+clicks: 50
+dial:   0
+answer: 842
+
+L264
+clicks: -264
+dial:   36
+answer: 842
+
+R64
+clicks: 64
+dial:   0
+answer: 843
+
+L11
+clicks: -11
+dial:   89
+answer: 843
+
+L35
+clicks: -35
+dial:   54
+answer: 843
+
+L69
+clicks: -69
+dial:   85
+answer: 843
+
+R15
+clicks: 15
+dial:   0
+answer: 844
+
+L24
+clicks: -24
+dial:   76
+answer: 844
+
+L76
+clicks: -76
+dial:   0
+answer: 845
+
+R99
+clicks: 99
+dial:   99
+answer: 845
+
+R90
+clicks: 90
+dial:   89
+answer: 845
+
+L46
+clicks: -46
+dial:   43
+answer: 845
+
+R62
+clicks: 62
+dial:   5
+answer: 845
+
+R33
+clicks: 33
+dial:   38
+answer: 845
+
+R735
+clicks: 735
+dial:   73
+answer: 845
+
+L11
+clicks: -11
+dial:   62
+answer: 845
+
+L25
+clicks: -25
+dial:   37
+answer: 845
+
+R863
+clicks: 863
+dial:   0
+answer: 846
+
+L60
+clicks: -60
+dial:   40
+answer: 846
+
+R67
+clicks: 67
+dial:   7
+answer: 846
+
+R511
+clicks: 511
+dial:   18
+answer: 846
+
+R82
+clicks: 82
+dial:   0
+answer: 847
+
+L58
+clicks: -58
+dial:   42
+answer: 847
+
+L49
+clicks: -49
+dial:   93
+answer: 847
+
+L93
+clicks: -93
+dial:   0
+answer: 848
+
+R71
+clicks: 71
+dial:   71
+answer: 848
+
+R29
+clicks: 29
+dial:   0
+answer: 849
+
+L18
+clicks: -18
+dial:   82
+answer: 849
+
+L482
+clicks: -482
+dial:   0
+answer: 850
+
+R85
+clicks: 85
+dial:   85
+answer: 850
+
+R53
+clicks: 53
+dial:   38
+answer: 850
+
+R187
+clicks: 187
+dial:   25
+answer: 850
+
+L25
+clicks: -25
+dial:   0
+answer: 851
+
+L72
+clicks: -72
+dial:   28
+answer: 851
+
+L28
+clicks: -28
+dial:   0
+answer: 852
+
+R523
+clicks: 523
+dial:   23
+answer: 852
+
+L219
+clicks: -219
+dial:   4
+answer: 852
+
+L910
+clicks: -910
+dial:   94
+answer: 852
+
+R28
+clicks: 28
+dial:   22
+answer: 852
+
+R78
+clicks: 78
+dial:   0
+answer: 853
+
+R68
+clicks: 68
+dial:   68
+answer: 853
+
+L847
+clicks: -847
+dial:   21
+answer: 853
+
+L21
+clicks: -21
+dial:   0
+answer: 854
+
+L9
+clicks: -9
+dial:   91
+answer: 854
+
+L74
+clicks: -74
+dial:   17
+answer: 854
+
+L17
+clicks: -17
+dial:   0
+answer: 855
+
+L45
+clicks: -45
+dial:   55
+answer: 855
+
+L755
+clicks: -755
+dial:   0
+answer: 856
+
+R489
+clicks: 489
+dial:   89
+answer: 856
+
+L389
+clicks: -389
+dial:   0
+answer: 857
+
+R717
+clicks: 717
+dial:   17
+answer: 857
+
+R36
+clicks: 36
+dial:   53
+answer: 857
+
+R23
+clicks: 23
+dial:   76
+answer: 857
+
+L79
+clicks: -79
+dial:   97
+answer: 857
+
+L31
+clicks: -31
+dial:   66
+answer: 857
+
+L60
+clicks: -60
+dial:   6
+answer: 857
+
+L31
+clicks: -31
+dial:   75
+answer: 857
+
+R15
+clicks: 15
+dial:   90
+answer: 857
+
+L90
+clicks: -90
+dial:   0
+answer: 858
+
+L78
+clicks: -78
+dial:   22
+answer: 858
+
+L9
+clicks: -9
+dial:   13
+answer: 858
+
+R62
+clicks: 62
+dial:   75
+answer: 858
+
+R32
+clicks: 32
+dial:   7
+answer: 858
+
+R93
+clicks: 93
+dial:   0
+answer: 859
+
+R389
+clicks: 389
+dial:   89
+answer: 859
+
+L3
+clicks: -3
+dial:   86
+answer: 859
+
+L51
+clicks: -51
+dial:   35
+answer: 859
+
+R67
+clicks: 67
+dial:   2
+answer: 859
+
+L414
+clicks: -414
+dial:   88
+answer: 859
+
+R12
+clicks: 12
+dial:   0
+answer: 860
+
+R78
+clicks: 78
+dial:   78
+answer: 860
+
+R22
+clicks: 22
+dial:   0
+answer: 861
+
+R40
+clicks: 40
+dial:   40
+answer: 861
+
+L40
+clicks: -40
+dial:   0
+answer: 862
+
+R73
+clicks: 73
+dial:   73
+answer: 862
+
+R6
+clicks: 6
+dial:   79
+answer: 862
+
+L726
+clicks: -726
+dial:   53
+answer: 862
+
+R57
+clicks: 57
+dial:   10
+answer: 862
+
+R90
+clicks: 90
+dial:   0
+answer: 863
+
+R23
+clicks: 23
+dial:   23
+answer: 863
+
+R877
+clicks: 877
+dial:   0
+answer: 864
+
+L58
+clicks: -58
+dial:   42
+answer: 864
+
+R58
+clicks: 58
+dial:   0
+answer: 865
+
+R306
+clicks: 306
+dial:   6
+answer: 865
+
+L31
+clicks: -31
+dial:   75
+answer: 865
+
+R659
+clicks: 659
+dial:   34
+answer: 865
+
+R87
+clicks: 87
+dial:   21
+answer: 865
+
+R368
+clicks: 368
+dial:   89
+answer: 865
+
+R11
+clicks: 11
+dial:   0
+answer: 866
+
+R40
+clicks: 40
+dial:   40
+answer: 866
+
+L27
+clicks: -27
+dial:   13
+answer: 866
+
+L21
+clicks: -21
+dial:   92
+answer: 866
+
+L92
+clicks: -92
+dial:   0
+answer: 867
+
+R90
+clicks: 90
+dial:   90
+answer: 867
+
+R13
+clicks: 13
+dial:   3
+answer: 867
+
+L3
+clicks: -3
+dial:   0
+answer: 868
+
+L33
+clicks: -33
+dial:   67
+answer: 868
+
+R33
+clicks: 33
+dial:   0
+answer: 869
+
+R85
+clicks: 85
+dial:   85
+answer: 869
+
+L1
+clicks: -1
+dial:   84
+answer: 869
+
+L883
+clicks: -883
+dial:   1
+answer: 869
+
+R99
+clicks: 99
+dial:   0
+answer: 870
+
+L75
+clicks: -75
+dial:   25
+answer: 870
+
+L26
+clicks: -26
+dial:   99
+answer: 870
+
+R95
+clicks: 95
+dial:   94
+answer: 870
+
+R72
+clicks: 72
+dial:   66
+answer: 870
+
+L76
+clicks: -76
+dial:   90
+answer: 870
+
+L90
+clicks: -90
+dial:   0
+answer: 871
+
+R93
+clicks: 93
+dial:   93
+answer: 871
+
+R614
+clicks: 614
+dial:   7
+answer: 871
+
+R67
+clicks: 67
+dial:   74
+answer: 871
+
+R60
+clicks: 60
+dial:   34
+answer: 871
+
+R55
+clicks: 55
+dial:   89
+answer: 871
+
+R93
+clicks: 93
+dial:   82
+answer: 871
+
+L55
+clicks: -55
+dial:   27
+answer: 871
+
+R66
+clicks: 66
+dial:   93
+answer: 871
+
+L893
+clicks: -893
+dial:   0
+answer: 872
+
+L23
+clicks: -23
+dial:   77
+answer: 872
+
+L77
+clicks: -77
+dial:   0
+answer: 873
+
+L198
+clicks: -198
+dial:   2
+answer: 873
+
+L99
+clicks: -99
+dial:   3
+answer: 873
+
+R459
+clicks: 459
+dial:   62
+answer: 873
+
+L63
+clicks: -63
+dial:   99
+answer: 873
+
+R13
+clicks: 13
+dial:   12
+answer: 873
+
+R17
+clicks: 17
+dial:   29
+answer: 873
+
+L12
+clicks: -12
+dial:   17
+answer: 873
+
+R56
+clicks: 56
+dial:   73
+answer: 873
+
+R27
+clicks: 27
+dial:   0
+answer: 874
+
+R36
+clicks: 36
+dial:   36
+answer: 874
+
+L46
+clicks: -46
+dial:   90
+answer: 874
+
+R24
+clicks: 24
+dial:   14
+answer: 874
+
+L96
+clicks: -96
+dial:   18
+answer: 874
+
+R46
+clicks: 46
+dial:   64
+answer: 874
+
+L93
+clicks: -93
+dial:   71
+answer: 874
+
+L83
+clicks: -83
+dial:   88
+answer: 874
+
+L942
+clicks: -942
+dial:   46
+answer: 874
+
+L46
+clicks: -46
+dial:   0
+answer: 875
+
+R53
+clicks: 53
+dial:   53
+answer: 875
+
+R47
+clicks: 47
+dial:   0
+answer: 876
+
+L6
+clicks: -6
+dial:   94
+answer: 876
+
+L94
+clicks: -94
+dial:   0
+answer: 877
+
+L661
+clicks: -661
+dial:   39
+answer: 877
+
+L39
+clicks: -39
+dial:   0
+answer: 878
+
+R4
+clicks: 4
+dial:   4
+answer: 878
+
+L84
+clicks: -84
+dial:   20
+answer: 878
+
+R80
+clicks: 80
+dial:   0
+answer: 879
+
+L745
+clicks: -745
+dial:   55
+answer: 879
+
+R20
+clicks: 20
+dial:   75
+answer: 879
+
+L75
+clicks: -75
+dial:   0
+answer: 880
+
+L28
+clicks: -28
+dial:   72
+answer: 880
+
+R79
+clicks: 79
+dial:   51
+answer: 880
+
+R73
+clicks: 73
+dial:   24
+answer: 880
+
+L381
+clicks: -381
+dial:   43
+answer: 880
+
+R93
+clicks: 93
+dial:   36
+answer: 880
+
+L260
+clicks: -260
+dial:   76
+answer: 880
+
+R21
+clicks: 21
+dial:   97
+answer: 880
+
+L75
+clicks: -75
+dial:   22
+answer: 880
+
+R478
+clicks: 478
+dial:   0
+answer: 881
+
+L61
+clicks: -61
+dial:   39
+answer: 881
+
+R93
+clicks: 93
+dial:   32
+answer: 881
+
+L32
+clicks: -32
+dial:   0
+answer: 882
+
+L95
+clicks: -95
+dial:   5
+answer: 882
+
+R95
+clicks: 95
+dial:   0
+answer: 883
+
+L1
+clicks: -1
+dial:   99
+answer: 883
+
+L99
+clicks: -99
+dial:   0
+answer: 884
+
+R8
+clicks: 8
+dial:   8
+answer: 884
+
+R43
+clicks: 43
+dial:   51
+answer: 884
+
+R61
+clicks: 61
+dial:   12
+answer: 884
+
+R933
+clicks: 933
+dial:   45
+answer: 884
+
+L13
+clicks: -13
+dial:   32
+answer: 884
+
+R70
+clicks: 70
+dial:   2
+answer: 884
+
+L78
+clicks: -78
+dial:   24
+answer: 884
+
+L24
+clicks: -24
+dial:   0
+answer: 885
+
+R150
+clicks: 150
+dial:   50
+answer: 885
+
+L84
+clicks: -84
+dial:   66
+answer: 885
+
+R2
+clicks: 2
+dial:   68
+answer: 885
+
+R79
+clicks: 79
+dial:   47
+answer: 885
+
+L47
+clicks: -47
+dial:   0
+answer: 886
+
+R55
+clicks: 55
+dial:   55
+answer: 886
+
+R5
+clicks: 5
+dial:   60
+answer: 886
+
+L60
+clicks: -60
+dial:   0
+answer: 887
+
+L98
+clicks: -98
+dial:   2
+answer: 887
+
+L302
+clicks: -302
+dial:   0
+answer: 888
+
+R94
+clicks: 94
+dial:   94
+answer: 888
+
+R4
+clicks: 4
+dial:   98
+answer: 888
+
+L15
+clicks: -15
+dial:   83
+answer: 888
+
+R73
+clicks: 73
+dial:   56
+answer: 888
+
+L2
+clicks: -2
+dial:   54
+answer: 888
+
+L28
+clicks: -28
+dial:   26
+answer: 888
+
+L23
+clicks: -23
+dial:   3
+answer: 888
+
+R16
+clicks: 16
+dial:   19
+answer: 888
+
+R81
+clicks: 81
+dial:   0
+answer: 889
+
+L78
+clicks: -78
+dial:   22
+answer: 889
+
+R36
+clicks: 36
+dial:   58
+answer: 889
+
+R88
+clicks: 88
+dial:   46
+answer: 889
+
+R54
+clicks: 54
+dial:   0
+answer: 890
+
+L80
+clicks: -80
+dial:   20
+answer: 890
+
+L20
+clicks: -20
+dial:   0
+answer: 891
+
+R419
+clicks: 419
+dial:   19
+answer: 891
+
+R88
+clicks: 88
+dial:   7
+answer: 891
+
+L7
+clicks: -7
+dial:   0
+answer: 892
+
+R64
+clicks: 64
+dial:   64
+answer: 892
+
+L464
+clicks: -464
+dial:   0
+answer: 893
+
+L77
+clicks: -77
+dial:   23
+answer: 893
+
+R39
+clicks: 39
+dial:   62
+answer: 893
+
+R531
+clicks: 531
+dial:   93
+answer: 893
+
+L838
+clicks: -838
+dial:   55
+answer: 893
+
+L89
+clicks: -89
+dial:   66
+answer: 893
+
+L66
+clicks: -66
+dial:   0
+answer: 894
+
+L619
+clicks: -619
+dial:   81
+answer: 894
+
+R417
+clicks: 417
+dial:   98
+answer: 894
+
+L98
+clicks: -98
+dial:   0
+answer: 895
+
+R331
+clicks: 331
+dial:   31
+answer: 895
+
+R94
+clicks: 94
+dial:   25
+answer: 895
+
+R75
+clicks: 75
+dial:   0
+answer: 896
+
+R60
+clicks: 60
+dial:   60
+answer: 896
+
+R40
+clicks: 40
+dial:   0
+answer: 897
+
+R40
+clicks: 40
+dial:   40
+answer: 897
+
+R60
+clicks: 60
+dial:   0
+answer: 898
+
+L878
+clicks: -878
+dial:   22
+answer: 898
+
+L22
+clicks: -22
+dial:   0
+answer: 899
+
+L29
+clicks: -29
+dial:   71
+answer: 899
+
+R64
+clicks: 64
+dial:   35
+answer: 899
+
+L35
+clicks: -35
+dial:   0
+answer: 900
+
+R67
+clicks: 67
+dial:   67
+answer: 900
+
+R33
+clicks: 33
+dial:   0
+answer: 901
+
+R16
+clicks: 16
+dial:   16
+answer: 901
+
+L73
+clicks: -73
+dial:   43
+answer: 901
+
+R72
+clicks: 72
+dial:   15
+answer: 901
+
+L15
+clicks: -15
+dial:   0
+answer: 902
+
+L513
+clicks: -513
+dial:   87
+answer: 902
+
+R87
+clicks: 87
+dial:   74
+answer: 902
+
+R85
+clicks: 85
+dial:   59
+answer: 902
+
+L63
+clicks: -63
+dial:   96
+answer: 902
+
+R82
+clicks: 82
+dial:   78
+answer: 902
+
+L72
+clicks: -72
+dial:   6
+answer: 902
+
+R27
+clicks: 27
+dial:   33
+answer: 902
+
+L33
+clicks: -33
+dial:   0
+answer: 903
+
+L24
+clicks: -24
+dial:   76
+answer: 903
+
+L534
+clicks: -534
+dial:   42
+answer: 903
+
+L26
+clicks: -26
+dial:   16
+answer: 903
+
+L8
+clicks: -8
+dial:   8
+answer: 903
+
+L15
+clicks: -15
+dial:   93
+answer: 903
+
+R10
+clicks: 10
+dial:   3
+answer: 903
+
+L29
+clicks: -29
+dial:   74
+answer: 903
+
+L54
+clicks: -54
+dial:   20
+answer: 903
+
+L20
+clicks: -20
+dial:   0
+answer: 904
+
+R48
+clicks: 48
+dial:   48
+answer: 904
+
+L48
+clicks: -48
+dial:   0
+answer: 905
+
+L67
+clicks: -67
+dial:   33
+answer: 905
+
+L34
+clicks: -34
+dial:   99
+answer: 905
+
+R33
+clicks: 33
+dial:   32
+answer: 905
+
+R658
+clicks: 658
+dial:   90
+answer: 905
+
+R10
+clicks: 10
+dial:   0
+answer: 906
+
+R55
+clicks: 55
+dial:   55
+answer: 906
+
+R7
+clicks: 7
+dial:   62
+answer: 906
+
+R38
+clicks: 38
+dial:   0
+answer: 907
+
+R1
+clicks: 1
+dial:   1
+answer: 907
+
+L73
+clicks: -73
+dial:   28
+answer: 907
+
+L63
+clicks: -63
+dial:   65
+answer: 907
+
+R22
+clicks: 22
+dial:   87
+answer: 907
+
+L25
+clicks: -25
+dial:   62
+answer: 907
+
+R708
+clicks: 708
+dial:   70
+answer: 907
+
+L40
+clicks: -40
+dial:   30
+answer: 907
+
+R906
+clicks: 906
+dial:   36
+answer: 907
+
+L36
+clicks: -36
+dial:   0
+answer: 908
+
+L284
+clicks: -284
+dial:   16
+answer: 908
+
+L26
+clicks: -26
+dial:   90
+answer: 908
+
+L35
+clicks: -35
+dial:   55
+answer: 908
+
+R945
+clicks: 945
+dial:   0
+answer: 909
+
+R8
+clicks: 8
+dial:   8
+answer: 909
+
+R33
+clicks: 33
+dial:   41
+answer: 909
+
+R759
+clicks: 759
+dial:   0
+answer: 910
+
+R42
+clicks: 42
+dial:   42
+answer: 910
+
+R86
+clicks: 86
+dial:   28
+answer: 910
+
+L428
+clicks: -428
+dial:   0
+answer: 911
+
+L649
+clicks: -649
+dial:   51
+answer: 911
+
+L1
+clicks: -1
+dial:   50
+answer: 911
+
+R90
+clicks: 90
+dial:   40
+answer: 911
+
+L640
+clicks: -640
+dial:   0
+answer: 912
+
+L64
+clicks: -64
+dial:   36
+answer: 912
+
+L36
+clicks: -36
+dial:   0
+answer: 913
+
+R87
+clicks: 87
+dial:   87
+answer: 913
+
+L957
+clicks: -957
+dial:   30
+answer: 913
+
+R770
+clicks: 770
+dial:   0
+answer: 914
+
+R35
+clicks: 35
+dial:   35
+answer: 914
+
+L35
+clicks: -35
+dial:   0
+answer: 915
+
+R592
+clicks: 592
+dial:   92
+answer: 915
+
+R8
+clicks: 8
+dial:   0
+answer: 916
+
+L40
+clicks: -40
+dial:   60
+answer: 916
+
+L33
+clicks: -33
+dial:   27
+answer: 916
+
+R92
+clicks: 92
+dial:   19
+answer: 916
+
+R81
+clicks: 81
+dial:   0
+answer: 917
+
+R16
+clicks: 16
+dial:   16
+answer: 917
+
+L24
+clicks: -24
+dial:   92
+answer: 917
+
+L557
+clicks: -557
+dial:   35
+answer: 917
+
+R51
+clicks: 51
+dial:   86
+answer: 917
+
+R16
+clicks: 16
+dial:   2
+answer: 917
+
+R398
+clicks: 398
+dial:   0
+answer: 918
+
+R92
+clicks: 92
+dial:   92
+answer: 918
+
+L52
+clicks: -52
+dial:   40
+answer: 918
+
+R41
+clicks: 41
+dial:   81
+answer: 918
+
+R419
+clicks: 419
+dial:   0
+answer: 919
+
+R8
+clicks: 8
+dial:   8
+answer: 919
+
+L108
+clicks: -108
+dial:   0
+answer: 920
+
+L70
+clicks: -70
+dial:   30
+answer: 920
+
+R68
+clicks: 68
+dial:   98
+answer: 920
+
+L598
+clicks: -598
+dial:   0
+answer: 921
+
+L171
+clicks: -171
+dial:   29
+answer: 921
+
+R914
+clicks: 914
+dial:   43
+answer: 921
+
+R57
+clicks: 57
+dial:   0
+answer: 922
+
+L313
+clicks: -313
+dial:   87
+answer: 922
+
+R156
+clicks: 156
+dial:   43
+answer: 922
+
+L96
+clicks: -96
+dial:   47
+answer: 922
+
+R87
+clicks: 87
+dial:   34
+answer: 922
+
+R66
+clicks: 66
+dial:   0
+answer: 923
+
+L81
+clicks: -81
+dial:   19
+answer: 923
+
+L95
+clicks: -95
+dial:   24
+answer: 923
+
+L79
+clicks: -79
+dial:   45
+answer: 923
+
+L168
+clicks: -168
+dial:   77
+answer: 923
+
+R423
+clicks: 423
+dial:   0
+answer: 924
+
+L50
+clicks: -50
+dial:   50
+answer: 924
+
+L50
+clicks: -50
+dial:   0
+answer: 925
+
+R56
+clicks: 56
+dial:   56
+answer: 925
+
+L553
+clicks: -553
+dial:   3
+answer: 925
+
+L88
+clicks: -88
+dial:   15
+answer: 925
+
+L69
+clicks: -69
+dial:   46
+answer: 925
+
+L34
+clicks: -34
+dial:   12
+answer: 925
+
+L791
+clicks: -791
+dial:   21
+answer: 925
+
+R79
+clicks: 79
+dial:   0
+answer: 926
+
+R248
+clicks: 248
+dial:   48
+answer: 926
+
+R50
+clicks: 50
+dial:   98
+answer: 926
+
+R10
+clicks: 10
+dial:   8
+answer: 926
+
+R92
+clicks: 92
+dial:   0
+answer: 927
+
+R36
+clicks: 36
+dial:   36
+answer: 927
+
+R11
+clicks: 11
+dial:   47
+answer: 927
+
+L44
+clicks: -44
+dial:   3
+answer: 927
+
+R596
+clicks: 596
+dial:   99
+answer: 927
+
+R72
+clicks: 72
+dial:   71
+answer: 927
+
+L63
+clicks: -63
+dial:   8
+answer: 927
+
+R29
+clicks: 29
+dial:   37
+answer: 927
+
+R63
+clicks: 63
+dial:   0
+answer: 928
+
+R94
+clicks: 94
+dial:   94
+answer: 928
+
+L94
+clicks: -94
+dial:   0
+answer: 929
+
+R36
+clicks: 36
+dial:   36
+answer: 929
+
+R11
+clicks: 11
+dial:   47
+answer: 929
+
+R85
+clicks: 85
+dial:   32
+answer: 929
+
+L24
+clicks: -24
+dial:   8
+answer: 929
+
+R6
+clicks: 6
+dial:   14
+answer: 929
+
+L514
+clicks: -514
+dial:   0
+answer: 930
+
+R146
+clicks: 146
+dial:   46
+answer: 930
+
+R30
+clicks: 30
+dial:   76
+answer: 930
+
+R46
+clicks: 46
+dial:   22
+answer: 930
+
+L62
+clicks: -62
+dial:   60
+answer: 930
+
+R702
+clicks: 702
+dial:   62
+answer: 930
+
+L62
+clicks: -62
+dial:   0
+answer: 931
+
+L502
+clicks: -502
+dial:   98
+answer: 931
+
+R2
+clicks: 2
+dial:   0
+answer: 932
+
+L70
+clicks: -70
+dial:   30
+answer: 932
+
+R57
+clicks: 57
+dial:   87
+answer: 932
+
+L98
+clicks: -98
+dial:   89
+answer: 932
+
+R311
+clicks: 311
+dial:   0
+answer: 933
+
+R97
+clicks: 97
+dial:   97
+answer: 933
+
+R83
+clicks: 83
+dial:   80
+answer: 933
+
+R20
+clicks: 20
+dial:   0
+answer: 934
+
+L575
+clicks: -575
+dial:   25
+answer: 934
+
+L69
+clicks: -69
+dial:   56
+answer: 934
+
+L88
+clicks: -88
+dial:   68
+answer: 934
+
+L68
+clicks: -68
+dial:   0
+answer: 935
+
+R85
+clicks: 85
+dial:   85
+answer: 935
+
+L48
+clicks: -48
+dial:   37
+answer: 935
+
+R257
+clicks: 257
+dial:   94
+answer: 935
+
+R6
+clicks: 6
+dial:   0
+answer: 936
+
+L64
+clicks: -64
+dial:   36
+answer: 936
+
+L428
+clicks: -428
+dial:   8
+answer: 936
+
+R146
+clicks: 146
+dial:   54
+answer: 936
+
+R46
+clicks: 46
+dial:   0
+answer: 937
+
+R32
+clicks: 32
+dial:   32
+answer: 937
+
+L52
+clicks: -52
+dial:   80
+answer: 937
+
+L38
+clicks: -38
+dial:   42
+answer: 937
+
+L79
+clicks: -79
+dial:   63
+answer: 937
+
+L63
+clicks: -63
+dial:   0
+answer: 938
+
+L461
+clicks: -461
+dial:   39
+answer: 938
+
+L8
+clicks: -8
+dial:   31
+answer: 938
+
+L31
+clicks: -31
+dial:   0
+answer: 939
+
+R40
+clicks: 40
+dial:   40
+answer: 939
+
+R41
+clicks: 41
+dial:   81
+answer: 939
+
+R19
+clicks: 19
+dial:   0
+answer: 940
+
+L33
+clicks: -33
+dial:   67
+answer: 940
+
+R56
+clicks: 56
+dial:   23
+answer: 940
+
+L23
+clicks: -23
+dial:   0
+answer: 941
+
+R67
+clicks: 67
+dial:   67
+answer: 941
+
+R45
+clicks: 45
+dial:   12
+answer: 941
+
+L12
+clicks: -12
+dial:   0
+answer: 942
+
+L995
+clicks: -995
+dial:   5
+answer: 942
+
+L47
+clicks: -47
+dial:   58
+answer: 942
+
+R5
+clicks: 5
+dial:   63
+answer: 942
+
+L16
+clicks: -16
+dial:   47
+answer: 942
+
+R57
+clicks: 57
+dial:   4
+answer: 942
+
+L4
+clicks: -4
+dial:   0
+answer: 943
+
+R43
+clicks: 43
+dial:   43
+answer: 943
+
+R39
+clicks: 39
+dial:   82
+answer: 943
+
+L89
+clicks: -89
+dial:   93
+answer: 943
+
+L34
+clicks: -34
+dial:   59
+answer: 943
+
+L88
+clicks: -88
+dial:   71
+answer: 943
+
+L71
+clicks: -71
+dial:   0
+answer: 944
+
+L9
+clicks: -9
+dial:   91
+answer: 944
+
+R14
+clicks: 14
+dial:   5
+answer: 944
+
+L6
+clicks: -6
+dial:   99
+answer: 944
+
+L43
+clicks: -43
+dial:   56
+answer: 944
+
+L91
+clicks: -91
+dial:   65
+answer: 944
+
+L65
+clicks: -65
+dial:   0
+answer: 945
+
+R40
+clicks: 40
+dial:   40
+answer: 945
+
+L40
+clicks: -40
+dial:   0
+answer: 946
+
+R75
+clicks: 75
+dial:   75
+answer: 946
+
+R25
+clicks: 25
+dial:   0
+answer: 947
+
+L356
+clicks: -356
+dial:   44
+answer: 947
+
+L44
+clicks: -44
+dial:   0
+answer: 948
+
+R27
+clicks: 27
+dial:   27
+answer: 948
+
+L27
+clicks: -27
+dial:   0
+answer: 949
+
+L37
+clicks: -37
+dial:   63
+answer: 949
+
+L55
+clicks: -55
+dial:   8
+answer: 949
+
+L8
+clicks: -8
+dial:   0
+answer: 950
+
+L98
+clicks: -98
+dial:   2
+answer: 950
+
+L2
+clicks: -2
+dial:   0
+answer: 951
+
+R34
+clicks: 34
+dial:   34
+answer: 951
+
+R373
+clicks: 373
+dial:   7
+answer: 951
+
+R55
+clicks: 55
+dial:   62
+answer: 951
+
+R93
+clicks: 93
+dial:   55
+answer: 951
+
+L55
+clicks: -55
+dial:   0
+answer: 952
+
+R79
+clicks: 79
+dial:   79
+answer: 952
+
+R96
+clicks: 96
+dial:   75
+answer: 952
+
+R625
+clicks: 625
+dial:   0
+answer: 953
+
+L28
+clicks: -28
+dial:   72
+answer: 953
+
+R28
+clicks: 28
+dial:   0
+answer: 954
+
+R191
+clicks: 191
+dial:   91
+answer: 954
+
+L91
+clicks: -91
+dial:   0
+answer: 955
+
+L96
+clicks: -96
+dial:   4
+answer: 955
+
+R123
+clicks: 123
+dial:   27
+answer: 955
+
+R69
+clicks: 69
+dial:   96
+answer: 955
+
+R64
+clicks: 64
+dial:   60
+answer: 955
+
+R27
+clicks: 27
+dial:   87
+answer: 955
+
+L62
+clicks: -62
+dial:   25
+answer: 955
+
+R91
+clicks: 91
+dial:   16
+answer: 955
+
+R384
+clicks: 384
+dial:   0
+answer: 956
+
+L86
+clicks: -86
+dial:   14
+answer: 956
+
+L914
+clicks: -914
+dial:   0
+answer: 957
+
+R62
+clicks: 62
+dial:   62
+answer: 957
+
+L13
+clicks: -13
+dial:   49
+answer: 957
+
+R493
+clicks: 493
+dial:   42
+answer: 957
+
+L5
+clicks: -5
+dial:   37
+answer: 957
+
+L977
+clicks: -977
+dial:   60
+answer: 957
+
+R940
+clicks: 940
+dial:   0
+answer: 958
+
+R75
+clicks: 75
+dial:   75
+answer: 958
+
+R10
+clicks: 10
+dial:   85
+answer: 958
+
+R47
+clicks: 47
+dial:   32
+answer: 958
+
+L35
+clicks: -35
+dial:   97
+answer: 958
+
+L97
+clicks: -97
+dial:   0
+answer: 959
+
+L3
+clicks: -3
+dial:   97
+answer: 959
+
+R3
+clicks: 3
+dial:   0
+answer: 960
+
+L49
+clicks: -49
+dial:   51
+answer: 960
+
+R89
+clicks: 89
+dial:   40
+answer: 960
+
+L889
+clicks: -889
+dial:   51
+answer: 960
+
+L4
+clicks: -4
+dial:   47
+answer: 960
+
+L917
+clicks: -917
+dial:   30
+answer: 960
+
+L36
+clicks: -36
+dial:   94
+answer: 960
+
+L60
+clicks: -60
+dial:   34
+answer: 960
+
+L33
+clicks: -33
+dial:   1
+answer: 960
+
+L36
+clicks: -36
+dial:   65
+answer: 960
+
+L65
+clicks: -65
+dial:   0
+answer: 961
+
+R36
+clicks: 36
+dial:   36
+answer: 961
+
+L74
+clicks: -74
+dial:   62
+answer: 961
+
+L37
+clicks: -37
+dial:   25
+answer: 961
+
+R39
+clicks: 39
+dial:   64
+answer: 961
+
+L89
+clicks: -89
+dial:   75
+answer: 961
+
+R26
+clicks: 26
+dial:   1
+answer: 961
+
+L53
+clicks: -53
+dial:   48
+answer: 961
+
+R952
+clicks: 952
+dial:   0
+answer: 962
+
+R24
+clicks: 24
+dial:   24
+answer: 962
+
+L224
+clicks: -224
+dial:   0
+answer: 963
+
+R13
+clicks: 13
+dial:   13
+answer: 963
+
+R18
+clicks: 18
+dial:   31
+answer: 963
+
+R19
+clicks: 19
+dial:   50
+answer: 963
+
+L63
+clicks: -63
+dial:   87
+answer: 963
+
+L65
+clicks: -65
+dial:   22
+answer: 963
+
+R19
+clicks: 19
+dial:   41
+answer: 963
+
+L41
+clicks: -41
+dial:   0
+answer: 964
+
+L86
+clicks: -86
+dial:   14
+answer: 964
+
+R85
+clicks: 85
+dial:   99
+answer: 964
+
+R1
+clicks: 1
+dial:   0
+answer: 965
+
+R62
+clicks: 62
+dial:   62
+answer: 965
+
+L62
+clicks: -62
+dial:   0
+answer: 966
+
+L39
+clicks: -39
+dial:   61
+answer: 966
+
+R82
+clicks: 82
+dial:   43
+answer: 966
+
+L643
+clicks: -643
+dial:   0
+answer: 967
+
+R74
+clicks: 74
+dial:   74
+answer: 967
+
+R85
+clicks: 85
+dial:   59
+answer: 967
+
+L59
+clicks: -59
+dial:   0
+answer: 968
+
+R96
+clicks: 96
+dial:   96
+answer: 968
+
+R71
+clicks: 71
+dial:   67
+answer: 968
+
+R475
+clicks: 475
+dial:   42
+answer: 968
+
+R52
+clicks: 52
+dial:   94
+answer: 968
+
+R80
+clicks: 80
+dial:   74
+answer: 968
+
+L74
+clicks: -74
+dial:   0
+answer: 969
+
+R81
+clicks: 81
+dial:   81
+answer: 969
+
+L29
+clicks: -29
+dial:   52
+answer: 969
+
+R81
+clicks: 81
+dial:   33
+answer: 969
+
+R367
+clicks: 367
+dial:   0
+answer: 970
+
+R634
+clicks: 634
+dial:   34
+answer: 970
+
+L26
+clicks: -26
+dial:   8
+answer: 970
+
+R60
+clicks: 60
+dial:   68
+answer: 970
+
+L40
+clicks: -40
+dial:   28
+answer: 970
+
+R92
+clicks: 92
+dial:   20
+answer: 970
+
+L20
+clicks: -20
+dial:   0
+answer: 971
+
+R20
+clicks: 20
+dial:   20
+answer: 971
+
+L20
+clicks: -20
+dial:   0
+answer: 972
+
+R34
+clicks: 34
+dial:   34
+answer: 972
+
+L13
+clicks: -13
+dial:   21
+answer: 972
+
+L82
+clicks: -82
+dial:   39
+answer: 972
+
+R23
+clicks: 23
+dial:   62
+answer: 972
+
+L934
+clicks: -934
+dial:   28
+answer: 972
+
+R41
+clicks: 41
+dial:   69
+answer: 972
+
+R11
+clicks: 11
+dial:   80
+answer: 972
+
+R720
+clicks: 720
+dial:   0
+answer: 973
+
+L32
+clicks: -32
+dial:   68
+answer: 973
+
+R132
+clicks: 132
+dial:   0
+answer: 974
+
+L149
+clicks: -149
+dial:   51
+answer: 974
+
+R82
+clicks: 82
+dial:   33
+answer: 974
+
+R94
+clicks: 94
+dial:   27
+answer: 974
+
+L27
+clicks: -27
+dial:   0
+answer: 975
+
+L99
+clicks: -99
+dial:   1
+answer: 975
+
+R734
+clicks: 734
+dial:   35
+answer: 975
+
+R36
+clicks: 36
+dial:   71
+answer: 975
+
+R21
+clicks: 21
+dial:   92
+answer: 975
+
+L48
+clicks: -48
+dial:   44
+answer: 975
+
+L44
+clicks: -44
+dial:   0
+answer: 976
+
+L45
+clicks: -45
+dial:   55
+answer: 976
+
+R845
+clicks: 845
+dial:   0
+answer: 977
+
+L95
+clicks: -95
+dial:   5
+answer: 977
+
+R95
+clicks: 95
+dial:   0
+answer: 978
+
+R18
+clicks: 18
+dial:   18
+answer: 978
+
+R82
+clicks: 82
+dial:   0
+answer: 979
+
+R87
+clicks: 87
+dial:   87
+answer: 979
+
+L31
+clicks: -31
+dial:   56
+answer: 979
+
+R44
+clicks: 44
+dial:   0
+answer: 980
+
+L736
+clicks: -736
+dial:   64
+answer: 980
+
+L64
+clicks: -64
+dial:   0
+answer: 981
+
+L30
+clicks: -30
+dial:   70
+answer: 981
+
+R31
+clicks: 31
+dial:   1
+answer: 981
+
+R90
+clicks: 90
+dial:   91
+answer: 981
+
+R88
+clicks: 88
+dial:   79
+answer: 981
+
+R47
+clicks: 47
+dial:   26
+answer: 981
+
+L917
+clicks: -917
+dial:   9
+answer: 981
+
+R29
+clicks: 29
+dial:   38
+answer: 981
+
+R47
+clicks: 47
+dial:   85
+answer: 981
+
+L80
+clicks: -80
+dial:   5
+answer: 981
+
+R95
+clicks: 95
+dial:   0
+answer: 982
+
+L75
+clicks: -75
+dial:   25
+answer: 982
+
+L47
+clicks: -47
+dial:   78
+answer: 982
+
+R74
+clicks: 74
+dial:   52
+answer: 982
+
+R92
+clicks: 92
+dial:   44
+answer: 982
+
+L44
+clicks: -44
+dial:   0
+answer: 983
+
+L15
+clicks: -15
+dial:   85
+answer: 983
+
+L278
+clicks: -278
+dial:   7
+answer: 983
+
+L7
+clicks: -7
+dial:   0
+answer: 984
+
+L53
+clicks: -53
+dial:   47
+answer: 984
+
+R53
+clicks: 53
+dial:   0
+answer: 985
+
+R557
+clicks: 557
+dial:   57
+answer: 985
+
+L57
+clicks: -57
+dial:   0
+answer: 986
+
+L10
+clicks: -10
+dial:   90
+answer: 986
+
+L90
+clicks: -90
+dial:   0
+answer: 987
+
+L63
+clicks: -63
+dial:   37
+answer: 987
+
+R20
+clicks: 20
+dial:   57
+answer: 987
+
+L15
+clicks: -15
+dial:   42
+answer: 987
+
+L43
+clicks: -43
+dial:   99
+answer: 987
+
+L99
+clicks: -99
+dial:   0
+answer: 988
+
+R64
+clicks: 64
+dial:   64
+answer: 988
+
+R84
+clicks: 84
+dial:   48
+answer: 988
+
+R752
+clicks: 752
+dial:   0
+answer: 989
+
+R50
+clicks: 50
+dial:   50
+answer: 989
+
+L50
+clicks: -50
+dial:   0
+answer: 990
+
+L523
+clicks: -523
+dial:   77
+answer: 990
+
+R3
+clicks: 3
+dial:   80
+answer: 990
+
+R20
+clicks: 20
+dial:   0
+answer: 991
+
+R80
+clicks: 80
+dial:   80
+answer: 991
+
+L37
+clicks: -37
+dial:   43
+answer: 991
+
+R55
+clicks: 55
+dial:   98
+answer: 991
+
+L35
+clicks: -35
+dial:   63
+answer: 991
+
+R98
+clicks: 98
+dial:   61
+answer: 991
+
+L89
+clicks: -89
+dial:   72
+answer: 991
+
+L72
+clicks: -72
+dial:   0
+answer: 992
+
+R66
+clicks: 66
+dial:   66
+answer: 992
+
+L34
+clicks: -34
+dial:   32
+answer: 992
+
+R94
+clicks: 94
+dial:   26
+answer: 992
+
+L15
+clicks: -15
+dial:   11
+answer: 992
+
+L11
+clicks: -11
+dial:   0
+answer: 993
+
+L44
+clicks: -44
+dial:   56
+answer: 993
+
+L72
+clicks: -72
+dial:   84
+answer: 993
+
+L2
+clicks: -2
+dial:   82
+answer: 993
+
+L382
+clicks: -382
+dial:   0
+answer: 994
+
+R50
+clicks: 50
+dial:   50
+answer: 994
+
+R50
+clicks: 50
+dial:   0
+answer: 995
+
+R11
+clicks: 11
+dial:   11
+answer: 995
+
+L11
+clicks: -11
+dial:   0
+answer: 996
+
+R599
+clicks: 599
+dial:   99
+answer: 996
+
+R1
+clicks: 1
+dial:   0
+answer: 997
+
+L21
+clicks: -21
+dial:   79
+answer: 997
+
+L66
+clicks: -66
+dial:   13
+answer: 997
+
+L7
+clicks: -7
+dial:   6
+answer: 997
+
+L6
+clicks: -6
+dial:   0
+answer: 998
+
+L26
+clicks: -26
+dial:   74
+answer: 998
+
+L20
+clicks: -20
+dial:   54
+answer: 998
+
+R46
+clicks: 46
+dial:   0
+answer: 999
+
+R517
+clicks: 517
+dial:   17
+answer: 999
+
+R20
+clicks: 20
+dial:   37
+answer: 999
+
+L8
+clicks: -8
+dial:   29
+answer: 999
+
+R90
+clicks: 90
+dial:   19
+answer: 999
+
+R81
+clicks: 81
+dial:   0
+answer: 1000
+
+L174
+clicks: -174
+dial:   26
+answer: 1000
+
+L803
+clicks: -803
+dial:   23
+answer: 1000
+
+R77
+clicks: 77
+dial:   0
+answer: 1001
+
+L61
+clicks: -61
+dial:   39
+answer: 1001
+
+R54
+clicks: 54
+dial:   93
+answer: 1001
+
+R7
+clicks: 7
+dial:   0
+answer: 1002
+
+R81
+clicks: 81
+dial:   81
+answer: 1002
+
+L81
+clicks: -81
+dial:   0
+answer: 1003
+
+L10
+clicks: -10
+dial:   90
+answer: 1003
+
+L28
+clicks: -28
+dial:   62
+answer: 1003
+
+L62
+clicks: -62
+dial:   0
+answer: 1004
+
+R22
+clicks: 22
+dial:   22
+answer: 1004
+
+L23
+clicks: -23
+dial:   99
+answer: 1004
+
+R40
+clicks: 40
+dial:   39
+answer: 1004
+
+L481
+clicks: -481
+dial:   58
+answer: 1004
+
+R436
+clicks: 436
+dial:   94
+answer: 1004
+
+R30
+clicks: 30
+dial:   24
+answer: 1004
+
+R76
+clicks: 76
+dial:   0
+answer: 1005
+
+R71
+clicks: 71
+dial:   71
+answer: 1005
+
+L40
+clicks: -40
+dial:   31
+answer: 1005
+
+L11
+clicks: -11
+dial:   20
+answer: 1005
+
+L60
+clicks: -60
+dial:   60
+answer: 1005
+
+L60
+clicks: -60
+dial:   0
+answer: 1006
+
+L842
+clicks: -842
+dial:   58
+answer: 1006
+
+R74
+clicks: 74
+dial:   32
+answer: 1006
+
+L719
+clicks: -719
+dial:   13
+answer: 1006
+
+R47
+clicks: 47
+dial:   60
+answer: 1006
+
+L60
+clicks: -60
+dial:   0
+answer: 1007
+
+R45
+clicks: 45
+dial:   45
+answer: 1007
+
+L78
+clicks: -78
+dial:   67
+answer: 1007
+
+R10
+clicks: 10
+dial:   77
+answer: 1007
+
+R17
+clicks: 17
+dial:   94
+answer: 1007
+
+L131
+clicks: -131
+dial:   63
+answer: 1007
+
+R91
+clicks: 91
+dial:   54
+answer: 1007
+
+L954
+clicks: -954
+dial:   0
+answer: 1008
+
+L70
+clicks: -70
+dial:   30
+answer: 1008
+
+L2
+clicks: -2
+dial:   28
+answer: 1008
+
+R972
+clicks: 972
+dial:   0
+answer: 1009
+
+R41
+clicks: 41
+dial:   41
+answer: 1009
+
+L58
+clicks: -58
+dial:   83
+answer: 1009
+
+L146
+clicks: -146
+dial:   37
+answer: 1009
+
+R759
+clicks: 759
+dial:   96
+answer: 1009
+
+L930
+clicks: -930
+dial:   66
+answer: 1009
+
+L21
+clicks: -21
+dial:   45
+answer: 1009
+
+R52
+clicks: 52
+dial:   97
+answer: 1009
+
+L97
+clicks: -97
+dial:   0
+answer: 1010
+
+R58
+clicks: 58
+dial:   58
+answer: 1010
+
+L52
+clicks: -52
+dial:   6
+answer: 1010
+
+R48
+clicks: 48
+dial:   54
+answer: 1010
+
+R13
+clicks: 13
+dial:   67
+answer: 1010
+
+L354
+clicks: -354
+dial:   13
+answer: 1010
+
+L583
+clicks: -583
+dial:   30
+answer: 1010
+
+L30
+clicks: -30
+dial:   0
+answer: 1011
+
+R776
+clicks: 776
+dial:   76
+answer: 1011
+
+L385
+clicks: -385
+dial:   91
+answer: 1011
+
+R9
+clicks: 9
+dial:   0
+answer: 1012
+
+R1
+clicks: 1
+dial:   1
+answer: 1012
+
+L1
+clicks: -1
+dial:   0
+answer: 1013
+
+R86
+clicks: 86
+dial:   86
+answer: 1013
+
+R41
+clicks: 41
+dial:   27
+answer: 1013
+
+R48
+clicks: 48
+dial:   75
+answer: 1013
+
+R25
+clicks: 25
+dial:   0
+answer: 1014
+
+R33
+clicks: 33
+dial:   33
+answer: 1014
+
+L33
+clicks: -33
+dial:   0
+answer: 1015
+
+R55
+clicks: 55
+dial:   55
+answer: 1015
+
+L89
+clicks: -89
+dial:   66
+answer: 1015
+
+R320
+clicks: 320
+dial:   86
+answer: 1015
+
+L86
+clicks: -86
+dial:   0
+answer: 1016
+
+L69
+clicks: -69
+dial:   31
+answer: 1016
+
+L31
+clicks: -31
+dial:   0
+answer: 1017
+
+R8
+clicks: 8
+dial:   8
+answer: 1017
+
+R92
+clicks: 92
+dial:   0
+answer: 1018
+
+R56
+clicks: 56
+dial:   56
+answer: 1018
+
+R63
+clicks: 63
+dial:   19
+answer: 1018
+
+L134
+clicks: -134
+dial:   85
+answer: 1018
+
+L85
+clicks: -85
+dial:   0
+answer: 1019
+
+L50
+clicks: -50
+dial:   50
+answer: 1019
+
+R60
+clicks: 60
+dial:   10
+answer: 1019
+
+R792
+clicks: 792
+dial:   2
+answer: 1019
+
+R67
+clicks: 67
+dial:   69
+answer: 1019
+
+L83
+clicks: -83
+dial:   86
+answer: 1019
+
+L36
+clicks: -36
+dial:   50
+answer: 1019
+
+R70
+clicks: 70
+dial:   20
+answer: 1019
+
+R71
+clicks: 71
+dial:   91
+answer: 1019
+
+L478
+clicks: -478
+dial:   13
+answer: 1019
+
+L143
+clicks: -143
+dial:   70
+answer: 1019
+
+R30
+clicks: 30
+dial:   0
+answer: 1020
+
+R81
+clicks: 81
+dial:   81
+answer: 1020
+
+L53
+clicks: -53
+dial:   28
+answer: 1020
+
+R42
+clicks: 42
+dial:   70
+answer: 1020
+
+L49
+clicks: -49
+dial:   21
+answer: 1020
+
+R40
+clicks: 40
+dial:   61
+answer: 1020
+
+R339
+clicks: 339
+dial:   0
+answer: 1021
+
+L94
+clicks: -94
+dial:   6
+answer: 1021
+
+L6
+clicks: -6
+dial:   0
+answer: 1022
+
+R62
+clicks: 62
+dial:   62
+answer: 1022
+
+R3
+clicks: 3
+dial:   65
+answer: 1022
+
+R831
+clicks: 831
+dial:   96
+answer: 1022
+
+L55
+clicks: -55
+dial:   41
+answer: 1022
+
+L54
+clicks: -54
+dial:   87
+answer: 1022
+
+R13
+clicks: 13
+dial:   0
+answer: 1023
+
+L817
+clicks: -817
+dial:   83
+answer: 1023
+
+L95
+clicks: -95
+dial:   88
+answer: 1023
+
+L2
+clicks: -2
+dial:   86
+answer: 1023
+
+R61
+clicks: 61
+dial:   47
+answer: 1023
+
+L26
+clicks: -26
+dial:   21
+answer: 1023
+
+L62
+clicks: -62
+dial:   59
+answer: 1023
+
+L85
+clicks: -85
+dial:   74
+answer: 1023
+
+R38
+clicks: 38
+dial:   12
+answer: 1023
+
+R88
+clicks: 88
+dial:   0
+answer: 1024
+
+R75
+clicks: 75
+dial:   75
+answer: 1024
+
+R56
+clicks: 56
+dial:   31
+answer: 1024
+
+R19
+clicks: 19
+dial:   50
+answer: 1024
+
+L50
+clicks: -50
+dial:   0
+answer: 1025
+
+L53
+clicks: -53
+dial:   47
+answer: 1025
+
+R53
+clicks: 53
+dial:   0
+answer: 1026
+
+R69
+clicks: 69
+dial:   69
+answer: 1026
+
+R656
+clicks: 656
+dial:   25
+answer: 1026
+
+L607
+clicks: -607
+dial:   18
+answer: 1026
+
+R80
+clicks: 80
+dial:   98
+answer: 1026
+
+R38
+clicks: 38
+dial:   36
+answer: 1026
+
+R57
+clicks: 57
+dial:   93
+answer: 1026
+
+R722
+clicks: 722
+dial:   15
+answer: 1026
+
+R85
+clicks: 85
+dial:   0
+answer: 1027
+
+R72
+clicks: 72
+dial:   72
+answer: 1027
+
+R25
+clicks: 25
+dial:   97
+answer: 1027
+
+L97
+clicks: -97
+dial:   0
+answer: 1028
+
+R865
+clicks: 865
+dial:   65
+answer: 1028
+
+L80
+clicks: -80
+dial:   85
+answer: 1028
+
+R115
+clicks: 115
+dial:   0
+answer: 1029
+
+R88
+clicks: 88
+dial:   88
+answer: 1029
+
+L60
+clicks: -60
+dial:   28
+answer: 1029
+
+R72
+clicks: 72
+dial:   0
+answer: 1030
+
+L34
+clicks: -34
+dial:   66
+answer: 1030
+
+R34
+clicks: 34
+dial:   0
+answer: 1031
+
+R50
+clicks: 50
+dial:   50
+answer: 1031
+
+R50
+clicks: 50
+dial:   0
+answer: 1032
+
+L25
+clicks: -25
+dial:   75
+answer: 1032
+
+R25
+clicks: 25
+dial:   0
+answer: 1033
+
+L67
+clicks: -67
+dial:   33
+answer: 1033
+
+L84
+clicks: -84
+dial:   49
+answer: 1033
+
+R31
+clicks: 31
+dial:   80
+answer: 1033
+
+R3
+clicks: 3
+dial:   83
+answer: 1033
+
+R11
+clicks: 11
+dial:   94
+answer: 1033
+
+R6
+clicks: 6
+dial:   0
+answer: 1034
+
+R52
+clicks: 52
+dial:   52
+answer: 1034
+
+L252
+clicks: -252
+dial:   0
+answer: 1035
+
+R98
+clicks: 98
+dial:   98
+answer: 1035
+
+L72
+clicks: -72
+dial:   26
+answer: 1035
+
+L39
+clicks: -39
+dial:   87
+answer: 1035
+
+R155
+clicks: 155
+dial:   42
+answer: 1035
+
+R79
+clicks: 79
+dial:   21
+answer: 1035
+
+L21
+clicks: -21
+dial:   0
+answer: 1036
+
+L34
+clicks: -34
+dial:   66
+answer: 1036
+
+L66
+clicks: -66
+dial:   0
+answer: 1037
+
+R16
+clicks: 16
+dial:   16
+answer: 1037
+
+R420
+clicks: 420
+dial:   36
+answer: 1037
+
+L31
+clicks: -31
+dial:   5
+answer: 1037
+
+R12
+clicks: 12
+dial:   17
+answer: 1037
+
+L67
+clicks: -67
+dial:   50
+answer: 1037
+
+L97
+clicks: -97
+dial:   53
+answer: 1037
+
+L47
+clicks: -47
+dial:   6
+answer: 1037
+
+L35
+clicks: -35
+dial:   71
+answer: 1037
+
+L61
+clicks: -61
+dial:   10
+answer: 1037
+
+R285
+clicks: 285
+dial:   95
+answer: 1037
+
+R5
+clicks: 5
+dial:   0
+answer: 1038
+
+L64
+clicks: -64
+dial:   36
+answer: 1038
+
+R528
+clicks: 528
+dial:   64
+answer: 1038
+
+L264
+clicks: -264
+dial:   0
+answer: 1039
+
+L6
+clicks: -6
+dial:   94
+answer: 1039
+
+R335
+clicks: 335
+dial:   29
+answer: 1039
+
+L29
+clicks: -29
+dial:   0
+answer: 1040
+
+L73
+clicks: -73
+dial:   27
+answer: 1040
+
+R97
+clicks: 97
+dial:   24
+answer: 1040
+
+L389
+clicks: -389
+dial:   35
+answer: 1040
+
+R32
+clicks: 32
+dial:   67
+answer: 1040
+
+R433
+clicks: 433
+dial:   0
+answer: 1041
+
+R89
+clicks: 89
+dial:   89
+answer: 1041
+
+L89
+clicks: -89
+dial:   0
+answer: 1042
+
+R10
+clicks: 10
+dial:   10
+answer: 1042
+
+L10
+clicks: -10
+dial:   0
+answer: 1043
+
+R989
+clicks: 989
+dial:   89
+answer: 1043
+
+L70
+clicks: -70
+dial:   19
+answer: 1043
+
+R81
+clicks: 81
+dial:   0
+answer: 1044
+
+R44
+clicks: 44
+dial:   44
+answer: 1044
+
+R56
+clicks: 56
+dial:   0
+answer: 1045
+
+L248
+clicks: -248
+dial:   52
+answer: 1045
+
+L952
+clicks: -952
+dial:   0
+answer: 1046
+
+R43
+clicks: 43
+dial:   43
+answer: 1046
+
+L25
+clicks: -25
+dial:   18
+answer: 1046
+
+L18
+clicks: -18
+dial:   0
+answer: 1047
+
+L55
+clicks: -55
+dial:   45
+answer: 1047
+
+R42
+clicks: 42
+dial:   87
+answer: 1047
+
+R77
+clicks: 77
+dial:   64
+answer: 1047
+
+R136
+clicks: 136
+dial:   0
+answer: 1048
+
+L88
+clicks: -88
+dial:   12
+answer: 1048
+
+R50
+clicks: 50
+dial:   62
+answer: 1048
+
+L71
+clicks: -71
+dial:   91
+answer: 1048
+
+L291
+clicks: -291
+dial:   0
+answer: 1049
+
+L43
+clicks: -43
+dial:   57
+answer: 1049
+
+L457
+clicks: -457
+dial:   0
+answer: 1050
+
+L44
+clicks: -44
+dial:   56
+answer: 1050
+
+L77
+clicks: -77
+dial:   79
+answer: 1050
+
+R120
+clicks: 120
+dial:   99
+answer: 1050
+
+R30
+clicks: 30
+dial:   29
+answer: 1050
+
+L26
+clicks: -26
+dial:   3
+answer: 1050
+
+L36
+clicks: -36
+dial:   67
+answer: 1050
+
+L67
+clicks: -67
+dial:   0
+answer: 1051
+
+R623
+clicks: 623
+dial:   23
+answer: 1051
+
+L923
+clicks: -923
+dial:   0
+answer: 1052
+
+L895
+clicks: -895
+dial:   5
+answer: 1052
+
+L35
+clicks: -35
+dial:   70
+answer: 1052
+
+L270
+clicks: -270
+dial:   0
+answer: 1053
+
+R66
+clicks: 66
+dial:   66
+answer: 1053
+
+R34
+clicks: 34
+dial:   0
+answer: 1054
+
+L52
+clicks: -52
+dial:   48
+answer: 1054
+
+L66
+clicks: -66
+dial:   82
+answer: 1054
+
+R18
+clicks: 18
+dial:   0
+answer: 1055
+
+R538
+clicks: 538
+dial:   38
+answer: 1055
+
+R29
+clicks: 29
+dial:   67
+answer: 1055
+
+L9
+clicks: -9
+dial:   58
+answer: 1055
+
+L58
+clicks: -58
+dial:   0
+answer: 1056
+
+R9
+clicks: 9
+dial:   9
+answer: 1056
+
+L10
+clicks: -10
+dial:   99
+answer: 1056
+
+L85
+clicks: -85
+dial:   14
+answer: 1056
+
+L5
+clicks: -5
+dial:   9
+answer: 1056
+
+R23
+clicks: 23
+dial:   32
+answer: 1056
+
+L341
+clicks: -341
+dial:   91
+answer: 1056
+
+L63
+clicks: -63
+dial:   28
+answer: 1056
+
+L28
+clicks: -28
+dial:   0
+answer: 1057
+
+R96
+clicks: 96
+dial:   96
+answer: 1057
+
+R4
+clicks: 4
+dial:   0
+answer: 1058
+
+L94
+clicks: -94
+dial:   6
+answer: 1058
+
+R294
+clicks: 294
+dial:   0
+answer: 1059
+
+R911
+clicks: 911
+dial:   11
+answer: 1059
+
+R51
+clicks: 51
+dial:   62
+answer: 1059
+
+L62
+clicks: -62
+dial:   0
+answer: 1060
+
+R40
+clicks: 40
+dial:   40
+answer: 1060
+
+R43
+clicks: 43
+dial:   83
+answer: 1060
+
+R33
+clicks: 33
+dial:   16
+answer: 1060
+
+R42
+clicks: 42
+dial:   58
+answer: 1060
+
+L78
+clicks: -78
+dial:   80
+answer: 1060
+
+L80
+clicks: -80
+dial:   0
+answer: 1061
+
+L96
+clicks: -96
+dial:   4
+answer: 1061
+
+L20
+clicks: -20
+dial:   84
+answer: 1061
+
+L84
+clicks: -84
+dial:   0
+answer: 1062
+
+R64
+clicks: 64
+dial:   64
+answer: 1062
+
+L16
+clicks: -16
+dial:   48
+answer: 1062
+
+L48
+clicks: -48
+dial:   0
+answer: 1063
+
+R79
+clicks: 79
+dial:   79
+answer: 1063
+
+L32
+clicks: -32
+dial:   47
+answer: 1063
+
+R53
+clicks: 53
+dial:   0
+answer: 1064
+
+L40
+clicks: -40
+dial:   60
+answer: 1064
+
+R12
+clicks: 12
+dial:   72
+answer: 1064
+
+R2
+clicks: 2
+dial:   74
+answer: 1064
+
+R11
+clicks: 11
+dial:   85
+answer: 1064
+
+L85
+clicks: -85
+dial:   0
+answer: 1065
+
+R27
+clicks: 27
+dial:   27
+answer: 1065
+
+R39
+clicks: 39
+dial:   66
+answer: 1065
+
+L33
+clicks: -33
+dial:   33
+answer: 1065
+
+R22
+clicks: 22
+dial:   55
+answer: 1065
+
+R45
+clicks: 45
+dial:   0
+answer: 1066
+
+R76
+clicks: 76
+dial:   76
+answer: 1066
+
+R98
+clicks: 98
+dial:   74
+answer: 1066
+
+R73
+clicks: 73
+dial:   47
+answer: 1066
+
+R95
+clicks: 95
+dial:   42
+answer: 1066
+
+L42
+clicks: -42
+dial:   0
+answer: 1067
+
+L27
+clicks: -27
+dial:   73
+answer: 1067
+
+L57
+clicks: -57
+dial:   16
+answer: 1067
+
+R84
+clicks: 84
+dial:   0
+answer: 1068
+
+L55
+clicks: -55
+dial:   45
+answer: 1068
+
+R55
+clicks: 55
+dial:   0
+answer: 1069
+
+L61
+clicks: -61
+dial:   39
+answer: 1069
+
+L68
+clicks: -68
+dial:   71
+answer: 1069
+
+L48
+clicks: -48
+dial:   23
+answer: 1069
+
+R57
+clicks: 57
+dial:   80
+answer: 1069
+
+R57
+clicks: 57
+dial:   37
+answer: 1069
+
+R50
+clicks: 50
+dial:   87
+answer: 1069
+
+L87
+clicks: -87
+dial:   0
+answer: 1070
+
+R19
+clicks: 19
+dial:   19
+answer: 1070
+
+R81
+clicks: 81
+dial:   0
+answer: 1071
+
+L57
+clicks: -57
+dial:   43
+answer: 1071
+
+L43
+clicks: -43
+dial:   0
+answer: 1072
+
+L8
+clicks: -8
+dial:   92
+answer: 1072
+
+L92
+clicks: -92
+dial:   0
+answer: 1073
+
+R88
+clicks: 88
+dial:   88
+answer: 1073
+
+L81
+clicks: -81
+dial:   7
+answer: 1073
+
+R52
+clicks: 52
+dial:   59
+answer: 1073
+
+R11
+clicks: 11
+dial:   70
+answer: 1073
+
+R69
+clicks: 69
+dial:   39
+answer: 1073
+
+R61
+clicks: 61
+dial:   0
+answer: 1074
+
+L22
+clicks: -22
+dial:   78
+answer: 1074
+
+L78
+clicks: -78
+dial:   0
+answer: 1075
+
+L9
+clicks: -9
+dial:   91
+answer: 1075
+
+R9
+clicks: 9
+dial:   0
+answer: 1076
+
+L8
+clicks: -8
+dial:   92
+answer: 1076
+
+L32
+clicks: -32
+dial:   60
+answer: 1076
+
+L13
+clicks: -13
+dial:   47
+answer: 1076
+
+R33
+clicks: 33
+dial:   80
+answer: 1076
+
+R21
+clicks: 21
+dial:   1
+answer: 1076
+
+L11
+clicks: -11
+dial:   90
+answer: 1076
+
+R39
+clicks: 39
+dial:   29
+answer: 1076
+
+R25
+clicks: 25
+dial:   54
+answer: 1076
+
+R25
+clicks: 25
+dial:   79
+answer: 1076
+
+R45
+clicks: 45
+dial:   24
+answer: 1076
+
+R48
+clicks: 48
+dial:   72
+answer: 1076
+
+R8
+clicks: 8
+dial:   80
+answer: 1076
+
+L27
+clicks: -27
+dial:   53
+answer: 1076
+
+L48
+clicks: -48
+dial:   5
+answer: 1076
+
+L13
+clicks: -13
+dial:   92
+answer: 1076
+
+L15
+clicks: -15
+dial:   77
+answer: 1076
+
+L29
+clicks: -29
+dial:   48
+answer: 1076
+
+L36
+clicks: -36
+dial:   12
+answer: 1076
+
+L41
+clicks: -41
+dial:   71
+answer: 1076
+
+L35
+clicks: -35
+dial:   36
+answer: 1076
+
+L27
+clicks: -27
+dial:   9
+answer: 1076
+
+R46
+clicks: 46
+dial:   55
+answer: 1076
+
+R24
+clicks: 24
+dial:   79
+answer: 1076
+
+R49
+clicks: 49
+dial:   28
+answer: 1076
+
+R37
+clicks: 37
+dial:   65
+answer: 1076
+
+R10
+clicks: 10
+dial:   75
+answer: 1076
+
+L47
+clicks: -47
+dial:   28
+answer: 1076
+
+L49
+clicks: -49
+dial:   79
+answer: 1076
+
+R28
+clicks: 28
+dial:   7
+answer: 1076
+
+L43
+clicks: -43
+dial:   64
+answer: 1076
+
+L25
+clicks: -25
+dial:   39
+answer: 1076
+
+L21
+clicks: -21
+dial:   18
+answer: 1076
+
+L32
+clicks: -32
+dial:   86
+answer: 1076
+
+L35
+clicks: -35
+dial:   51
+answer: 1076
+
+L48
+clicks: -48
+dial:   3
+answer: 1076
+
+R12
+clicks: 12
+dial:   15
+answer: 1076
+
+R7
+clicks: 7
+dial:   22
+answer: 1076
+
+R39
+clicks: 39
+dial:   61
+answer: 1076
+
+L27
+clicks: -27
+dial:   34
+answer: 1076
+
+L8
+clicks: -8
+dial:   26
+answer: 1076
+
+R3
+clicks: 3
+dial:   29
+answer: 1076
+
+R18
+clicks: 18
+dial:   47
+answer: 1076
+
+L27
+clicks: -27
+dial:   20
+answer: 1076
+
+R6
+clicks: 6
+dial:   26
+answer: 1076
+
+L34
+clicks: -34
+dial:   92
+answer: 1076
+
+L28
+clicks: -28
+dial:   64
+answer: 1076
+
+L12
+clicks: -12
+dial:   52
+answer: 1076
+
+L1
+clicks: -1
+dial:   51
+answer: 1076
+
+R42
+clicks: 42
+dial:   93
+answer: 1076
+
+L14
+clicks: -14
+dial:   79
+answer: 1076
+
+end
+Final answer: 1076
