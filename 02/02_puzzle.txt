@@ -1,7 +1,7 @@
-Advent of Code[About][Events][Shop][Settings][Log Out]Scott Bakker 3*
-   $year=2025;[Calendar][AoC++][Sponsors][Leaderboards][Stats]
+Advent of Code[About][Events][Shop][Settings][Log Out]Scott Bakker 4*
+       y(2025)[Calendar][AoC++][Sponsors][Leaderboards][Stats]
 Our sponsors help make Advent of Code possible:
-Kilo Code - The fastest growing coding agent because it is open. #1 on OpenRouter. 500k+ Kilo Coders. 6.1T tokens per month. Try it today!
+Shopify - The North Pole's hiring? So are we! Build global commerce infrastructure, ship code that scales, and spread merchant joy year-round.
 --- Day 2: Gift Shop ---
 You get inside and take the elevator to its only other stop: the gift shop. "Thank you for visiting the North Pole!" gleefully exclaims a nearby sign. You aren't sure who is even allowed to visit the North Pole, but you know you can access the lobby through here, and from there you can access the rest of the North Pole base.
 
@@ -39,8 +39,6 @@ What do you get if you add up all of the invalid IDs?
 
 Your puzzle answer was 8576933996.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 The clerk quickly discovers that there are still invalid IDs in the ranges in your list. Maybe the young Elf was doing other silly patterns as well?
 
@@ -63,9 +61,12 @@ Adding up all the invalid IDs in this example produces 4174379265.
 
 What do you get if you add up all of the invalid IDs using these new rules?
 
-Answer: 
- 
+Your puzzle answer was 25663320831.
 
-Although it hasn't changed, you can still get your puzzle input.
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, you should return to your Advent calendar and try another puzzle.
+
+If you still want to see it, you can get your puzzle input.
 
 You can also [Share] this puzzle.

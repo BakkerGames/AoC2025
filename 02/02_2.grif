@@ -2,24 +2,31 @@
 background.intro
 	@if @isfalse(@get(value.introdone)) @then
 		@set(value.introdone,true)
-		@writeline("Welcome to AoC 2025 Day 2 Part 2")
+		@writeline("Welcome to ",@get(system.gametitle))
+		@nl
 	@endif
 command.?
 	@comment("get the input, a range of two values separated by -")
-	@writeline("Input = ",@get(input.full))
-	@comment("get the two values into a list separated by comma")
+	@comment("change to a list separated by commas")
 	@set(value.range,@replace(@get(input.full),"-",","))
 	@comment("output all the values in the range")
 	@for(i,@getlist(value.range,0),@getlist(value.range,1))
-		@comment("values are invalid if the first half equals the second half")
-		@if @eq(@mod(@len($i),2),0) @then
-			@set(value.first,@substring($i,0,@div(@len($i),2)))
-			@set(value.second,@substring($i,@div(@len($i),2)))
-			@if @eq(@get(value.first),@get(value.second)) @then
-				@writeline($i,": ",@get(value.first)," - ",@get(value.second)," - Invalid")
-				@addto(value.answer,$i)
+		@comment("values are invalid if they only consist of repeated strings")
+		@set(temp.found,false)
+		@for(x,1,@div(@len($i),2))
+			@if @false(@get(temp.found)) @then
+				@set(temp.sub,@substring($i,0,$x))
+				@set(temp.value,"")
+				@for(z,0,@sub(@div(@len($i),$x),1))
+					@set(temp.value,@concat(@get(temp.value),@get(temp.sub)))
+				@endfor
+				@if @false(@get(temp.found)) @and @eq($i,@get(temp.value)) @then
+					@set(temp.found,true)
+					@writeline($i," - Invalid")
+					@addto(value.answer,$i)
+				@endif
 			@endif
-		@endif
+		@endfor
 	@endfor
 	@nl
 command.end
@@ -27,6 +34,10 @@ command.end
 	@setoutchannel("#GAMEOVER;")
 message.invalid
 	Invalid input
+system.gamename
+	AoC_2025_2_2
+system.gametitle
+	Advent of Code 2025 - Day 2 - Puzzle 2
 value.answer
 	0
 value.introdone

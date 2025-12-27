@@ -2,12 +2,12 @@
 background.intro
 	@if @isfalse(@get(value.introdone)) @then
 		@set(value.introdone,true)
-		@writeline("Welcome to AoC 2025 Day 2 Part 1")
+		@writeline("Welcome to ",@get(system.gametitle))
+		@nl
 	@endif
 command.?
 	@comment("get the input, a range of two values separated by -")
-	@writeline("Input = ",@get(input.full))
-	@comment("get the two values into a list separated by comma")
+	@comment("change to a list separated by commas")
 	@set(value.range,@replace(@get(input.full),"-",","))
 	@comment("output all the values in the range")
 	@for(i,@getlist(value.range,0),@getlist(value.range,1))
@@ -27,6 +27,10 @@ command.end
 	@setoutchannel("#GAMEOVER;")
 message.invalid
 	Invalid input
+system.gamename
+	AoC2025_2_1
+system.gametitle
+	Advent of Code 2025 - Day 2 - Puzzle 1
 value.answer
 	0
 value.introdone
