@@ -1,0 +1,41 @@
+// 03_1.grif - GRIF format
+background.intro
+	@if @isfalse(@get(value.introdone)) @then
+		@set(value.introdone,true)
+		@writeline("Welcome to ",@get(system.gametitle))
+		@nl
+	@endif
+command.?
+	@writeline("Input = ",@get(input.full))
+	@set(temp.highest,0)
+	@for(x,0,@sub(@len(@get(input.full)),2))
+		@set(temp.char1,@substring(@get(input.full),$x,1))
+		@if @gt(@concat(@get(temp.char1),0),@get(temp.highest)) @then
+			@for(y,@add($x,1),@sub(@len(@get(input.full)),1))
+				@set(temp.char2,@substring(@get(input.full),$y,1))
+				@if @gt(@concat(@get(temp.char1),@get(temp.char2)),@get(temp.highest)) @then
+					@set(temp.highest,@concat(@get(temp.char1),@get(temp.char2)))
+					@writeline("New highest: ",@get(temp.highest))
+				@endif
+			@endfor
+		@endif
+	@endfor
+	@addto(value.answer,@get(temp.highest))
+	@nl
+command.end
+	@writeline("Final answer: ",@get(value.answer))
+	@setoutchannel("#GAMEOVER;")
+message.invalid
+	Invalid input
+system.dont_understand
+	I don't understand the word {0}.
+system.gamename
+	AoC_2025_03_1
+system.gametitle
+	Advent of Code 2025 - Day 03 - Puzzle 1
+value.answer
+	0
+value.introdone
+	false
+verb.end
+	end,quit,exit,done
